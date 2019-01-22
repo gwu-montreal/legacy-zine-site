@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Reg.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Reg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Italic.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Bold.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HKNova-MediumR";
+  src: url("./fonts/subset-HKNova-MediumR.woff2") format("woff2"),
+    url("./fonts/subset-HKNova-MediumR.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffe6dc;
+  font-family: "ProspectusS";
+  font-size: 18px;
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 960px;
+}
+
+@media (min-width: 960px) {
+  .fr {
+    float: right;
+  }
+
+  .fl {
+    float: left;
+  }
+}
+
+.clear {
+  clear: both;
+}
