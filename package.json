@@ -11,9 +11,9 @@
     "export": "react-static export",
     "serve": "serve dist -p 3000 -s",
     "test": "run-s -l test:*",
-    "test:ts": "tsc --noEmit",
+    "test:lint": "eslint ./src",
     "test:style": "stylelint 'src/**/*.css'",
-    "test:prettier": "prettier -c '{src,pages}/**/*'"
+    "test:prettier": "prettier -l '{src,pages}/**/*.{css,js}'"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
