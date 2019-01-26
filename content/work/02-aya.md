@@ -1,7 +1,8 @@
 ---
-name: aya
+name: Aya
 year: 2017
-tags: ["code", "design"]
+tags: ["Code", "Design"]
+images: ["aya1.png", "aya2.png", "aya1.png"]
 ---
 A work-in-progress VJ/DJ tool and visual creative environment, initially
 prototyped between April and July of 2017. Oriented towards immediate

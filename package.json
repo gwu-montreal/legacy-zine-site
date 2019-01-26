@@ -20,8 +20,9 @@
     "jdown": "^0.6.6",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-headroom": "^2.2.4",
+    "react-headroom": "github:tommyka/react-headroom#c3396e8",
     "react-hot-loader": "^4.3.12",
+    "react-images": "^0.5.19",
     "react-static": "^6.3.3"
   },
   "devDependencies": {

@@ -1,7 +1,8 @@
 ---
-name: seers
+name: The Seers Catalogue
 year: 2016
-tags: ["code", "play", "stories"]
+tags: ["Code", "Play", "Stories"]
+images: ["seers1.jpg", "seers2.jpg", "seers2.jpg"]
 ---
 Web-based atmospheric interactive fiction piece. A collaboration with Sean
 Michaels, Patrick McEown, and James Braithwaite, commissioned by the Banff
