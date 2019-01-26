@@ -24,8 +24,18 @@ const Entries = ({ entries }) => (
         <div
           style={
             i % 2 == 0
-              ? { marginLeft: 10, maxWidth: "50%", float: "right" }
-              : { marginRight: 10, maxWidth: "50%", float: "left" }
+              ? {
+                  maxWidth: "40%",
+                  paddingTop: 10,
+                  marginLeft: 30,
+                  float: "right"
+                }
+              : {
+                  maxWidth: "40%",
+                  paddingTop: 10,
+                  marginRight: 30,
+                  float: "left"
+                }
           }
         >
           <Gallery
@@ -41,7 +51,7 @@ const Entries = ({ entries }) => (
           <span className="entry-tags">{tags.join(" — ")}</span>
         </h3>
         <div dangerouslySetInnerHTML={{ __html: contents }} />
-        <div className="clear" />
+        <div className="clear" style={{ marginBottom: 30 }} />
       </div>
     ))}
   </div>
