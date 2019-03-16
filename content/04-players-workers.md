@@ -3,9 +3,9 @@
 ### When Gamer Rage Gets Harnessed to Discipline Workers
 
 > Sam [Dan's brother and Rockstar president] and I talk about this a lot, and
-> it's that games are still magical. It's like they're made by elves… You turn
-> on the screen and it's just this world that exists on TV. I think you gain
-> something by not knowing how they're made.
+> it's that games are still magical. **It's like they're made by elves…** You
+> turn on the screen and it's just this world that exists on TV. **I think you
+> gain something by not knowing how they're made**.
 
 [— Rockstar Games co-founder Dan Houser on the development of Red Dead
 Redemption
@@ -77,7 +77,7 @@ writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-a
 
 > "**As long as gamers direct their grievances at individual workers**,
 > videogame companies understand that they can use that dynamic **to shield
-> themselves from community criticism **while** using it as leverage** in
+> themselves from community criticism** while **using it as leverage** in
 > internal conflicts with employees. This has, for a long time, represented a
 > win-win for companies, ensuring not just the PR victory with their fans, but
 > also a deeply suppressed and compliant workforce, and an opaque shroud over

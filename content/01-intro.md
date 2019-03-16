@@ -74,10 +74,9 @@ Even in the tech sector (which historically has not been fertile ground for
 labour organizing) significant movements and actions are taking place. At
 Google, employees banded together to protest military AI contracts and
 [organized a walkout](https://twitter.com/GoogleWalkout) against sexual
-harassment and a culture hostile to marginalized
-people[4]{custom-style="Super"}. At Microsoft, workers are organizing against
-the use of their products for border policing and [the surveillance of
-journalists and
+harassment and a culture hostile to marginalized people. At Microsoft, workers
+are organizing against the use of their products for border policing and [the
+surveillance of journalists and
 activists](https://twitter.com/techworkersco/status/1103502027726995459) and
 [against the militarization of consumer technology like the
 Hololens](https://twitter.com/MsWorkers4) (which also concerns us, as many of
