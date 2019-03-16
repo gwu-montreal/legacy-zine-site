@@ -1,3 +1,7 @@
+---
+title: Get Indie?
+type: unionfaqs
+---
 **Unions aren't just for huge workplaces**. While unions might sound like a
 logical fit for large companies (say, ones where a multibillionaire boss you've
 never met can fire you while talking about how you haven't realized your "full

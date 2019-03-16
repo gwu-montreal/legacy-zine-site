@@ -1,5 +1,6 @@
-## Boss Fight Tips & Tricks
-
+---
+title: Boss Fight Tips & Tricks
+---
 ### Union-busting tactics to look out for
 
 As union talk continues to spread throughout the game industry, bosses who feel

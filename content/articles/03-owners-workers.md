@@ -1,5 +1,6 @@
-## Versus Mode: Owners vs. Workers
-
+---
+title: "Versus Mode: Owners vs. Workers"
+---
 The recent round of layoffs at Activision-Blizzard and elsewhere have made it
 all too clear that **game industry bosses are prioritizing short-term profit
 over the health and livelihoods of workers**. CEOs like Bobby Kotick are

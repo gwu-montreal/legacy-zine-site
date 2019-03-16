@@ -1,5 +1,7 @@
-# A History of Unrest?
-
+---
+title: A History of Unrest?
+type: unionfaqs
+---
 It's easy to forget that labour issues have been central to the business of
 making games from the very beginning. Easter eggs, now a widely-known phenomenon
 in games, initially emerged from issues around crediting and disputes between

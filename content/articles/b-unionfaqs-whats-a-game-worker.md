@@ -1,3 +1,7 @@
+---
+title: What's a Game Worker?
+type: unionfaqs
+---
 You may notice us using terms like "employee" and "worker" in this zine when
 we're not speaking about a specific trade (like "programmer" or "artist"). Why
 not just "game dev"? Isn't that simpler?

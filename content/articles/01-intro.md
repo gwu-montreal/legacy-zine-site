@@ -1,3 +1,6 @@
+---
+title: From the Desk of the Editors
+---
 ### **_Dear Reader…_**
 
 Welcome back to another thrilling issue of the **Game Workers Unite magazine**.

@@ -1,3 +1,7 @@
+---
+title: Below the (Grass)root
+type: unionfaqs
+---
 **What defines a union isn't the legal structure around it**. A union is a group
 of workers organizing together, regardless of whether or not they're a
 registered legal entity. If that's not always obvious today, it's because many

@@ -1,5 +1,6 @@
-## Players and Workers
-
+---
+title: Players and Workers
+---
 ### When Gamer Rage Gets Harnessed to Discipline Workers
 
 > Sam [Dan's brother and Rockstar president] and I talk about this a lot, and

@@ -1,5 +1,6 @@
-## What Can Unions Do to Help?
-
+---
+title: What Can Unions Do to Help?
+---
 A union is an organization of workers dedicated to **improving wages, hours, and
 working conditions** within their workplace or industry through collective
 bargaining. **Unions leverage the collective power of workers** to balance out

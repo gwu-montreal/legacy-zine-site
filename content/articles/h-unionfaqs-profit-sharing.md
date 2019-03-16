@@ -1,7 +1,7 @@
 ---
 title: Is Profit-Sharing What We Want?
+type: unionfaqs
 ---
-
 Many studios offer contracts to their employees that include some sort of
 "profit-sharing" scheme. This sounds nice at first glance: why wouldn't you want
 a share of the profits if the game you're working on does extremely well? The

@@ -1,5 +1,6 @@
-## Workers' Cooperatives: A New Way of Creating Commercial Games
-
+---
+title: Workers' Cooperatives: A New Way of Creating Commercial Games
+---
 ### No Bosses Required!
 
 Many workers in the game industry cope with the less-than-ideal working

@@ -3,28 +3,74 @@ import jdown from "jdown";
 import kebabCase from "just-kebab-case";
 import chokidar from "chokidar";
 
+import articleList from "./contents";
+
 chokidar.watch("content").on("all", () => reloadRoutes());
 
 export default {
   getSiteData: () => ({
-    title: "Game Workers Unite Zine - GDC 2019"
+    title: "Game Workers Unite Zine - GDC 2019",
+    articleList
   }),
   getRoutes: async () => {
     const { articles, extradata } = await jdown("content");
 
     const { openingStatement } = extradata;
 
-    const routes = Object.entries(articles).map(([filename, data]) => {
-      // re-kebab-case snakeCased filename and use it as slug if we don't have
-      // one explicitly defined
-      const slug = data.slug || kebabCase(filename);
-
-      return {
-        path: slug,
-        component: "src/containers/Article",
-        getData: () => data
-      };
+    const articlesByOriginalFilename = {};
+    Object.entries(articles).forEach(([filename, data]) => {
+      const originalFilename = kebabCase(filename);
+      articlesByOriginalFilename[originalFilename] = data;
     });
+
+    const routes = Object.entries(articlesByOriginalFilename)
+      .map(([filename, data]) => {
+        const articleIndex = articleList.indexOf(filename);
+        if (articleIndex === -1) {
+          console.warn(
+            `file found in articles but not in contents.js: ${filename}\nexcluding from routes.`
+          );
+
+          return null;
+        }
+
+        const slug = data.slug || filename;
+
+        // TODO: yeah this isn't dry or whatever, simplify later
+        const prevPage =
+          articleIndex > 0
+            ? {
+                route: "/" + articleList[articleIndex - 1],
+                name:
+                  articlesByOriginalFilename[articleList[articleIndex - 1]]
+                    .title
+              }
+            : null;
+
+        const nextPage =
+          articleIndex < articleList.length - 1
+            ? {
+                route: "/" + articleList[articleIndex + 1],
+                name:
+                  articlesByOriginalFilename[articleList[articleIndex + 1]]
+                    .title
+              }
+            : null;
+
+        return {
+          path: slug,
+          component:
+            data.type === "unionfaqs"
+              ? "src/containers/UnionFAQs"
+              : "src/containers/Article",
+          getData: () => ({
+            ...data,
+            prevPage,
+            nextPage
+          })
+        };
+      })
+      .filter(r => r); // filter nulls
 
     return [
       {

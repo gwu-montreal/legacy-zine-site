@@ -1,3 +1,7 @@
+---
+title: What Are Strikes?
+type: unionfaqs
+---
 The topic of striking will necessarily come up whenever unions are being
 discussed. The thing is, nobody really wants a strike to happen. Workers
 generally just want to be able to do their job in good conditions, while being
