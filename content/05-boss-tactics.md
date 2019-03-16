@@ -1,6 +1,4 @@
-::: {custom-style="HeaderColourBg"}
 ## Boss Fight Tips & Tricks
-:::
 
 ### Union-busting tactics to look out for
 
@@ -37,11 +35,12 @@ industry conferences or industry-oriented websites…
 Bosses often encourage workers to talk to them directly about workplace issues,
 insisting their "door is always open" and that no one will be reprimanded for
 sharing concerns. A well-worn tactic everywhere from the game industry to
-companies like Wal-Mart or Amazon[26]{custom-style="Super"}, this "open door
-policy" sounds harmless on the surface.
+companies like Wal-Mart or
+[Amazon](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201),
+this "open door policy" sounds harmless on the surface.
 
 In fact, **this is the number one way management maintains full control over
-information flow in the workplace **and ensure they are able to nip any seed of
+information flow in the workplace** and ensure they are able to nip any seed of
 organizing in the bud. They'll say they are here to help and are genuinely
 concerned about your well-being. But the catch is that **it's a way to ensure
 workers only ever interact with management alone** as isolated and disempowered
@@ -94,12 +93,13 @@ for owners to get around the legal obligations they owe to employees**. This is
 an especially common problem in sectors like QA. However, there is a growing
 number of unions that specialize in helping such workers fight for better
 conditions or gain full employee status. Recently, artists and lecturers
-(primarily women) at Britain's National Gallery won a case which confirmed that,
-because they were required to attend training sessions and were paid from the
-same source as noncontractual employees, they were not in fact self-employed.
-This meant they were entitled to the same benefits as so-called "permanent"
-employees.[27]{custom-style="Super"} **Remember that if you're hired to work for
-someone who makes a profit from selling what you produce, you can unionize**.
+(primarily women) at Britain's National Gallery [won a
+case](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)
+which confirmed that, because they were required to attend training sessions and
+were paid from the same source as noncontractual employees, they were not in
+fact self-employed. This meant they were entitled to the same benefits as
+so-called "permanent" employees. **Remember: if you're hired to work for someone
+who makes a profit from selling what you produce, you can unionize**.
 
 
 #### Threats of outsourcing and cuts
@@ -181,8 +181,9 @@ demands can in fact easily be met, but that it's really about punishing you "on
 principle" for standing up for your rights.
 
 During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
-notably used — and roundly criticized — in the _Life Is Strange_ prequel _Before
-the Storm_.[28]{custom-style="Super"}
+notably used — and [roundly
+criticized](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)
+— in the _Life Is Strange_ prequel _Before the Storm_.
 
 In order to work towards the long-term goal of a unionized game industry, it
 will be important to create a culture where taking a scab contract is treated as

@@ -1,6 +1,4 @@
-::: {custom-style="HeaderColourBg"}
 ## Strategy Guide: How to Start Organizing your Workplace
-:::
 
 Interested in organizing with your coworkers, but don't know where to start?
 Here are six simple steps to get you on your way to forming a union! **Make sure

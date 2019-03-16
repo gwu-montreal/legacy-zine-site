@@ -1,6 +1,4 @@
-::: {custom-style="HeaderColourBg"}
 ## Versus Mode: Owners vs. Workers
-:::
 
 The recent round of layoffs at Activision-Blizzard and elsewhere have made it
 all too clear that **game industry bosses are prioritizing short-term profit
@@ -29,14 +27,13 @@ money, and they buy shares because they want this money to grow into more money,
 without doing any work for it. (Creating this additional value does take work,
 but that work is done by workers like you and me, not by them.)
 
-::: {custom-style="Bigquote"}
 > Jorgensen says the shuttering [of Visceral] was **purely a business
 > decision..**. "You've got to cut the bridge when you realize you can't really
 > make a lot of money on something, so that's the decision we made."
 
-— Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral
-Studios' closure[20]{custom-style="Super"}
-:::
+— [Gamasutra speaking to EA CFO Blake
+Jorgensen](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
+on the reasons for Visceral Studios' closure
 
 The main way shareholders exercise control over corporations is through
 elections of the board of directors. Shareholders leverage the amount of voting

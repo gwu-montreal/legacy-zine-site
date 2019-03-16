@@ -1,6 +1,4 @@
-::: {custom-style="HeaderColourBg"}
 ## What Can Unions Do to Help?
-:::
 
 A union is an organization of workers dedicated to **improving wages, hours, and
 working conditions** within their workplace or industry through collective
@@ -41,8 +39,8 @@ collective agreements include some form of protection from layoffs by employers:
 > employers from laying off union workers and subcontracting out their jobs.
 >
 > Many CBAs require employers to "recall" or rehire laid-off workers once the
-> need for the layoff subsides (for example, when work picks up
-> again).[7]{custom-style="Super"}
+> need for the layoff subsides (for example, when work picks up again).
+> ([Source](https://www.lawyers.com/legal-info/labor-employment-law/employment-contracts/can-your-union-save-you-from-a-layoff.html))
 
 In an industry that often experiences cycles of hirings and layoffs as projects
 ramp up to full production, go gold, get cancelled, or change in scope, it's
@@ -57,15 +55,12 @@ wring people back into when they're no longer needed. But we know that
 
 ### Crunch
 
-::: {custom-style="Bigquote"}
 > In those days, Miyamoto would come to us at 11 PM, after he finished all of
-> his board-member work, and say, ["It's Mario
-> time."]{custom-style="Bigquote-Bold"} At that point, we'd start a planning
-> meeting that would run until 2 AM.
+> his board-member work, and say, **"It's Mario time."** At that point, we'd
+> start a planning meeting that would run until 2 AM.
 
-— Former Nintendo planner Motoi Okamoto on the development of Mario 64
-DS[8]{custom-style="Super"}
-:::
+— Former Nintendo planner Motoi Okamoto [on the development of Mario 64
+DS](https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341)
 
 Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games
 co-founder and boss Dan Houser proudly declared to New York Magazine that
@@ -79,8 +74,8 @@ Houser later retracted the statement, saying only the writing team was working
 those hours, and only during a period of a few weeks. But that only prompted
 backlash from current and former workers: some called out the obvious falsehood
 of the retraction and told stories of the immense pressure placed on them (one
-former worker noted "during the _GTA IV_ era, it was like working with a gun to
-your head, 7 days a week"[9]{custom-style="Super"}) while others were just
+former worker [noted](https://archive.fo/2M7CG) "during the _GTA IV_ era, it was
+like working with a gun to your head, 7 days a week") while others were just
 unhappy to have their backbreaking labour downplayed and denied by a studio
 head.
 
@@ -101,11 +96,14 @@ during development of that game a decade prior:
 > about. I mean that I literally had no memory of the events. To me it was like
 > it never happened. It was like he never visited. There was just an empty space
 > in my brain that had been overwritten by the stress and anxiety of Splinter
-> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**[10]{custom-style="Super"}
+> Cell. **Splinter Cell: Chaos Theory gave me brain damage.**
+> ([Source](https://clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html))
 
 Maybe Hocking got off easy. In 2016, a game developer at South Korean company
-Netmarble was acknowledged to have "died from a work-related cause" after
-putting in months of intense overtime[11]{custom-style="Super"}.
+Netmarble was
+[acknowledged](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
+to have "died from a work-related cause" after putting in months of intense
+overtime.
 
 Many in the game industry try to paint crunch as unavoidable, but we believe it
 is ultimately a story of poor planning and unreachable deadlines — and more
@@ -117,7 +115,6 @@ week**. This helps those already in the industry, but it also makes it more
 likely that employers will hire more people instead of cheating prospective
 workers out of a job by forcing too much work on existing employees.
 
-::: {custom-style="Bigquote"}
 > When in Bioware they said they had a three-month crunch, we laughed. During
 > the Witcher 3, a lot of people crunched for over a year — some of them for
 > three years.
@@ -129,8 +126,9 @@ workers out of a job by forcing too much work on existing employees.
 > wilder, even more chaotic. At that time, almost everybody in my team wanted to
 > leave.
 
-— CD Projekt Red developer on conditions at the studio[12]{custom-style="Super"}
-:::
+— CD Projekt Red developer [on conditions at the
+studio](https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/)
+
 
 ### Harassment
 
@@ -217,7 +215,8 @@ get noticed. If you're new to the games industry, you might believe that getting
 credited for your work on a game is a straightforward process. But that's not
 always the case. Rockstar, for example, is known for holding credits over
 workers' heads as a reward for finishing work on a game. As journalist Richard
-Moss wrote last year[14]{custom-style="Super"}:
+Moss [wrote last
+year](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php):
 
 > For studios, crediting can be a tool for leverage … [Rockstar] has long
 > maintained a policy of not crediting people who worked on a game unless they
@@ -227,9 +226,10 @@ Moss wrote last year[14]{custom-style="Super"}:
 This form of "encouragement" is not just manipulative, it hurts workers' ability
 to find future employment.
 
-Workers in other industries (such as film) have fought for and won the right to
-proper crediting through unions.[15]{custom-style="Super"} Unions can do the same for the games
-industry.
+Workers in other industries (such as film) have [fought for and
+won](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
+the right to proper crediting through unions. Unions can do the same for the
+games industry.
 
 
 ### Better Pay
@@ -240,11 +240,13 @@ leverage of an organized workforce, collective bargaining is a very effective
 way to make sure you're paid what you're worth. But **unions also benefit
 workers who are not unionized** by raising the bar for everyone. For example, a
 high school graduate whose workplace is _not_ unionized but who works in an
-industry that's 25% unionized overall **can still expect to be paid more** than
-similar workers in less unionized industries.[16]{custom-style="Super"}
+industry that's 25% unionized overall **can still [expect to be paid
+more](http://www.epi.org/publication/briefingpapers_bp143/)** than similar
+workers in less unionized industries.
 
 **Unions can also help reduce inequality**. While all workers benefit from
 having unions, those who benefit the most are typically the people who are the
 **most disempowered or in the most precarious positions**. On top of improving
 general working conditions for these folks, it also turns out solidarity is a
-great way to cut down the gendered pay gap.[17]{custom-style="Super"}
+great way to [cut down the gendered pay
+gap](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&).

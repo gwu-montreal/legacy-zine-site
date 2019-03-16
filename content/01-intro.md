@@ -18,22 +18,23 @@ September and October 2018 alone, **at least 800 game workers** lost their jobs.
 February 2019's toll stands at **at least 1000 lost jobs**. With the swift drop
 of an axe, the Firemonkeys layoffs singlehandedly shrank the Australian games
 industry workforce by 5% — just months after they extended an invitation to
-former Capcom and Telltale employees on Twitter noting they were
-hiring[1]{custom-style="Super"}. All in all, **thousands of industry jobs have
-been lost over the past year**.
+former Capcom and Telltale employees on Twitter [noting they were
+hiring](https://twitter.com/thefiremonkeys/status/1043333183268257792). All in
+all, **thousands of industry jobs have been lost over the past year**.
 
 Why are all these layoffs happening, you ask? Why, record-breaking revenues, of
 course! In a press release to investors the day layoffs started at Activision,
-CEO Bobby Kotick wrote: "While our financial results for 2018 were the **best in
-our history**, we didn't realize our full potential."[2]{custom-style="Super"}
-(_Full potential_? Seriously? He sounds like a parent disowning their child for
-getting perfect grades and an inbox full of scholarship offers. We'd also be
-remiss to fail to note that Kotick himself is one of the highest-paid CEOs — not
-just in the games industry, not just in tech, not just in America, but
-everywhere, of all time.) Elsewhere, Telltale's fall from massive critical and
-commercial success, widely attributed to routine mismanagement and nearsighted
-pursuit of profit on the part of its shareholders, is by now
-well-documented[3]{custom-style="Super"}.
+CEO Bobby Kotick
+[wrote](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288):
+"While our financial results for 2018 were the **best in our history**, we
+didn't realize our full potential." (_Full potential_? Seriously? He sounds like
+a parent disowning their child for getting perfect grades and an inbox full of
+scholarship offers. We'd also be remiss to fail to note that Kotick himself is
+one of the highest-paid CEOs — not just in the games industry, not just in tech,
+not just in America, but everywhere, of all time.) Elsewhere, Telltale's fall
+from massive critical and commercial success, widely attributed to routine
+mismanagement and nearsighted pursuit of profit on the part of its shareholders,
+is by now [well-documented](https://www.youtube.com/watch?v=2VR7Hl6SuXE).
 
 It's been a rough, scary year for those of us working in the industry, and signs
 don't point to things getting better anytime soon. **But we're starting to fight
@@ -71,15 +72,18 @@ and solidarity actions across North America and around the globe.
 
 Even in the tech sector (which historically has not been fertile ground for
 labour organizing) significant movements and actions are taking place. At
-Google, employees banded together to protest military AI contracts and organized
-a walkout against sexual harassment and a culture hostile to marginalized
+Google, employees banded together to protest military AI contracts and
+[organized a walkout](https://twitter.com/GoogleWalkout) against sexual
+harassment and a culture hostile to marginalized
 people[4]{custom-style="Super"}. At Microsoft, workers are organizing against
-the use of their products for border policing and the surveillance of
-journalists and activists[5]{custom-style="Super"} and against the
-militarization of consumer technology like the Hololens[6]{custom-style="Super"}
-(which also concerns us, as many of these technologies are also developed for or
-used in games). Groups like Tech Workers Coalition are gaining traction as they
-support these struggles, and others, across their industry.
+the use of their products for border policing and [the surveillance of
+journalists and
+activists](https://twitter.com/techworkersco/status/1103502027726995459) and
+[against the militarization of consumer technology like the
+Hololens](https://twitter.com/MsWorkers4) (which also concerns us, as many of
+these technologies are also developed for or used in games). Groups like Tech
+Workers Coalition are gaining traction as they support these struggles, and
+others, across their industry.
 
 Meanwhile, an international wave of strikes in education, healthcare,
 hospitality, transportation, and many other industries showcased the scale and

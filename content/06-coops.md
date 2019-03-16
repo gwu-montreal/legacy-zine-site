@@ -1,6 +1,4 @@
-::: {custom-style="HeaderColourBg"}
 ## Workers' Cooperatives: A New Way of Creating Commercial Games
-:::
 
 ### No Bosses Required!
 
@@ -50,7 +48,7 @@ actuality they're nothing more than cartels of bosses; employees have no say in
 how they are run. (In the Québec game industry, for instance, a group called _La
 Guilde_ has gotten significant media attention and funding and now proudly
 claims to be the "largest cooperative in this industry in the
-world."[30]{custom-style="Super"}) This can get pretty confusing and might be
+world.") This can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
 business model.

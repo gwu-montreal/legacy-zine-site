@@ -1,4 +1,3 @@
-::: {custom-style="UnionFAQs"}
 Even if you don't work in the game industry yourself, there are still lots of
 other ways you can support organizing efforts:
 
@@ -22,4 +21,4 @@ other ways you can support organizing efforts:
    efforts! We actively encourage players, academics, and anyone who wants to
    improve conditions in the industry to engage in the community and help us
    succeed.
-:::
+
