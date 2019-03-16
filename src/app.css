@@ -119,7 +119,7 @@ h4 {
 
 .headroom {
   transition: box-shadow 0.5s ease-out;
-  background-color: #ffe6dc;
+  background-color: #eee;
 }
 
 .headroom--pinned {

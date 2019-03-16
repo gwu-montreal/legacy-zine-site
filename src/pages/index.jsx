@@ -1,11 +1,7 @@
 import React from "react";
 import { withRouteData } from "react-static";
 
-import Gallery from "../containers/gallery";
-
 import "./index.css";
-
-import headerText from "../images/header-text.svg";
 
 const Tags = ({ tags }) => (
   <div className="tags flex">
@@ -19,7 +15,7 @@ const Tags = ({ tags }) => (
 
 const Entries = ({ entries }) => (
   <div>
-    {entries.map(({ name, year, tags, images, contents }, i) => (
+    {entries.map(({ name, year, tags, contents }, i) => (
       <div className="entry" key={name}>
         <div
           style={
@@ -38,12 +34,7 @@ const Entries = ({ entries }) => (
                 }
           }
         >
-          <Gallery
-            images={images.map((img, j) => ({
-              src: `images/${img}`,
-              big: j == 0
-            }))}
-          />
+          there was a gallery here
         </div>
         <h2>{name}</h2>
         <h3>
@@ -60,9 +51,7 @@ const Entries = ({ entries }) => (
 export default withRouteData(({ entries, tags: allTags }) => (
   <div>
     <div className="hero-work flex-wrap">
-      <div className="flex tc">
-        <img src={headerText} />
-      </div>
+      <div className="flex tc">there was a header here</div>
       <Tags tags={allTags} />
     </div>
     <h1 className="header-work">Work</h1>

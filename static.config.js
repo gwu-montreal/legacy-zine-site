@@ -6,7 +6,7 @@ chokidar.watch("content").on("all", () => reloadRoutes());
 
 export default {
   getSiteData: () => ({
-    title: "six ash folio"
+    title: "Game Workers Unite GDC 2019 Zine"
   }),
   getRoutes: async () => {
     const { about, work } = await jdown("content");
