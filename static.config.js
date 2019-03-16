@@ -21,6 +21,7 @@ export default {
 
       return {
         path: slug,
+        component: "src/containers/Article",
         getData: () => data
       };
     });
