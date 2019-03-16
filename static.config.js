@@ -1,40 +1,39 @@
 import { reloadRoutes } from "react-static/node";
 import jdown from "jdown";
+import kebabCase from "just-kebab-case";
 import chokidar from "chokidar";
 
 chokidar.watch("content").on("all", () => reloadRoutes());
 
 export default {
   getSiteData: () => ({
-    title: "Game Workers Unite GDC 2019 Zine"
+    title: "Game Workers Unite Zine - GDC 2019"
   }),
   getRoutes: async () => {
-    const { about, work } = await jdown("content");
+    const { articles, extradata } = await jdown("content");
 
-    const entries = Object.values(work);
+    const { openingStatement } = extradata;
 
-    // Gather tags and count
-    const tags = {};
-    entries.forEach(entry => {
-      if (entry.tags) {
-        entry.tags.forEach(tag => (tags[tag] = (tags[tag] || 0) + 1));
-      }
+    const routes = Object.entries(articles).map(([filename, data]) => {
+      // re-kebab-case snakeCased filename and use it as slug if we don't have
+      // one explicitly defined
+      const slug = data.slug || kebabCase(filename);
+
+      return {
+        path: slug,
+        getData: () => data
+      };
     });
 
     return [
       {
         path: "/",
         getData: () => ({
-          entries,
-          tags
+          openingStatement,
+          routes: routes.map(r => r.path)
         })
       },
-      {
-        path: "/about",
-        getData: () => ({
-          ...about
-        })
-      }
+      ...routes
     ];
   }
 };

@@ -1,3 +1,7 @@
+---
+title: Not in the Industry?
+---
+
 Even if you don't work in the game industry yourself, there are still lots of
 other ways you can support organizing efforts:
 

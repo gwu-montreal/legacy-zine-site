@@ -4,3 +4,5 @@
 
 - crunch/simplify svgs
 - add other images
+- if we want to use transparent isabelle image at large scale in intro, should
+  probably use jpg+svg masking instead of png

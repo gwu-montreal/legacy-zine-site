@@ -1,3 +1,6 @@
+---
+title: Craft Unions, Industrial Unions… What’s the Difference?
+---
 There is more than a single strategy for unionization. Lots of
 existing unions take the approach of representing workers who are all part of a
 specific craft or trade, across multiple industries. This is the case of
