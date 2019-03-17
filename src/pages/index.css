@@ -6,6 +6,12 @@
   margin-bottom: 1.6rem;
 }
 
+.intro-image {
+  margin-left: 15px;
+  float: right;
+  max-width: 40%;
+}
+
 img.float-left {
   float: left;
   margin-right: 10px;

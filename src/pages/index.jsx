@@ -7,6 +7,7 @@ import "./index.css";
 
 export default withRouteData(({ openingStatement }) => (
   <div className="intro-container">
+    <img className="intro-image" src="images/isabelle-clearbg.png" />
     <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
     <TableOfContents />
   </div>
