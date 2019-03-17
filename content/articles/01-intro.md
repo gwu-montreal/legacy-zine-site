@@ -73,6 +73,13 @@ strike, where inmates demanded an end to prison slavery, dehumanizing
 conditions, and racial discrimination, saw participation in at least 17 states
 and solidarity actions across North America and around the globe.
 
+<img
+  class="float-right"
+  src="/images/candle.svg"
+  alt="Candle"
+  style="max-width: 50%"
+/>
+
 Even in the tech sector (which historically has not been fertile ground for
 labour organizing) significant movements and actions are taking place. At
 Google, employees banded together to protest military AI contracts and
@@ -86,8 +93,6 @@ Hololens](https://twitter.com/MsWorkers4) (which also concerns us, as many of
 these technologies are also developed for or used in games). Groups like Tech
 Workers Coalition are gaining traction as they support these struggles, and
 others, across their industry.
-
-<img src="/images/candle.svg" alt="Candle" style="max-width: 50%;"/>
 
 Meanwhile, an international wave of strikes in education, healthcare,
 hospitality, transportation, and many other industries showcased the scale and
