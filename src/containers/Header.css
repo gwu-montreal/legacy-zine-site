@@ -1,9 +1,8 @@
 .header-logo-image {
   max-height: 3.5rem;
-}
-
-.header-after-logo {
-  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .head {
