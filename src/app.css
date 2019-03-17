@@ -93,35 +93,3 @@ h4 {
   font-family: "HKNova-MediumR";
   font-weight: normal;
 }
-
-.head {
-  min-height: 4rem;
-  display: flex;
-  align-items: center;
-}
-
-.head a {
-  font-size: 1.5rem;
-  text-decoration: none;
-}
-
-.head-right {
-  margin-left: auto;
-}
-
-.head-right a {
-  margin-left: 2rem;
-}
-
-.headroom-wrapper {
-  margin-bottom: 50px;
-}
-
-.headroom {
-  transition: box-shadow 0.5s ease-out;
-  background-color: #eee;
-}
-
-.headroom--pinned {
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
-}
