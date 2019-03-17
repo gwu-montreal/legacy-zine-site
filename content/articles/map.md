@@ -1,4 +1,4 @@
 ---
-title: Get Involved in Your Local Chapter!
+title: Chapters and Members Around the World
 type: map
 ---

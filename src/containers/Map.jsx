@@ -58,6 +58,9 @@ class Map extends React.Component {
               onChange={this.handleZoom}
             />
           </label>
+          <p style={{ textAlign: 'center', fontSize: '1.4rem' }}>
+            Find your local chapter and get involved!
+          </p>
         </div>
         <Footer prevPage={prevPage} nextPage={nextPage} />
       </div>
