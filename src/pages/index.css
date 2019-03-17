@@ -1,31 +1,7 @@
-/* .big-name {
-  font-family: "HKNova-MediumR";
-  font-size: 60px;
-} */
-
-.hero-work {
-  margin-bottom: 50px;
-}
-
-.header-work {
-  font-size: 3rem;
-  line-height: 2;
-}
-
-.tags {
-  font-size: 3rem;
-  line-height: 1.2;
-}
-
-.tags sup {
-  font-size: 2rem;
-}
-
-.entry h2 {
-  font-size: 2rem;
-  margin-bottom: 0;
-}
-
-.entry-year {
-  margin-right: 30px;
+.intro-container h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-bottom: 1.6rem;
 }
