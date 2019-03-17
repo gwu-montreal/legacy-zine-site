@@ -44,3 +44,9 @@ things are important to remember:
    position to support organizing efforts among the workers who are struggling
    the most. **"Having it good already" is not an excuse to not unionize.**
 
+<div class="md-img">
+<img
+ src="/images/faqs/grim_workerbees.png"
+ alt="Screenshot from Grim Fandango: Who will stop the fat cats of industry from building these ships with the pollen of the exploited working class?"
+/>
+</div>

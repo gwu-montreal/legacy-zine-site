@@ -16,6 +16,13 @@ introduced an additional room to the game, carefully hiding it behind a
 convoluted series of tasks so that it wouldn't be discovered until after
 release, that would display the words "Created by Warren Robinett."
 
+<div class="md-img">
+<img
+  src="/images/faqs/adventure.png"
+  alt="Screenshot from Adventure"
+/>
+</div>
+
 When the Easter egg was discovered by Atari, Robinett had already left the
 company, but that didn't stop them from devoting development resources to
 uncovering the offending code. However, Brad Stewart, the Atari employee who
@@ -34,3 +41,13 @@ enemy](https://twitter.com/SimplyRagny/status/1058198479707820032), a message is
 shown written by the translator themself: "This translation is killing me. It's
 almost 2 in the morning. I'm tired!!!! I'm tired!!!!"
 
+<div class="md-img">
+<img
+  src="/images/faqs/ff8en.png"
+  alt="Screenshot from Final Fantasy 8 in English"
+/>
+<img
+  src="/images/faqs/ff8it.png"
+  alt="The text from Final Fantasy 8 in Italian"
+/>
+</div>

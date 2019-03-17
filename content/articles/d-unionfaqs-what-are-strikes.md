@@ -21,3 +21,9 @@ better solution, but the important thing to remember is that without the
 potential to call a strike as a last-resort measure, workers would have no real
 leverage with bosses, and bosses would have no reason to take them seriously.
 
+<div class="md-img">
+<img
+  src="/images/faqs/nitw_picket.png"
+  alt="Screenshot from Night in the Woods: You come down and picket with us if we walk out?"
+/>
+</div>

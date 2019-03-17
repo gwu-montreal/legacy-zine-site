@@ -36,6 +36,13 @@ remain Microsoft employees for another six months.)
 > decision. Morale plummeted. "People felt like the world was coming to an
 > end." ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
 
+<div class="md-img right">
+<img
+  src="/images/faqs/wario.png"
+  alt="Screenshot from Warioware: Mona! I need your help. What's it pay? Uh, hold on... Crzzsh. Crzzsh! I can't hear you. You're breaking up!?"
+/>
+</div>
+
 There are many more untold stories in the indie scene of folks who join a small
 startup and accept to be paid less than they're worth because they really
 believe in the project — only to receive nothing after the game makes it big and
@@ -65,4 +72,3 @@ ownership? Transitioning to a cooperative model is a great way to ensure
 everyone at a company benefits from their successes and hard work. And if you're
 thinking of starting a new studio yourself, forming a worker cooperative is a
 great way to bake in those values right from the start.
-
