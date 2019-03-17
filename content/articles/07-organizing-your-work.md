@@ -26,8 +26,14 @@ employers, even if you think they're sympathetic to your cause.**
    guide your co-workers towards seeing collective action as a solution to their
    problems, by asking questions and listening to their answers. Open-ended
    questions like "Who else feels this way?" and "What would happen if…" are
-   useful. **Always be honest! **Don't oversell what's possible, and don't
+   useful. **Always be honest!** Don't oversell what's possible, and don't
    minimize the potential dangers.
+<div class="md-img right">
+<img
+src="/images/mgs.png"
+alt="Snake, you can't just start talking about unionizing in the open. If Big Boss finds out, you're going to be in trouble. You have to be sneaky about it!"
+/>
+</div>
 4. **Organize a first action** to solve a simple, achievable problem. You don't
    need the whole office on board! Start with 10% of your coworkers, and target
    something concrete and achievable: demanding free coffee, or complaining to

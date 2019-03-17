@@ -54,6 +54,13 @@ worth highlighting, especially when discussing the possibility of starting a
 workers' co-op with fellow game workers who might never have heard of that
 business model.
 
+<div class="md-img">
+<img
+  src="/images/eb-capitalism.png"
+  alt="You guys can't envision the final collapse of capitalism? incredible!"
+/>
+</div>
+
 **So how do you go about starting a workers' cooperative?** Game
 Workers Unite is here to help, and can put you in touch with the legal
 assistance you need to found such a business with your fellow workers!

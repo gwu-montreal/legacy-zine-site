@@ -73,11 +73,12 @@ strike, where inmates demanded an end to prison slavery, dehumanizing
 conditions, and racial discrimination, saw participation in at least 17 states
 and solidarity actions across North America and around the globe.
 
+<div class="md-img right off-5">
 <img
-  class="md-img-right"
   src="/images/candle.svg"
   alt="Candle"
 />
+</div>
 
 Even in the tech sector (which historically has not been fertile ground for
 labour organizing) significant movements and actions are taking place. At

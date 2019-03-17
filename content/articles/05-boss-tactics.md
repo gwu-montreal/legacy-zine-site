@@ -30,6 +30,13 @@ Note also that when it comes to the topic of unionizing, managers will often
 repeat these talking points on any platform they have access to, such as game
 industry conferences or industry-oriented websites…
 
+<div class="md-img">
+<img
+  src="/images/eb-text.png"
+  alt="Houser Bros held a Captive Audience Meeting! Audre fell asleep!"
+/>
+</div>
+
 
 #### The "Open Door" Policy
 
@@ -127,6 +134,13 @@ in nature and in solidarity with fellow workers all around the world!
 
 #### The "Guilt Trip"
 
+<div class="md-img right off-1">
+<img
+  src="/images/baby_bowser.png"
+  alt="Baby Bowser"
+/>
+</div>
+
 Some owners, especially those who think of themselves as "good bosses" and
 maintain a lot of contact with their employees, might react to unionizing
 efforts by taking it extremely personally. **Those bosses will try to make you
@@ -169,6 +183,13 @@ French game workers' union).
 
 
 #### Scab Labour
+
+<div class="md-img right off-6">
+<img
+  src="/images/plague-rat.png"
+  alt="Plague Rat of Doom"
+/>
+</div>
 
 One of the dirtiest tricks a boss can employ, **"scabs" are people who, as
 workers themselves and thus potential members of a union, receive special

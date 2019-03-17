@@ -12,6 +12,13 @@ expense of workers. Why does this keep happening? To better understand it, we
 need to look past the PR and into how the ownership of these companies is
 structured, where the profits go, and where decision-making power actually lies.
 
+<div class="md-img left off-1">
+<img
+  src="/images/zelda.png"
+  alt="It's dangerous to go alone! Organize!"
+/>
+</div>
+
 **Any business is above all made up of its workers**: they are the ones who are
 actually producing what the business sells, and whose labour is the source of
 its profits. But who do these profits go to? Not to them, but rather to those
@@ -40,8 +47,8 @@ The main way shareholders exercise control over corporations is through
 elections of the board of directors. Shareholders leverage the amount of voting
 shares they have to influence board elections, making the board directly
 accountable to them. Executive officers like the CEO are appointed by the board
-of directors, directly linking management, the board, and shareholders.**
-**Management ultimately only answers to the board of directors, and the board of
+of directors, directly linking management, the board, and shareholders.
+Management ultimately only answers to the board of directors, and the board of
 directors answers to shareholders and shareholders only.  **They have no
 accountability to the workers.**
 
@@ -69,16 +76,18 @@ owners at the expense of the rest of us.
 This is why we also typically see share value increase after every round of
 layoffs, as happened recently with Activision Blizzard: when mass layoffs get
 announced, management is sending a message to shareholders that they are willing
-
-<img src="/images/skeleton.svg" alt="Skeleton in bathtub" class="md-img-right" />
-
 to do what it takes to ensure ever-increasing profits **no matter what**, and
 this makes company shares more attractive on the market. Shareholders are
 thrilled! They get richer, and the rest of us get poorer. That's why the
 decision is made in the first place, not out of any real necessity, despite how
 they try to spin it to the workers.
 
-—
+<div class="md-img off-2">
+<img
+  src="/images/skeleton.svg"
+  alt="Skeleton in bathtub"
+/>
+</div>
 
 It's not a question of "good bosses" vs "bad bosses." **Workers and owners have
 fundamentally different interests.** Most of the things that benefit workers —
@@ -99,7 +108,12 @@ and bosses don't actually care about making the best game possible**. Their
 first priority is to make money — and right now they're the ones calling the
 shots, without any accountability to the people _actually making the game_.
 
-<img src="/images/turnleft.svg" alt="Turn Left sign" class="md-img-right" />
+<div class="md-img right">
+<img
+  src="/images/turnleft.svg"
+  alt="Turn Left sign"
+/>
+</div>
 
 But it doesn't have to be this way! Workers have the potential power to change
 this dynamic and to force the businesses they work for to take their best
@@ -120,5 +134,3 @@ to do: they are businesses with no external shareholders that are entirely and
 collectively owned by all the workers who work there themselves, allowing them
 to earn the full benefit of their labour. (Check the section on worker co-ops
 later in the zine!)
-
-

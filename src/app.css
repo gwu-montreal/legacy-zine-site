@@ -96,16 +96,45 @@ h4 {
 
 /* classes for images in markdown files */
 
-.md-img-left {
-  max-width: 40%;
-  max-height: 400px;
+.md-img { text-align: center; }
+
+.md-img::before {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: var(--offset);
+    margin-right: 1px;
+}
+
+.md-img.left::before { float: left; }
+.md-img.right::before { float: right; }
+
+.md-img.off-1::before { height: 1em; }
+.md-img.off-2::before { height: 2em; }
+.md-img.off-3::before { height: 3em; }
+.md-img.off-4::before { height: 4em; }
+.md-img.off-5::before { height: 5em; }
+.md-img.off-6::before { height: 6em; }
+.md-img.off-7::before { height: 7em; }
+.md-img.off-8::before { height: 8em; }
+.md-img.off-9::before { height: 9em; }
+.md-img.off-10::before { height: 10em; }
+
+.md-img img {
+    max-width: 40%;
+    max-height: 400px;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.md-img.left img {
   float: left;
+  margin-top: 10px;
   margin-right: 20px;
 }
 
-.md-img-right {
-  max-width: 40%;
-  max-height: 400px;
+.md-img.right img {
   float: right;
+  margin-top: 10px;
   margin-left: 20px;
 }

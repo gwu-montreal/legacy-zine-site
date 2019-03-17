@@ -12,6 +12,13 @@ title: Players and Workers
 Redemption
 2](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
 
+<div class="md-img left off-8">
+<img
+  src="/images/ecco.png"
+  alt="An injury to one is an injury to all"
+/>
+</div>
+
 There's no real reason why workers and consumers should have different interests
 or be at odds with one another. It sounds absurd when you think about it: many
 workers take a great deal of pride and personal satisfaction from making games
@@ -47,6 +54,13 @@ and [the dismissal of Alison Rapp from Nintendo in
 Look a little closer and you'll discover these aren't isolated cases: in private
 conversation, in whisper networks, **incidents like these are all too common**.
 
+<div class="md-img right off-8">
+<img
+  src="/images/poison.svg"
+  alt="Poison bottle"
+/>
+</div>
+
 Giving in to demands from angry, reactionary gamers is a convenient excuse for
 bosses to get rid of "troublesome" workers — like, say, someone speaking out
 about sexism and racism in their workplace. **Many game industry bosses see
@@ -55,8 +69,6 @@ who work for them.** (THQ Nordic recently reminded us of this by choosing to do
 a marketing Q&A on 8chan, a website known for harboring Nazis, enabling the
 spread of child porn, and playing a leading role in massive hate campaigns
 targeted against marginalized game workers.)
-
-<img src="/images/poison.svg" alt="Poison" class="md-img-right" />
 
 In these situations, management will often pretend to have the best interests of
 workers in mind even as they systematically yield to the slightest strain and
@@ -87,6 +99,13 @@ writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-a
 > the industry's internal workings. That shroud, however, seems to be starting
 > to clear."
 
+<div class="md-img left off-8">
+<img
+  src="/images/gamecube.svg"
+  alt="Gamecube"
+/>
+</div>
+
 This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
 Warner Bros, Take-Two, and others [launched a
 website](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
@@ -97,8 +116,6 @@ coordination (for motion capture), an improved structure for bonus payments,
 better transparency, and employment mobility. **In a blatant effort to direct
 fan rage at the workers**, bosses argued that these demands would somehow lead
 to worse games for consumers.
-
-<img src="/images/gamecube.svg" alt="Gamecube" class="md-img-right" />
 
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
@@ -113,4 +130,3 @@ vulnerable employees that are easily scapegoated. But for this to mean anything,
 dollars"** and to buy more from the "good companies" and less from the bad ones.
 Player support for unionization will go much farther towards crafting a better
 industry.
-
