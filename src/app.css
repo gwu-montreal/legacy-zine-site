@@ -52,6 +52,15 @@ a {
   padding: 0 10px;
 }
 
+.page {
+    margin-bottom: 20px;
+    padding: 50px;
+    background: rgb(252, 252, 254);
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+.page-content > *:last-child { margin-bottom: 0; }
+
 @media (min-width: 808px) {
   .container {
     width: 800px;
