@@ -52,9 +52,9 @@ a {
   padding: 0 10px;
 }
 
-@media (min-width: 968px) {
+@media (min-width: 808px) {
   .container {
-    width: 960px;
+    width: 800px;
   }
 
   .fr {

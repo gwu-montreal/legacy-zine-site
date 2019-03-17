@@ -8,7 +8,13 @@ export default () => {
       >
         Download the Zine!
       </h2>
-      <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          flexWrap: 'wrap'
+        }}
+      >
         <a
           style={{ width: 180 }}
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf"
