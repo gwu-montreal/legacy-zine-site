@@ -160,7 +160,7 @@ have unilateral power to make or break an employee's career, and therefore
 reduce harassment**. Since harassment is often tied to discrimination and a lack
 of diversity in the workplace, measures that increase diversity such as fairer
 hiring practices, wage equity, or more comprehensive health benefits, can also
-be a way to curb harassment.[13]{custom-style="Super"}
+be a way to curb harassment.
 
 Marginalized workers, who are more likely to be the targets of harassment, are
 **already organizing** in many workplaces through whisper networks and informal
