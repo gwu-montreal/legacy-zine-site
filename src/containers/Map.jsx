@@ -4,6 +4,8 @@ import { withRouteData } from "react-static";
 
 import Footer from "./Footer";
 
+import "./Map.css";
+
 window.WORLD_110M_JSON_PATH = '/world-110m.json';
 window.WORLD_50M_JSON_PATH = '/world-50m.json';
 
@@ -11,7 +13,7 @@ class Map extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      zoom: 1
+      zoom: 0.9
     };
     this.handleZoom = this.handleZoom.bind(this);
   }
@@ -25,23 +27,24 @@ class Map extends React.Component {
   render() {
     const { title, contents, prevPage, nextPage } = this.props;
     return (
-      <div>
+      <div style={{ width: '100%' }}>
         <h3>{title}</h3>
         <div
           style={{
             display: 'flex',
             flexDirection: 'column',
-            alignItems: 'center'
+            alignItems: 'center',
+            width: '100%'
           }}
         >
           <ChapterMap
             className="chapter_map"
-            centerLat={0}
-            centerLng={0}
-            height={551}
+            centerLat={18}
+            centerLng={13}
+            height={450}
             markerScale={0.075}
             scale={205}
-            width={980}
+            width={780}
             enablePanning
             zoom={this.state.zoom}
           />
