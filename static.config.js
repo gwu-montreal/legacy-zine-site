@@ -78,10 +78,17 @@ export default {
 
         return {
           path: slug,
-          component:
-            data.type === "unionfaqs"
-              ? "src/containers/UnionFAQs"
-              : "src/containers/Article",
+          component: (() => {
+            switch (data.type) {
+              case "unionfaqs":
+                return "src/containers/UnionFAQs";
+              case "map":
+                return "src/containers/Map";
+              case "article":
+              default:
+                return "src/containers/Article";
+            }
+          })(),
           getData: () => ({
             ...data,
             prevPage,

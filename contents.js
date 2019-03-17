@@ -13,5 +13,6 @@ export default [
   "06-coops",
   "g-unionfaqs-craft-industrial-unionism",
   "07-organizing-your-work",
-  "i-unionfaqs-ally-get-involved"
+  "i-unionfaqs-ally-get-involved",
+  "map"
 ];

@@ -9,8 +9,16 @@ export default withSiteData(({ tableOfContents }) => (
     <Location>
       {({ location }) =>
         tableOfContents.map(({ route, title, articleType }) => {
-          const linkText =
-            articleType === "unionfaqs" ? `UnionFAQs: ${title}` : title;
+          const linkText = (() => {
+            switch (articleType) {
+              case "unionfaqs":
+                return `UnionFAQs: ${title}`;
+              case "map":
+              case "article":
+              default:
+                return title;
+            }
+          })();
 
           return (
             <span className="table-of-contents-item" key={route}>
