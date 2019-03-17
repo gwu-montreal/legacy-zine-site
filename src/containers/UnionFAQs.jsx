@@ -11,7 +11,8 @@ export default withRouteData(({ title, contents, prevPage, nextPage }) => (
     <Head title={`GWU GDC 2019 Zine - ${title}`} />
 
     <div className="page unionfaqs-container">
-      <h3>UNIONFAQS: {title}</h3>
+      <h1 className="unionfaqs-header">UnionFAQs</h1>
+      <h2>{title}</h2>
       <div
         className="page-content unionfaqs-container-body"
         dangerouslySetInnerHTML={{ __html: contents }}
