@@ -205,7 +205,7 @@ principle" for standing up for your rights.
 During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
 notably used — and [roundly
 criticized](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)
-— in the _Life Is Strange_ prequel _Before the Storm_.
+— in the *Life Is Strange* prequel *Before the Storm*.
 
 In order to work towards the long-term goal of a unionized game industry, it
 will be important to create a culture where taking a scab contract is treated as

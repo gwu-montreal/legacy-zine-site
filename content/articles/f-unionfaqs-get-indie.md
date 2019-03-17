@@ -16,10 +16,10 @@ Again, organizing with your coworkers can help give you leverage against these
 kinds of abuses.
 
 Another way of looking at it is that organizing can simply help better reflect
-_who's actually doing the work_ at your job. Even if small business owners may
+*who's actually doing the work* at your job. Even if small business owners may
 wear many hats or work alongside you, they usually have disproportionate
 decision-making power or the ability to veto whatever they choose, because
-_they're the boss_. If game development really is a team effort, *why shouldn't
+*they're the boss*. If game development really is a team effort, *why shouldn't
 we be guaranteed a hand in steering the ship*?
 
 Unionizing now also means you'll be prepared in case of a change of management,
@@ -66,7 +66,7 @@ there's an unacknowledged power dynamic.
 > opportunity to protest, argue, fight, be adversarial and demand more of their
 > working conditions."
 
-If your boss _really really_ means it when they say
+If your boss *really really* means it when they say
 they're sympathetic and want everyone to be equal, why not push for collective
 ownership? Transitioning to a cooperative model is a great way to ensure
 everyone at a company benefits from their successes and hard work. And if you're

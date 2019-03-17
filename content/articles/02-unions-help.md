@@ -81,7 +81,7 @@ Houser later retracted the statement, saying only the writing team was working
 those hours, and only during a period of a few weeks. But that only prompted
 backlash from current and former workers: some called out the obvious falsehood
 of the retraction and told stories of the immense pressure placed on them (one
-former worker [noted](https://archive.fo/2M7CG) "during the _GTA IV_ era, it was
+former worker [noted](https://archive.fo/2M7CG) "during the *GTA IV* era, it was
 like working with a gun to your head, 7 days a week") while others were just
 unhappy to have their backbreaking labour downplayed and denied by a studio
 head.
@@ -89,7 +89,7 @@ head.
 Houser and others seem to think that crunch is a sign of dedication and passion
 and speaks to the quality of their game. **But crunch is abusive**. It can go on
 for months — even years — and it has very real long-term mental and physical
-health impacts for developers. In 2015, _Splinter Cell: Chaos Theory_ creative
+health impacts for developers. In 2015, *Splinter Cell: Chaos Theory* creative
 director Clint Hocking recalled the effects prolonged crunch had on his health
 during development of that game a decade prior:
 
@@ -190,7 +190,7 @@ You might believe your employers' motivation is to create great games, and in
 some cases that may be true. But at the end of the day they're here to make
 money, and that has a direct influence on creative decisions. Executives don't
 necessarily care that the development team is aiming to make, say, a great
-single-player game, but they _do_ care about how Battle Royale games are
+single-player game, but they *do* care about how Battle Royale games are
 outselling everything else right now and how microtransactions are a major
 driver of revenue for large publishers. So the order comes from above to add
 those things to the project, even if they are creatively incompatible.
@@ -217,8 +217,8 @@ ultimately agree with management's decisions or not, at least **in a unionized
 workplace, their opinion gets to be voiced and heard**.
 
 A strong unionized workforce or a worker co-op doesn't just help improve
-conditions in the workplace! It also allows the people who _actually make the
-games_ to exercise more creative control and put their efforts towards something
+conditions in the workplace! It also allows the people who *actually make the
+games* to exercise more creative control and put their efforts towards something
 they believe in.
 
 
@@ -253,7 +253,7 @@ workers who are not unionized** — often between **15 to 25%** more. With the
 leverage of an organized workforce, collective bargaining is a very effective
 way to make sure you're paid what you're worth. But **unions also benefit
 workers who are not unionized** by raising the bar for everyone. For example, a
-high school graduate whose workplace is _not_ unionized but who works in an
+high school graduate whose workplace is *not* unionized but who works in an
 industry that's 25% unionized overall **can still [expect to be paid
 more](http://www.epi.org/publication/briefingpapers_bp143/)** than similar
 workers in less unionized industries.

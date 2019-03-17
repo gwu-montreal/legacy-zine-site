@@ -34,7 +34,7 @@ a business don't even know that this is an option!
 
 There are already multiple examples of workers' cooperatives operating in the
 game industry, such as **Pixel Pushers Union 512** and **Motion Twin** (the
-creators of _Dead Cells_). And two of the creators of _Night in the Woods_ have
+creators of *Dead Cells*). And two of the creators of *Night in the Woods* have
 just launched a workers' cooperative called **The Glory Society**. Cooperatives
 can also be a great model for freelance workers, who can benefit from uniting
 under a single banner to sell their services.
@@ -46,8 +46,8 @@ REI in the United States or MEC in Canada), but those can be just as
 exploitative to their employees as any other business. There are even some
 business owners' associations that style themselves as "cooperatives" — but in
 actuality they're nothing more than cartels of bosses; employees have no say in
-how they are run. (In the Québec game industry, for instance, a group called _La
-Guilde_ has gotten significant media attention and funding and now proudly
+how they are run. (In the Québec game industry, for instance, a group called *La
+Guilde* has gotten significant media attention and funding and now proudly
 claims to be the "largest cooperative in this industry in the
 world.") This can get pretty confusing and might be
 worth highlighting, especially when discussing the possibility of starting a

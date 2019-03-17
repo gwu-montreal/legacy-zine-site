@@ -106,7 +106,7 @@ strategy to wring more out of workers who just want to be able to make games
 sustainably and hone their craft without burning out. Unlike workers, **owners
 and bosses don't actually care about making the best game possible**. Their
 first priority is to make money — and right now they're the ones calling the
-shots, without any accountability to the people _actually making the game_.
+shots, without any accountability to the people *actually making the game*.
 
 <div class="md-img right">
 <img

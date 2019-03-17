@@ -85,8 +85,8 @@ effectively make workers responsible for being a 24/7 brand ambassador on top of
 their regular job — and for no additional compensation, to boot. (What a
 bargain!)
 
-In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
-Anti-Union Violence_", [Lana Polansky
+In her article from October on the topic, "*Worse than Scabs: Gamer Rage as
+Anti-Union Violence*", [Lana Polansky
 writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
 :
 
@@ -109,7 +109,7 @@ writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-a
 This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
 Warner Bros, Take-Two, and others [launched a
 website](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
-and video _explicitly targeting a gamer audience_ that demonized the SAG-AFTRA
+and video *explicitly targeting a gamer audience* that demonized the SAG-AFTRA
 voice actors' union. At the time, union members were demanding, among other
 things, better safety standards for voice strain and risks associated with stunt
 coordination (for motion capture), an improved structure for bonus payments,
@@ -119,7 +119,7 @@ to worse games for consumers.
 
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
-perceived fans _even if the consequence in the long-term is a worse game_. We
+perceived fans *even if the consequence in the long-term is a worse game*. We
 can't rely on them to have our backs on this front: **we need to have each
 other's**. The best way to resist harassment — and the summary, mob-driven
 firings that so often seem to follow — is by organizing. And if gamers really

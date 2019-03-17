@@ -1,7 +1,7 @@
 ---
 title: From the Desk of the Editors
 ---
-### **_Dear Reader…_**
+### ***Dear Reader…***
 
 Welcome back to another thrilling issue of the **Game Workers Unite magazine**.
 By the time this mag, hot off the presses, reaches your shaking, excited hands,
@@ -30,7 +30,7 @@ course! In a press release to investors the day layoffs started at Activision,
 CEO Bobby Kotick
 [wrote](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288):
 "While our financial results for 2018 were the **best in our history**, we
-didn't realize our full potential." (_Full potential_? Seriously? He sounds like
+didn't realize our full potential." (*Full potential*? Seriously? He sounds like
 a parent disowning their child for getting perfect grades and an inbox full of
 scholarship offers. We'd also be remiss to fail to note that Kotick himself is
 one of the highest-paid CEOs — not just in the games industry, not just in tech,
@@ -59,7 +59,7 @@ We've been forming workplace committees and building collective power to win
 concrete demands. There's a lot of underground work happening that you won't
 hear about because of the risks for the workers involved, but we've already
 helped win gratifying **legal victories against some of the industry's most
-powerful bosses **and **reclaim stolen wages.** This is arguably the most
+powerful bosses** and **reclaim stolen wages.** This is arguably the most
 critical work we've been doing. Organizing is a long haul, and doing it in the
 open would only put workers' jobs and well-being on the line. But **a sea change
 is happening**, even if you can't feel the waves from the shore.
