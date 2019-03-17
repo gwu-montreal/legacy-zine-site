@@ -94,6 +94,11 @@ h4 {
   font-weight: normal;
 }
 
+.page > h3 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
 /* classes for images in markdown files */
 
 .md-img { text-align: center; }

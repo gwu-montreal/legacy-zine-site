@@ -1,13 +1,11 @@
 import React from "react";
 
-import Clearfix from "./Clearfix";
 import PrevNextLinks from "./PrevNextLinks";
 import TableOfContents from "./TableOfContents";
 import DownloadZines from "./DownloadZines";
 
 export default ({ prevPage, nextPage }) => (
   <div style={{ marginBottom: '2rem' }}>
-    <Clearfix />
     <PrevNextLinks prevPage={prevPage} nextPage={nextPage} />
     <TableOfContents />
     <DownloadZines />
