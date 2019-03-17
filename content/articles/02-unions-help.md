@@ -53,6 +53,7 @@ as a "talent pool" that they can sponge people from when they need them, and
 wring people back into when they're no longer needed. But we know that
 **precarity doesn't have to be a condition of working in the industry**.
 
+<img src="/images/pizza.svg" alt="Pizza slice" style="max-width: 50%;"/>
 
 ### Crunch
 
@@ -140,6 +141,8 @@ When harassment happens inside the workplace, workers often have nowhere to
 turn. HR departments are supposed to be the first port of call, but too often
 they're more concerned with protecting the company's public image than they are
 with protecting the employees.
+
+<img src="/images/mug.svg" alt="Mug" style="max-width: 50%;"/>
 
 Unions can help by providing workers with a place they can go to make sure their
 concerns are heard, and unlike HR, they are directly answerable to the workers

@@ -71,6 +71,8 @@ effectively make workers responsible for being a 24/7 brand ambassador on top of
 their regular job — and for no additional compensation, to boot. (What a
 bargain!)
 
+<img src="/images/poison.svg" alt="Poison" style="max-width: 50%;"/>
+
 In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
 Anti-Union Violence_", [Lana Polansky
 writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-as-anti-worker-violence/)
@@ -109,3 +111,5 @@ vulnerable employees that are easily scapegoated. But for this to mean anything,
 dollars"** and to buy more from the "good companies" and less from the bad ones.
 Player support for unionization will go much farther towards crafting a better
 industry.
+
+<img src="/images/gamecube.svg" alt="Gamecube" style="max-width: 50%;"/>

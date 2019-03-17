@@ -87,6 +87,8 @@ these technologies are also developed for or used in games). Groups like Tech
 Workers Coalition are gaining traction as they support these struggles, and
 others, across their industry.
 
+<img src="/images/candle.svg" alt="Candle" style="max-width: 50%;"/>
+
 Meanwhile, an international wave of strikes in education, healthcare,
 hospitality, transportation, and many other industries showcased the scale and
 scope of workers' dissatisfaction with the status quo.
