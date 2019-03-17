@@ -12,3 +12,6 @@
   margin: 0 10px;
   content: "·";
 }
+.table-of-contents-item .active {
+  font-weight: bold;
+}

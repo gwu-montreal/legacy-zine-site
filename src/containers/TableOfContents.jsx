@@ -23,7 +23,7 @@ export default withSiteData(({ tableOfContents }) => (
           return (
             <span className="table-of-contents-item" key={route}>
               {location.pathname === route ? (
-                <span>{linkText}</span>
+                <span className="active">{linkText}</span>
               ) : (
                 <Link to={route}>{linkText}</Link>
               )}
