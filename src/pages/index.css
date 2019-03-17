@@ -15,13 +15,3 @@
 .intro-readzine {
   text-align: center;
 }
-
-img.float-left {
-  float: left;
-  margin-right: 10px;
-}
-
-img.float-right {
-  float: right;
-  margin-left: 10px;
-}

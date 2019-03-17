@@ -74,10 +74,9 @@ conditions, and racial discrimination, saw participation in at least 17 states
 and solidarity actions across North America and around the globe.
 
 <img
-  class="float-right"
+  class="md-img-right"
   src="/images/candle.svg"
   alt="Candle"
-  style="max-width: 50%"
 />
 
 Even in the tech sector (which historically has not been fertile ground for

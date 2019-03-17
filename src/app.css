@@ -93,3 +93,19 @@ h4 {
   font-family: "HKNova-MediumR";
   font-weight: normal;
 }
+
+/* classes for images in markdown files */
+
+.md-img-left {
+  max-width: 40%;
+  max-height: 400px;
+  float: left;
+  margin-right: 20px;
+}
+
+.md-img-right {
+  max-width: 40%;
+  max-height: 400px;
+  float: right;
+  margin-left: 20px;
+}

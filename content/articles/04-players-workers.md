@@ -56,6 +56,8 @@ a marketing Q&A on 8chan, a website known for harboring Nazis, enabling the
 spread of child porn, and playing a leading role in massive hate campaigns
 targeted against marginalized game workers.)
 
+<img src="/images/poison.svg" alt="Poison" class="md-img-right" />
+
 In these situations, management will often pretend to have the best interests of
 workers in mind even as they systematically yield to the slightest strain and
 validate gamer entitlement. **This can lead to bosses implementing new ways of
@@ -70,8 +72,6 @@ employees are allowed to express online outside of working hours. These policies
 effectively make workers responsible for being a 24/7 brand ambassador on top of
 their regular job — and for no additional compensation, to boot. (What a
 bargain!)
-
-<img src="/images/poison.svg" alt="Poison" style="max-width: 50%;"/>
 
 In her article from October on the topic, "_Worse than Scabs: Gamer Rage as
 Anti-Union Violence_", [Lana Polansky
@@ -98,6 +98,8 @@ better transparency, and employment mobility. **In a blatant effort to direct
 fan rage at the workers**, bosses argued that these demands would somehow lead
 to worse games for consumers.
 
+<img src="/images/gamecube.svg" alt="Gamecube" class="md-img-right" />
+
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
 perceived fans _even if the consequence in the long-term is a worse game_. We
@@ -112,4 +114,3 @@ dollars"** and to buy more from the "good companies" and less from the bad ones.
 Player support for unionization will go much farther towards crafting a better
 industry.
 
-<img src="/images/gamecube.svg" alt="Gamecube" style="max-width: 50%;"/>

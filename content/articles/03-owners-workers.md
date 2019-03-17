@@ -70,7 +70,7 @@ This is why we also typically see share value increase after every round of
 layoffs, as happened recently with Activision Blizzard: when mass layoffs get
 announced, management is sending a message to shareholders that they are willing
 
-<img src="/images/skeleton.svg" alt="Skeleton in bathtub" style="max-width: 50%;"/>
+<img src="/images/skeleton.svg" alt="Skeleton in bathtub" class="md-img-right" />
 
 to do what it takes to ensure ever-increasing profits **no matter what**, and
 this makes company shares more attractive on the market. Shareholders are
@@ -99,6 +99,8 @@ and bosses don't actually care about making the best game possible**. Their
 first priority is to make money — and right now they're the ones calling the
 shots, without any accountability to the people _actually making the game_.
 
+<img src="/images/turnleft.svg" alt="Turn Left sign" class="md-img-right" />
+
 But it doesn't have to be this way! Workers have the potential power to change
 this dynamic and to force the businesses they work for to take their best
 interests into consideration too. This is because in every industry, every
@@ -119,4 +121,4 @@ collectively owned by all the workers who work there themselves, allowing them
 to earn the full benefit of their labour. (Check the section on worker co-ops
 later in the zine!)
 
-<img src="/images/turnleft.svg" alt="Turn Left sign" style="max-width: 50%;"/>
+
