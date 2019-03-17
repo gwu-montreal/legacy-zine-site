@@ -5,6 +5,10 @@
   margin-bottom: 20px;
 }
 
+.header-after-logo {
+  white-space: nowrap;
+}
+
 .head {
   min-height: 4rem;
   display: flex;
