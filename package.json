@@ -10,7 +10,6 @@
     "bundle": "react-static bundle",
     "export": "react-static export",
     "serve": "serve dist -p 3000 -s",
-    "predeploy": "react-static build",
     "deploy": "gh-pages -d dist",
     "test": "run-s -l test:*",
     "test:eslint": "eslint ./src",
