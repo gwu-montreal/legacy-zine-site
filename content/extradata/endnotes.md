@@ -28,7 +28,6 @@ title: Notes from the Zine
 
 13. ["The 3 Things That Make Organizations More Prone to Sexual Harassment", Marianne Cooper, _The Atlantic_](https://www.theatlantic.com/business/archive/2017/11/organizations-sexual-harassment/546707/)
 
-
 14. ["How bad crediting hurts the game industry and muddles history", Richard Moss, _Gamasutra_](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php)
 
 15. [_BCCFU Master Agreement_](http://www.bccfu.com/wp-content/uploads/2016/08/2015-2018-BCCFU-MASTER-AGREEMENT-Appendix-C.pdf)
@@ -39,8 +38,7 @@ title: Notes from the Zine
 
 18. ["The Game Design Reader: A Rules of Play Anthology", Katie Salen Tekinbas, pp. 713](https://books.google.ca/books?id=aZv6AQAAQBAJ&pg=PA713&lpg=PA713#v=onepage&q&f=false)
 
-19. _Tweet by \@SimplyRagny_
-   [https://bit.ly/2Uy1kuY](https://twitter.com/SimplyRagny/status/1058198479707820032)
+19. [_Tweet by \@SimplyRagny_](https://twitter.com/SimplyRagny/status/1058198479707820032)
 
 20. ["EA: Visceral's canned Star Wars project 'too linear' for modern tastes", Chris Kerr, _Gamasutra_](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
 
@@ -56,8 +54,7 @@ title: Notes from the Zine
 
 26. ["Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video", Bryan Menegus, _Gizmodo_](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)
 
-27. ["National Gallery art educators win workers’ rights in ‘first public sector gig economy victory’", Emma Snaith,
-     _Independent_](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)
+27. ["National Gallery art educators win workers’ rights in ‘first public sector gig economy victory’", Emma Snaith, _The Independent_](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html)
 
 28. ["Crappy Voice Acting Undercuts an Otherwise Strong 'Life Is Strange' Prequel", Patrick Klepek, _Waypoint_](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)
 
