@@ -138,3 +138,8 @@ h4 {
   margin-top: 10px;
   margin-left: 20px;
 }
+
+blockquote {
+  margin: 0 0 1rem 1rem;
+  font-size: 1.3em;
+}
