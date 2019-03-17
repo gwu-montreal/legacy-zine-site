@@ -19,7 +19,13 @@ export default () => (
           </Link>
         </div>
         <div className="head-right">
-          <a href="https://gameworkersunite.org">GWU International</a>
+          <a href="https://gameworkersunite.org">
+            <img
+              title="Game Workers Unite International"
+              className="header-logo-image"
+              src="/images/gwu-logo.svg"
+            />
+          </a>
         </div>
       </nav>
     </div>

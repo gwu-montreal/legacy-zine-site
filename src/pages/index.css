@@ -12,6 +12,10 @@
   max-width: 40%;
 }
 
+.intro-readzine {
+  text-align: center;
+}
+
 img.float-left {
   float: left;
   margin-right: 10px;
