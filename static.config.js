@@ -8,10 +8,26 @@ import articleList from "./contents";
 chokidar.watch("content").on("all", () => reloadRoutes());
 
 export default {
-  getSiteData: () => ({
-    title: "Game Workers Unite Zine - GDC 2019",
-    articleList
-  }),
+  getSiteData: async () => {
+    const { articles } = await jdown("content");
+
+    const articlesByOriginalFilename = {};
+    Object.entries(articles).forEach(([filename, data]) => {
+      const originalFilename = kebabCase(filename);
+      articlesByOriginalFilename[originalFilename] = data;
+    });
+
+    const tableOfContents = articleList.map(filename => ({
+      route: "/" + filename,
+      title: articlesByOriginalFilename[filename].title,
+      articleType: articlesByOriginalFilename[filename].type
+    }));
+
+    return {
+      title: "Game Workers Unite Zine - GDC 2019",
+      tableOfContents
+    };
+  },
   getRoutes: async () => {
     const { articles, extradata } = await jdown("content");
 
@@ -34,7 +50,10 @@ export default {
           return null;
         }
 
-        const slug = data.slug || filename;
+        // FIXME: don't use slugs for now, we rely on filename as route in other
+        // places curently
+        // const slug = data.slug || filename;
+        const slug = filename;
 
         // TODO: yeah this isn't dry or whatever, simplify later
         const prevPage =

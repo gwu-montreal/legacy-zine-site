@@ -1,5 +1,5 @@
 ---
-title: Workers' Cooperatives: A New Way of Creating Commercial Games
+title: "Workers' Cooperatives: A New Way of Creating Commercial Games"
 ---
 ### No Bosses Required!
 

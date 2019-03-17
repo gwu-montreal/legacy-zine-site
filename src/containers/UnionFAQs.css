@@ -1,0 +1,10 @@
+.unionfaqs-container {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  margin-bottom: 15px;
+}
+
+.unionfaqs-container-body {
+  font-family: "Courier New", Courier, monospace;
+}

@@ -1,17 +1,19 @@
 import React from "react";
 import { withRouteData } from "react-static";
 
-import PrevNextLinks from "./PrevNextLinks";
+import Footer from "./Footer";
+
+import "./UnionFAQs.css";
 
 export default withRouteData(({ title, contents, prevPage, nextPage }) => (
-  <div>
-    <br />
-    <h3>UNIONFAQS: {title}</h3>
-    <pre>
-      <code>
-        <div dangerouslySetInnerHTML={{ __html: contents }} />
-      </code>
-    </pre>
-    <PrevNextLinks prevPage={prevPage} nextPage={nextPage} />
-  </div>
+  <>
+    <div className="unionfaqs-container">
+      <h3>UNIONFAQS: {title}</h3>
+      <div
+        className="unionfaqs-container-body"
+        dangerouslySetInnerHTML={{ __html: contents }}
+      />
+    </div>
+    <Footer prevPage={prevPage} nextPage={nextPage} />
+  </>
 ));
