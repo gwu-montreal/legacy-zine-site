@@ -11,7 +11,7 @@ export default withRouteData(({ openingStatement }) => (
   <>
     <Head title={`GWU GDC 2019 Zine`} />
     <div className="intro-container">
-      <img className="intro-image" src="images/isabelle-clearbg.png" />
+      <img className="intro-image" src="images/isabelle-clearbg-inlined.svg" />
       <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
       <Link to="/01-intro">
         <h1 className="intro-readzine">Read the Zine!</h1>
