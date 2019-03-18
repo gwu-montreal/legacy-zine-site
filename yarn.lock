@@ -895,10 +895,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@gameworkers/chapter-map-component@0.5.2":
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/@gameworkers/chapter-map-component/-/chapter-map-component-0.5.2.tgz#961fde752d928526a13f7d896787464d114f4cde"
-  integrity sha512-2Qzh7p3eV5QupDqsd0s15MTOjjxvbHn6c5K2oj+BcJtBxv3nh70N0X7giL8hSw+BP5XTQry/+TknHWtMBxWszw==
+"@gameworkers/chapter-map-component@0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@gameworkers/chapter-map-component/-/chapter-map-component-0.6.0.tgz#e3b160b0948937a2e6548342b390b85817667f5f"
+  integrity sha512-yuvfOJg4K/kTwyeyk6rKugQk/f2KC2rN8lZTHlXm31v8bkj1bI4EPOoJajobjwpQKV618/SxXu0HQPn+KbtaiA==
   dependencies:
     next-redux-wrapper "^1.3.2"
     prop-types "^15.7.2"
