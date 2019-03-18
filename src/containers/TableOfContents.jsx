@@ -5,27 +5,27 @@ import { Link, Location } from "@reach/router";
 import "./TableOfContents.css";
 
 export default withSiteData(({ tableOfContents }) => (
-  <div className="table-of-contents-wrapper">
+  <div className="toc-wrapper">
     <Location>
       {({ location }) =>
         tableOfContents.map(({ route, title, articleType }) => {
-          const linkText = (() => {
-            switch (articleType) {
-              case "unionfaqs":
-                return `UnionFAQs: ${title}`;
-              case "map":
-              case "article":
-              default:
-                return title;
-            }
-          })();
+          const maybeUnionfaqs =
+            articleType === "unionfaqs" ? (
+              <span className="toc-unionfaqs-pill">UnionFAQs</span>
+            ) : null;
 
           return (
-            <span className="table-of-contents-item" key={route}>
+            <span className="toc-item" key={route}>
               {location.pathname === route ? (
-                <span className="active">{linkText}</span>
+                <span className="toc-item-active">
+                  {maybeUnionfaqs}
+                  {title}
+                </span>
               ) : (
-                <Link to={route}>{linkText}</Link>
+                <Link to={route}>
+                  {maybeUnionfaqs}
+                  {title}
+                </Link>
               )}
             </span>
           );

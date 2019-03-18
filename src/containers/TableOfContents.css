@@ -1,17 +1,41 @@
-.table-of-contents-wrapper {
+.toc-wrapper {
   margin: 30px 0;
   padding: 20px;
   background-color: #eae0e0;
   text-align: center;
 }
 
-.table-of-contents-item {
+.toc-item {
   display: inline-block;
 }
-.table-of-contents-item:not(:last-child)::after {
+
+.toc-item:not(:last-child)::after {
   margin: 0 10px;
   content: "·";
 }
-.table-of-contents-item .active {
+
+.toc-item-active {
   font-weight: bold;
+}
+
+/* a little contortionism to avoid underlining the unionfaqs pill */
+/* .toc-item a {
+  text-decoration: none;
+}
+.toc-item a.toc-item-link {
+  text-decoration: underline;
+} */
+
+.toc-unionfaqs-pill {
+  font-family: "HKNova-MediumR";
+  margin-right: 3px;
+  font-size: 80%;
+  color: rgb(0, 0, 196);
+  /* pill outline/padding: */
+  /*
+  padding: 1px 2px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #888;
+  border-radius: 3px;
+  */
 }
