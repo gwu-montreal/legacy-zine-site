@@ -6,7 +6,14 @@
 }
 
 .header-after-logo {
-  white-space: nowrap;
+  display: none;
+}
+
+@media (min-width: 568px) {
+  .header-after-logo {
+    display: unset;
+    white-space: nowrap;
+  }
 }
 
 .head {
