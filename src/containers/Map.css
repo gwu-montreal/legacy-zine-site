@@ -4,3 +4,7 @@
   padding-bottom: 58%;
   touch-action: none;
 }
+
+.map_container {
+  width: 100%;
+}
