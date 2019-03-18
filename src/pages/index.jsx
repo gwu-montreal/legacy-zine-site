@@ -13,7 +13,7 @@ export default withRouteData(({ openingStatement }) => (
     <div className="intro-container">
       <img className="intro-image" src="images/isabelle-clearbg-inlined.svg" />
       <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
-      <Link to="/01-intro">
+      <Link to="/intro">
         <h1 className="intro-readzine">Read the Zine!</h1>
       </Link>
       <TableOfContents />
