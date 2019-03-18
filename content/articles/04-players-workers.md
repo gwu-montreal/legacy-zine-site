@@ -1,7 +1,6 @@
 ---
-title: Players and Workers
+title: When Gamer Rage Gets Harnessed to Discipline Workers
 ---
-### When Gamer Rage Gets Harnessed to Discipline Workers
 
 > Sam [Dan's brother and Rockstar president] and I talk about this a lot, and
 > it's that games are still magical. **It's like they're made by elves…** You
