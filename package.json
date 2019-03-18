@@ -1,7 +1,7 @@
 {
-  "name": "folio",
+  "name": "gwu-zine-gdc-2019-site",
   "private": true,
-  "author": "s <https://github.com/lostfictions>",
+  "author": "game workers unite <gameworkers@users.noreply.github.com>",
   "license": "AGPL-3.0",
   "scripts": {
     "start": "react-static start",
