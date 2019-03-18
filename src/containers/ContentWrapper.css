@@ -7,34 +7,34 @@
 }
 
 .nav_sidebar .toc-wrapper .toc-item::after {
-  content: '';
+  content: "";
   margin: 0;
 }
 
 .nav_sidebar .toc-wrapper .toc-item > span {
-    font-weight: normal !important;
-    display: block;
-    position: relative;
-    transition: transform 0.2s ease;
+  font-weight: normal !important;
+  display: block;
+  position: relative;
+  transition: transform 0.2s ease;
 }
 
 .nav_sidebar .toc-wrapper .toc-item > span::before {
-    content: '\25b6';
-    position: absolute;
-    left: -1.2em;
-    top: 0.2em;
-    font-size: 0.8em;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s ease;
+  content: "\25b6";
+  position: absolute;
+  left: -1.2em;
+  top: 0.2em;
+  font-size: 0.8em;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
 }
 
 .nav_sidebar .toc-wrapper .toc-item > span.toc-item-active {
-    transform: translateX(0.9em);
+  transform: translateX(0.9em);
 }
 
 .nav_sidebar .toc-wrapper .toc-item > span.toc-item-active::before {
-    opacity: 0.75;
+  opacity: 0.75;
 }
 
 @media (min-width: 1450px) {

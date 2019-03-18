@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import ContentWrapper from './ContentWrapper';
+import ContentWrapper from "./ContentWrapper";
 
 export default function Article() {
   return <ContentWrapper />;

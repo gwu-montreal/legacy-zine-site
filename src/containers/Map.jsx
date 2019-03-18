@@ -1,12 +1,12 @@
-import React from 'react';
-import ChapterMap from '@gameworkers/chapter-map-component';
+import React from "react";
+import ChapterMap from "@gameworkers/chapter-map-component";
 
-import ContentWrapper from './ContentWrapper';
+import ContentWrapper from "./ContentWrapper";
 
 import "./Map.css";
 
-window.WORLD_110M_JSON_PATH = '/world-110m.json';
-window.WORLD_50M_JSON_PATH = '/world-50m.json';
+window.WORLD_110M_JSON_PATH = "/world-110m.json";
+window.WORLD_50M_JSON_PATH = "/world-50m.json";
 
 class Map extends React.Component {
   constructor(props) {
@@ -36,20 +36,20 @@ class Map extends React.Component {
       <ContentWrapper containerClassName="map_container">
         <div
           style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            width: '100%'
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            width: "100%"
           }}
         >
-          <div style={{ width: '100%', position: 'relative' }}>
+          <div style={{ width: "100%", position: "relative" }}>
             <div
               style={{
-                position: 'absolute',
+                position: "absolute",
                 right: 10,
                 top: 10,
-                display: 'flex',
-                flexDirection: 'column'
+                display: "flex",
+                flexDirection: "column"
               }}
             >
               <button
@@ -85,9 +85,9 @@ class Map extends React.Component {
           />
           <p
             style={{
-              textAlign: 'center',
-              fontSize: '1.4rem',
-              marginTop: '1rem'
+              textAlign: "center",
+              fontSize: "1.4rem",
+              marginTop: "1rem"
             }}
           >
             Find your local chapter and get involved!

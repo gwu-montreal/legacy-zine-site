@@ -14,7 +14,8 @@
     "test": "run-s -l test:*",
     "test:eslint": "eslint ./src",
     "test:stylelint": "stylelint 'src/**/*.css'",
-    "test:prettier": "prettier -l '{src,pages}/**/*.{css,js}'"
+    "test:prettier": "prettier -l '{src,pages}/**/*.{css,js,jsx}'",
+    "prettier": "prettier --write '{src,pages}/**/*.{css,js,jsx}'"
   },
   "dependencies": {
     "@gameworkers/chapter-map-component": "0.7.0",
