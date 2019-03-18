@@ -11,7 +11,7 @@ export default withSiteData(({ tableOfContents }) => (
         tableOfContents.map(({ route, title, articleType }) => {
           const maybeUnionfaqs =
             articleType === "unionfaqs" ? (
-              <span className="toc-unionfaqs-pill">UnionFAQs</span>
+              <span className="toc-unionfaqs">UnionFAQs: </span>
             ) : null;
 
           return (
