@@ -13,7 +13,7 @@ class Map extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      zoom: 1
+      zoom: 0.9
     };
     this.handleZoomIn = this.handleZoomIn.bind(this);
     this.handleZoomOut = this.handleZoomOut.bind(this);
@@ -75,17 +75,14 @@ class Map extends React.Component {
           </div>
           <ChapterMap
             className="chapter_map"
-            centerLat={30}
+            centerLat={18}
             centerLng={13}
             height={450}
             markerScale={0.1}
-            scale={125}
+            scale={205}
             width={780}
             enablePanning
             zoom={this.state.zoom}
-            isGeographyIncluded={geography => {
-              return geography.properties.NAME !== 'Antarctica'
-            }}
           />
           <p
             style={{
