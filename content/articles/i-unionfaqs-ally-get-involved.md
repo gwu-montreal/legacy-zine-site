@@ -21,8 +21,8 @@ other ways you can support organizing efforts:
    about these issues in the work you produce. (There's lots of different
    avenues to explore, too — we'd love to see a broader historical perspective
    on how labour issues have been part of games since the beginning.)
-4. **Join Game Workers Unite and get involved** in on-the-ground organizing
-   efforts! We actively encourage players, academics, and anyone who wants to
-   improve conditions in the industry to engage in the community and help us
-   succeed.
+4. **[Join Game Workers Unite](https://www.gameworkersunite.org/get-involved)
+   and get involved** in on-the-ground organizing efforts! We actively encourage
+   players, academics, and anyone who wants to improve conditions in the
+   industry to engage in the community and help us succeed.
 

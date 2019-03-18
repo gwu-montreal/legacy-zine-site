@@ -77,5 +77,6 @@ perfectly eligible for business loans, and credit unions often have especially
 favorable deals for them!
 
 So if you're considering starting a business or know game workers who are,
-contact your local GWU chapter (or the international if you don't have one yet)
-and ask them about workers' co-ops!
+contact your [local GWU chapter](https://www.gameworkersunite.org/get-involved)
+(or the international if you don't have one yet) and ask them about workers'
+co-ops!

@@ -93,13 +93,16 @@ a {
   }
 }
 
-.page-content ol > li {
+/* below should only apply to endnotes page, but no time to
+ * make a new component right now so commenting it out
+ */
+/* .page-content ol > li {
   margin-left: -0.5rem;
 }
 
 .page-content ol > li > * {
   margin-left: 0.5rem;
-}
+} */
 
 .page-content > *:last-child {
   margin-bottom: 0;

@@ -44,15 +44,17 @@ don't point to things getting better anytime soon. **But we're starting to fight
 back**.
 
 In that same year of tumult, **over 25 local chapters of Game Workers Unite**
-were founded around the world. Earlier this year, **GWU UK formed an official
-trade union** in partnership with the Independent Workers Union of Great Britain
-(IWGB), joining the Syndicat des Travailleuse·eur·s du Jeu Vidéo (STJV) in
-France and the Game Makers of Finland as one of the first official unions
-representing game workers. GWU members have made zines, pamphlets, and other
-literature, and we've organized or taken part in dozens of panels,
-presentations, workshops, and public events. We've spoken to press, podcasters,
-and YouTubers, and helped shine a light on working conditions in the industry
-and the urgent need for unionization.
+were founded around the world. Earlier this year, **[GWU
+UK](https://www.gwu-uk.org/) formed an official trade union** in partnership
+with the Independent Workers Union of Great Britain (IWGB), joining the Syndicat
+des Travailleuse·eur·s du Jeu Vidéo (STJV) in France and the Game Makers of
+Finland as one of the first official unions representing game workers. GWU
+members have made [zines, pamphlets, and other
+literature](https://www.gameworkersunite.org/gwu-literature), and we've
+organized or taken part in dozens of panels, presentations, workshops, and
+public events. We've spoken to press, podcasters, and YouTubers, and helped
+shine a light on working conditions in the industry and the urgent need for
+unionization.
 
 But more than all that, **we've been engaging in on-the-ground organizing**.
 We've been forming workplace committees and building collective power to win

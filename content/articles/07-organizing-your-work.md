@@ -8,12 +8,13 @@ employers, even if you think they're sympathetic to your cause.**
 
 
 1. **Reach out to existing unions** and organizations in your area for help,
-   advice, and solidarity. Game Workers Unite chapters, related trade and
-   industrial unions, and existing game worker unions internationally are all
-   great resources for learning how to organize your own workplace, and
-   establishing relationships now can strengthen both parties' actions in the
-   future. **If possible, talk to experienced organizers or attend a training
-   session on workplace organizing.**
+   advice, and solidarity. [Game Workers Unite
+   chapters](https://www.gameworkersunite.org), related trade and industrial
+   unions, and existing game worker unions internationally are all great
+   resources for learning how to organize your own workplace, and establishing
+   relationships now can strengthen both parties' actions in the future. **If
+   possible, talk to experienced organizers or attend a training session on
+   workplace organizing.**
 2. **Talk to your coworkers** one-on-one about their problems in the workplace,
    away from the supervision of management. Ask questions, and let them tell you
    the things that they want to fix; listen carefully, and don't assume you know
@@ -66,5 +67,6 @@ Reach out to us for more details. The GWU membership application as well as
 links to local chapters are available here:
 [www.gameworkersunite.org/get-involved](http://www.gameworkersunite.org/get-involved)
 
-If there's no GWU chapter in your area, contact the international and we can
-help put you in touch with local unions and even help you start a new chapter!
+If there's no GWU chapter in your area, [contact the
+international](https://www.gameworkersunite.org/contact-us) and we can help put
+you in touch with local unions and even help you start a new chapter!

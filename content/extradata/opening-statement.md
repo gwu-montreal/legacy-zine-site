@@ -1,8 +1,8 @@
 Labour conditions and mass layoffs in the game industry have made the news for
 years. But despite outcries, precious little has changed in that time — in fact,
 things seem to be getting worse. A year ago, we took matters into our own hands
-and started **Game Workers Unite** (GWU) to collectively fight for better
-conditions.
+and started [**Game Workers Unite**](https://gameworkersunite.org) (GWU) to
+collectively fight for better conditions.
 
 ## Are you tired of crunch?
 
