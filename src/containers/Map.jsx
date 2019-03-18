@@ -39,36 +39,37 @@ class Map extends React.Component {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            width: '100%',
-            position: 'relative'
+            width: '100%'
           }}
         >
-          <div
-            style={{
-              position: 'absolute',
-              right: 10,
-              top: 10,
-              display: 'flex',
-              flexDirection: 'column'
-            }}
-          >
-            <button
-              disabled={zoom >= 20}
+          <div style={{ width: '100%', position: 'relative' }}>
+            <div
               style={{
-                marginBottom: 10,
-                opacity: zoom >= 20 ? 0.3 : 1
+                position: 'absolute',
+                right: 10,
+                top: 10,
+                display: 'flex',
+                flexDirection: 'column'
               }}
-              onClick={this.handleZoomIn}
             >
-              ➕
-            </button>
-            <button
-              disabled={zoom <= 1}
-              style={{ opacity: zoom <= 1 ? 0.3 : 1 }}
-              onClick={this.handleZoomOut}
-            >
-              ➖
-            </button>
+              <button
+                disabled={zoom >= 20}
+                style={{
+                  marginBottom: 10,
+                  opacity: zoom >= 20 ? 0.3 : 1
+                }}
+                onClick={this.handleZoomIn}
+              >
+                ➕
+              </button>
+              <button
+                disabled={zoom <= 1}
+                style={{ opacity: zoom <= 1 ? 0.3 : 1 }}
+                onClick={this.handleZoomOut}
+              >
+                ➖
+              </button>
+            </div>
           </div>
           <ChapterMap
             className="chapter_map"
