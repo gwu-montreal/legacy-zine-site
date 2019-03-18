@@ -216,3 +216,9 @@ blockquote {
   margin: 0 0 1rem 1rem;
   font-size: 1.3em;
 }
+
+.md-attribution {
+  text-align: right;
+  font-size: 80%;
+  margin-bottom: 1.5rem;
+}

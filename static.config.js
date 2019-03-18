@@ -102,7 +102,7 @@ export default {
       {
         path: "/",
         getData: () => ({
-          openingStatement,
+          openingStatement
         })
       },
       {

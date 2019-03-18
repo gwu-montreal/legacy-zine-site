@@ -53,21 +53,18 @@ as a "talent pool" that they can sponge people from when they need them, and
 wring people back into when they're no longer needed. But we know that
 **precarity doesn't have to be a condition of working in the industry**.
 
-<div class="md-img right off-2">
-<img
-  src="/images/pizza.svg"
-  alt="Pizza slice"
-/>
-</div>
-
 ### Crunch
 
 > In those days, Miyamoto would come to us at 11 PM, after he finished all of
 > his board-member work, and say, **"It's Mario time."** At that point, we'd
 > start a planning meeting that would run until 2 AM.
 
-— Former Nintendo planner Motoi Okamoto [on the development of Mario 64
-DS](https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341)
+<div class="md-attribution">
+&#x2014;
+<a href="https://kotaku.com/at-nintendo-working-all-night-is-mario-time-1794042341">
+Former Nintendo planner Motoi Okamoto on the development of Mario 64 DS
+</a>
+</div>
 
 Last October, with the release of Red Dead Redemption 2 imminent, Rockstar Games
 co-founder and boss Dan Houser proudly declared to New York Magazine that
@@ -76,6 +73,13 @@ to ship**. Hang on — if you sleep around 8 hours a night there's only 112 hour
 in a week! Factor in transit (presuming people weren't sleeping under their
 desks, which is not a given), time to eat, etc., and that works out to Rockstar
 labourers spending almost every waking moment at their job.
+
+<div class="md-img right off-2">
+<img
+  src="/images/pizza.svg"
+  alt="Pizza slice"
+/>
+</div>
 
 Houser later retracted the statement, saying only the writing team was working
 those hours, and only during a period of a few weeks. But that only prompted
@@ -133,8 +137,12 @@ workers out of a job by forcing too much work on existing employees.
 > wilder, even more chaotic. At that time, almost everybody in my team wanted to
 > leave.
 
-— CD Projekt Red developer [on conditions at the
-studio](https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/)
+<div class="md-attribution">
+   &#x2014;
+   <a href="https://www.gamezone.com/news/cd-projekt-red-developers-speak-up-on-the-realities-of-working-on-witcher-3-and-cyberpunk-2077-3461430/">
+    CD Projekt Red developer on conditions at the studio
+  </a>
+</div>
 
 
 ### Harassment

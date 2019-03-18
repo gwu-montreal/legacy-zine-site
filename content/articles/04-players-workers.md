@@ -8,9 +8,12 @@ title: Players and Workers
 > turn on the screen and it's just this world that exists on TV. **I think you
 > gain something by not knowing how they're made**.
 
-[— Rockstar Games co-founder Dan Houser on the development of Red Dead
-Redemption
-2](https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor)
+<div class="md-attribution">
+&#x2014;
+<a href="https://www.polygon.com/2018/10/27/18029154/red-dead-redemption-2-working-conditions-rockstar-games-overtime-labor">
+Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2
+</a>
+</div>
 
 <div class="md-img left off-8">
 <img
