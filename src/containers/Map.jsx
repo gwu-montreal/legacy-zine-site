@@ -81,6 +81,7 @@ class Map extends React.Component {
             width={780}
             enablePanning
             zoom={this.state.zoom}
+            tooltipClassName="chapter_map_tooltip"
           />
           <p
             style={{

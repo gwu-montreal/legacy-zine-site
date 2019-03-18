@@ -8,3 +8,7 @@
 .map_container {
   width: 100%;
 }
+
+.chapter_map_tooltip {
+  max-width: 220px;
+}
