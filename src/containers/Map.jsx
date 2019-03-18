@@ -1,8 +1,7 @@
 import React from 'react';
 import ChapterMap from '@gameworkers/chapter-map-component';
-import { withRouteData } from "react-static";
 
-import Footer from "./Footer";
+import ContentWrapper from './ContentWrapper';
 
 import "./Map.css";
 
@@ -32,11 +31,9 @@ class Map extends React.Component {
   }
 
   render() {
-    const { title, contents, prevPage, nextPage } = this.props;
     const { zoom } = this.state;
     return (
-      <div style={{ width: '100%' }}>
-        <h3>{title}</h3>
+      <ContentWrapper containerClassName="map_container">
         <div
           style={{
             display: 'flex',
@@ -94,10 +91,9 @@ class Map extends React.Component {
             Find your local chapter and get involved!
           </p>
         </div>
-        <Footer prevPage={prevPage} nextPage={nextPage} />
-      </div>
+      </ContentWrapper>
     );
   }
 }
 
-export default withRouteData(Map);
+export default Map;

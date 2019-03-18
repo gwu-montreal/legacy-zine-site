@@ -1,22 +1,7 @@
-import React from "react";
-import { withRouteData, Head } from "react-static";
+import React from 'react';
 
-import Clearfix from "./Clearfix";
-import Footer from "./Footer";
+import ContentWrapper from './ContentWrapper';
 
-export default withRouteData(({ title, contents, prevPage, nextPage }) => (
-  <>
-    <Head title={`GWU GDC 2019 Zine - ${title}`} />
-    <div>
-      <div className="page">
-        <h2>{title}</h2>
-        <div
-          className="page-content"
-          dangerouslySetInnerHTML={{ __html: contents }}
-        />
-        <Clearfix />
-      </div>
-      <Footer prevPage={prevPage} nextPage={nextPage} />
-    </div>
-  </>
-));
+export default function Article() {
+  return <ContentWrapper />;
+}

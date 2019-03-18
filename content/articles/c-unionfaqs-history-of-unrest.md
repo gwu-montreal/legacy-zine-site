@@ -43,11 +43,7 @@ almost 2 in the morning. I'm tired!!!! I'm tired!!!!"
 
 <div class="md-img">
 <img
-  src="/images/faqs/ff8en.png"
-  alt="Screenshot from Final Fantasy 8 in English"
-/>
-<img
-  src="/images/faqs/ff8it.png"
-  alt="The text from Final Fantasy 8 in Italian"
+  src="/images/faqs/ff8.png"
+  alt="Screenshot from Final Fantasy 8"
 />
 </div>
