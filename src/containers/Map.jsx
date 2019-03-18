@@ -15,17 +15,25 @@ class Map extends React.Component {
     this.state = {
       zoom: 1
     };
-    this.handleZoom = this.handleZoom.bind(this);
+    this.handleZoomIn = this.handleZoomIn.bind(this);
+    this.handleZoomOut = this.handleZoomOut.bind(this);
   }
 
-  handleZoom(e) {
-    this.setState({
-      zoom: Number(e.target.value)
-    });
+  handleZoomIn() {
+    this.setState(state => ({
+      zoom: Math.min(state.zoom + 0.5, 20)
+    }));
+  }
+
+  handleZoomOut() {
+    this.setState(state => ({
+      zoom: Math.max(state.zoom - 0.5, 1)
+    }));
   }
 
   render() {
     const { title, contents, prevPage, nextPage } = this.props;
+    const { zoom } = this.state;
     return (
       <div style={{ width: '100%' }}>
         <h3>{title}</h3>
@@ -34,9 +42,37 @@ class Map extends React.Component {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            width: '100%'
+            width: '100%',
+            position: 'relative'
           }}
         >
+          <div
+            style={{
+              position: 'absolute',
+              right: 10,
+              top: 10,
+              display: 'flex',
+              flexDirection: 'column'
+            }}
+          >
+            <button
+              disabled={zoom >= 20}
+              style={{
+                marginBottom: 10,
+                opacity: zoom >= 20 ? 0.3 : 1
+              }}
+              onClick={this.handleZoomIn}
+            >
+              ➕
+            </button>
+            <button
+              disabled={zoom <= 1}
+              style={{ opacity: zoom <= 1 ? 0.3 : 1 }}
+              onClick={this.handleZoomOut}
+            >
+              ➖
+            </button>
+          </div>
           <ChapterMap
             className="chapter_map"
             centerLat={30}
@@ -52,20 +88,13 @@ class Map extends React.Component {
               return geography.properties.NAME !== 'Antarctica'
             }}
           />
-          <label
-            style={{ display: 'flex', alignItems: 'center', marginTop: '1rem' }}
+          <p
+            style={{
+              textAlign: 'center',
+              fontSize: '1.4rem',
+              marginTop: '1rem'
+            }}
           >
-            <strong style={{ marginRight: '1rem' }}>Zoom in: </strong>
-            <input
-              value={this.state.zoom}
-              min="1"
-              max="20"
-              type="range"
-              step="any"
-              onChange={this.handleZoom}
-            />
-          </label>
-          <p style={{ textAlign: 'center', fontSize: '1.4rem' }}>
             Find your local chapter and get involved!
           </p>
         </div>
