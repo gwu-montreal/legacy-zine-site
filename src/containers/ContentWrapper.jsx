@@ -12,6 +12,7 @@ export default withRouteData(({
   contents,
   prevPage,
   nextPage,
+  header,
   containerClassName = '',
   headerClassName = '',
   contentClassName = '',
@@ -24,7 +25,11 @@ export default withRouteData(({
         <TableOfContents />
       </div>
       <div className={`page ${containerClassName}`}>
-        <h2 className={headerClassName}>{title}</h2>
+        {header ? (
+          header(title)
+        ) : (
+          <h2 className={headerClassName}>{title}</h2>
+        )}
         {children ||
           <div
             className={`page-content ${contentClassName}`}
