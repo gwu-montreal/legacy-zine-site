@@ -1,5 +1,5 @@
 import React from 'react';
-import ChapterMap from '@gameworkers/chapter-map-component/dist/chapter-map-component';
+import ChapterMap from '@gameworkers/chapter-map-component';
 import { withRouteData } from "react-static";
 
 import Footer from "./Footer";

@@ -17,7 +17,7 @@
     "test:prettier": "prettier -l '{src,pages}/**/*.{css,js}'"
   },
   "dependencies": {
-    "@gameworkers/chapter-map-component": "0.4.0",
+    "@gameworkers/chapter-map-component": "0.5.2",
     "@reach/router": "^1.2.1",
     "jdown": "^1.0.1",
     "netlify-cms": "^2.6.1",
