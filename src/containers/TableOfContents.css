@@ -23,3 +23,9 @@
   font-size: 80%;
   color: rgb(0, 0, 196);
 }
+
+@media (min-width: 1500px) {
+  .toc-wrapper {
+    display: none;
+  }
+}
