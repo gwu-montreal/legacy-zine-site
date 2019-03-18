@@ -14,5 +14,6 @@ export default [
   "unionfaqs-craft-industrial",
   "organizing-your-work",
   "unionfaqs-ally-get-involved",
+  "in-closing",
   "map"
 ];

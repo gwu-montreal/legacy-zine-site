@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { reloadRoutes } from "react-static/node";
 import jdown from "jdown";
 import kebabCase from "just-kebab-case";
@@ -7,6 +7,9 @@ import chokidar from "chokidar";
 import articleList from "./contents";
 
 chokidar.watch("content").on("all", () => reloadRoutes());
+
+// just hoisting this as reminder for localization later
+const metaDescription = "Read the latest zine from Game Workers Unite!";
 
 export default {
   getSiteData: async () => {
@@ -85,6 +88,8 @@ export default {
                 return "src/containers/UnionFAQs";
               case "map":
                 return "src/containers/Map";
+              case "bare":
+                return "src/containers/BareArticle";
               case "article":
               default:
                 return "src/containers/Article";
@@ -121,6 +126,7 @@ export default {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content={metaDescription} />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -144,11 +150,14 @@ export default {
         <meta name="theme-color" content="#ffffff" />
         <title>{siteData.title}</title>
         <meta property="og:title" content={siteData.title} />
-        <meta property="og:description" content="Read the latest zine from Game Workers Unite!" />
-        <meta property="og:image" content="http://zines.gwumtl.com/images/waluigi_social_crop.jpg" />
+        <meta property="og:description" content={metaDescription} />
+        <meta
+          property="og:image"
+          content="https://zines.gwumtl.com/images/waluigi_social_crop.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <Body>{children}</Body>
     </Html>
-  ),
+  )
 };

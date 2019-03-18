@@ -231,3 +231,22 @@ blockquote {
   font-size: 80%;
   margin-bottom: 1.5rem;
 }
+
+.md-margin {
+  margin-bottom: 2.5rem;
+}
+
+.md-flex-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.md-flex-group > a {
+  width: 150px;
+  margin: 20px;
+}
+
+.md-flex-group > a > img {
+  max-width: 100%;
+}

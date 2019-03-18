@@ -7,25 +7,37 @@ export default () => {
     <div>
       <h2 className="tc">Download the Zine!</h2>
       <div className="downloadzines-container">
-        <a href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf">
+        <a
+          title="Download the Zine! (Waluigi cover)"
+          href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf"
+        >
           <img
             className="downloadzines-cover"
             src="/images/cover_thumb_waluigi.jpg"
           />
         </a>
-        <a href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019isabelleisabelle.pdf">
+        <a
+          title="Download the Zine! (Isabelle cover)"
+          href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019isabelleisabelle.pdf"
+        >
           <img
             className="downloadzines-cover"
             src="/images/cover_thumb_isabelle.jpg"
           />
         </a>
-        <a href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf">
+        <a
+          title="Download the Zine! (Unionize! cover by @pioldes)"
+          href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf"
+        >
           <img
             className="downloadzines-cover"
             src="/images/cover_thumb_unionize.jpg"
           />
         </a>
-        <a href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019egg.pdf">
+        <a
+          title="Download the Zine! (Egg cover by @mushbuh)"
+          href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019egg.pdf"
+        >
           <img
             className="downloadzines-cover"
             src="/images/cover_thumb_egg.jpg"

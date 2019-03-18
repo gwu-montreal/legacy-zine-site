@@ -7,11 +7,15 @@ import DownloadZines from "../containers/DownloadZines";
 
 import "./index.css";
 
-export default withRouteData(({ openingStatement, title, type }) => (
+export default withRouteData(({ openingStatement }) => (
   <>
     <Head title={`GWU GDC 2019 Zine`} />
     <div className="intro-container">
-      <img className="intro-image" src="images/isabelle-clearbg-inlined.svg" />
+      <img
+        alt="Isabelle: Unionize!"
+        className="intro-image"
+        src="images/isabelle-clearbg-inlined.svg"
+      />
       <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
       <Link to="/intro">
         <h1 className="intro-readzine">Read the Zine!</h1>
