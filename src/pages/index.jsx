@@ -3,6 +3,7 @@ import { withRouteData, Head } from "react-static";
 import { Link } from "@reach/router";
 
 import TableOfContents from "../containers/TableOfContents";
+import DownloadZines from "../containers/DownloadZines";
 
 import "./index.css";
 
@@ -16,6 +17,7 @@ export default withRouteData(({ openingStatement }) => (
         <h1 className="intro-readzine">Read the Zine!</h1>
       </Link>
       <TableOfContents />
+      <DownloadZines />
     </div>
   </>
 ));

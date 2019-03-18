@@ -1,0 +1,10 @@
+.downloadzines-cover {
+  max-width: 160px;
+  margin: 0 0.5rem 1rem;
+}
+
+.downloadzines-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
