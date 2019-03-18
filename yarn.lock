@@ -895,17 +895,26 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@gameworkers/chapter-map-component@0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@gameworkers/chapter-map-component/-/chapter-map-component-0.6.0.tgz#e3b160b0948937a2e6548342b390b85817667f5f"
-  integrity sha512-yuvfOJg4K/kTwyeyk6rKugQk/f2KC2rN8lZTHlXm31v8bkj1bI4EPOoJajobjwpQKV618/SxXu0HQPn+KbtaiA==
+"@gameworkers/chapter-map-component@0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@gameworkers/chapter-map-component/-/chapter-map-component-0.7.0.tgz#a716057c54c98e599ec976793f74378b068edf89"
+  integrity sha512-tJgwAhHrpdoYBexLa+bz8YEbh3jYPik/MFX2OkWT4YaKmGDeSOy7tIVBGGjqqb5cz1+TzfD3TfJl88kgqrS3eA==
   dependencies:
+    "@gameworkers/react-simple-maps" "^0.12.1-pan-fix"
     next-redux-wrapper "^1.3.2"
     prop-types "^15.7.2"
     react-redux "^5.0.6"
-    react-simple-maps "github:gameworkers/react-simple-maps#touch-panning"
     redux "^3.7.2"
     redux-tooltip "^0.7.2"
+
+"@gameworkers/react-simple-maps@^0.12.1-pan-fix":
+  version "0.12.1-pan-fix"
+  resolved "https://registry.yarnpkg.com/@gameworkers/react-simple-maps/-/react-simple-maps-0.12.1-pan-fix.tgz#cb1dad420e14661eca7d6f71ef7a66508c03cbcb"
+  integrity sha512-j1E3vbbKyCbNBPBWIHs5UsS7G56foN9stsjk7kDa8ZqRH0sc0IchpJE8crK/cPw0/FSx7VkF5aFuEjWX4eXHNA==
+  dependencies:
+    d3-geo "^1.10.0"
+    d3-geo-projection "^2.4.0"
+    topojson-client "^3.0.0"
 
 "@hot-loader/react-dom@^16.7.0-alpha.2.3":
   version "16.7.0"
@@ -9835,14 +9844,6 @@ react-side-effect@^1.1.0:
   dependencies:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
-
-"react-simple-maps@github:gameworkers/react-simple-maps#touch-panning":
-  version "0.12.1"
-  resolved "https://codeload.github.com/gameworkers/react-simple-maps/tar.gz/fba0e78f0433de337f4de48ce85cad307347cf52"
-  dependencies:
-    d3-geo "^1.10.0"
-    d3-geo-projection "^2.4.0"
-    topojson-client "^3.0.0"
 
 react-sortable-hoc@^0.6.8:
   version "0.6.8"
