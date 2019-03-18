@@ -22,9 +22,6 @@ export default withRouteData(({
   <React.Fragment>
     <Head title={`GWU GDC 2019 Zine - ${title}`}>
       <meta property="og:title" content={`${type === 'unionfaqs' ? 'UnionFAQs: ' : ''}${title}`} />
-      <meta property="og:description" content="Read the latest zine from Game Workers Unite!" />
-      <meta property="og:image" content="/images/isabelle-clearbg.png" />
-      <meta name="twitter:card" content="summary_large_image" />
     </Head>
     <div style={{ width: '100%' }}>
       <div style={{ width: '100%', position: 'relative' }}>
