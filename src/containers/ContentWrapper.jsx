@@ -28,9 +28,11 @@ export default withRouteData(({
       <meta property="og:image" content="/images/isabelle-clearbg.png" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
-    <div style={{ width: '100%', position: 'relative' }}>
-      <div className="nav_sidebar">
-        <TableOfContents />
+    <div style={{ width: '100%' }}>
+      <div style={{ width: '100%', position: 'relative' }}>
+        <div className="nav_sidebar">
+          <TableOfContents />
+        </div>
       </div>
       <div className={`page ${containerClassName}`}>
         {header ? (
