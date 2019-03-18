@@ -78,12 +78,11 @@ class Map extends React.Component {
             centerLat={30}
             centerLng={13}
             height={450}
-            markerScale={0.075}
+            markerScale={0.1}
             scale={125}
             width={780}
             enablePanning
             zoom={this.state.zoom}
-            projection="mercator"
             isGeographyIncluded={geography => {
               return geography.properties.NAME !== 'Antarctica'
             }}
