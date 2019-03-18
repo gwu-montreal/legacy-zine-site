@@ -1,14 +1,5 @@
 .nav_sidebar .toc-wrapper {
-  display: initial;
-  position: absolute;
-  left: 100%;
-  margin: 0;
-  padding: 0;
-  padding-top: 50px;
-  margin-left: 1rem;
-  background: transparent;
-  text-align: left;
-  width: 300px;
+  display: none;
 }
 
 .nav_sidebar .toc-wrapper .toc-item {
@@ -19,8 +10,22 @@
   content: '';
 }
 
-@media (max-width: 1499px) {
+@media (min-width: 1350px) {
+  #root {
+    position: relative;
+    left: -100px;
+  }
+
   .nav_sidebar .toc-wrapper {
-    display: none;
+    display: initial;
+    position: absolute;
+    left: 100%;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    margin-left: 1rem;
+    background: transparent;
+    text-align: left;
+    width: 300px;
   }
 }
