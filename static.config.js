@@ -143,6 +143,7 @@ export default {
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
         <title>{siteData.title}</title>
+        <meta property="og:title" content={siteData.title} />
         <meta property="og:description" content="Read the latest zine from Game Workers Unite!" />
         <meta property="og:image" content="http://zines.gwumtl.com/images/waluigi_social_crop.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
