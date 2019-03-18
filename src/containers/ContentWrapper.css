@@ -37,11 +37,7 @@
     opacity: 0.75;
 }
 
-@media (min-width: 1350px) {
-  #root {
-    position: relative;
-    left: -100px;
-  }
+@media (min-width: 1450px) {
 
   .nav_sidebar .toc-wrapper {
     display: initial;
