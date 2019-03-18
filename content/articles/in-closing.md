@@ -13,27 +13,30 @@ and together we have the power to improve it.**
 <h1>Remember: you’re not in this fight alone! Together, we can win better working conditions for <strong>everyone</strong>.</h1>
 </div>
 
-<div class="tc"><h3>Follow GWU online:</h3></div>
+<h3>Follow GWU online:</h3>
 
-<div class="md-flex-group">
-<a title="GWU on Twitter" href="https://twitter.com/gameworkers">
-<img
-  src="/images/social-twitter.svg"
-  alt="Twitter logo"
-/>
-</a>
-<a title="GWU Website" href="https://gameworkersunite.org">
-<img
-  src="/images/gwu-logo.svg"
-  alt="GWU logo"
-/>
-</a>
-<a title="GWU on Facebook" href="https://www.facebook.com/GameWorkers/">
-<img
-  src="/images/social-facebook.svg"
-  alt="Facebook logo"
-/>
-</a>
+<div style="display:flex;justify-content: flex-start;margin-top:20px;margin-bottom:40px">
+  <a title="GWU on Twitter" href="https://twitter.com/gameworkers">
+    <img
+      style="width: 55px;height: 55px;margin-right: 1rem"
+      src="/images/social-twitter.svg"
+      alt="Twitter logo"
+    />
+  </a>
+  <a title="GWU Website" href="https://gameworkersunite.org">
+    <img
+      style="width: 55px;height: 55px;margin-right: 1rem"
+      src="/images/gwu-logo.svg"
+      alt="GWU logo"
+    />
+  </a>
+  <a title="GWU on Facebook" href="https://www.facebook.com/GameWorkers/">
+    <img
+      style="width: 55px;height: 55px"
+      src="/images/social-facebook.svg"
+      alt="Facebook logo"
+    />
+  </a>
 </div>
 
 Illustrations across this zine by [Pioldes](https://pioldes.tumblr.com)!
