@@ -18,7 +18,7 @@ export default withRouteData(({
   contentClassName = '',
   children
 }) => (
-  <div style={{ marginBottom: '2rem' }}>
+  <React.Fragment>
     <Head title={`GWU GDC 2019 Zine - ${title}`} />
     <div style={{ width: '100%', position: 'relative' }}>
       <div className="nav_sidebar">
@@ -39,5 +39,5 @@ export default withRouteData(({
       </div>
       <Footer prevPage={prevPage} nextPage={nextPage} />
     </div>
-  </div>
+  </React.Fragment>
 ));
