@@ -39,9 +39,12 @@ but that work is done by workers like you and me, not by them.)
 > decision..**. "You've got to cut the bridge when you realize you can't really
 > make a lot of money on something, so that's the decision we made."
 
-— [Gamasutra speaking to EA CFO Blake
-Jorgensen](https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php)
-on the reasons for Visceral Studios' closure
+<div class="md-attribution">
+&#x2014;
+<a href="https://www.gamasutra.com/view/news/310630/EA_Viscerals_canned_Star_Wars_project_too_linear_for_modern_tastes.php">
+Gamasutra speaking to EA CFO Blake Jorgensen on the reasons for Visceral Studios' closure
+</a>
+</div>
 
 The main way shareholders exercise control over corporations is through
 elections of the board of directors. Shareholders leverage the amount of voting
