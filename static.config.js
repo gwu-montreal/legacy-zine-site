@@ -35,7 +35,7 @@ export default {
   getRoutes: async () => {
     const { articles, extradata } = await jdown("content");
 
-    const { openingStatement, endnotes } = extradata;
+    const { openingStatement, endnotes, howToPrint } = extradata;
 
     const articlesByOriginalFilename = {};
     Object.entries(articles).forEach(([filename, data]) => {
@@ -116,6 +116,13 @@ export default {
         component: "src/containers/Article",
         getData: () => ({
           ...endnotes
+        })
+      },
+      {
+        path: "/how-to-print",
+        component: "src/containers/Article",
+        getData: () => ({
+          ...howToPrint
         })
       },
       ...routes

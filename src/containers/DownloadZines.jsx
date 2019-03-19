@@ -49,6 +49,8 @@ export default () => {
         <br /> Share with your coworkers and friends!
       </h3>
       <p className="tc">
+        <a href="/how-to-print">How to Print this Zine at Home</a>
+        <br />
         <a href="/endnotes">References page</a>
       </p>
     </div>
