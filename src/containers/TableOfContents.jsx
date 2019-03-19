@@ -16,7 +16,8 @@ export default withSiteData(({ tableOfContents }) => (
 
           return (
             <span className="toc-item" key={route}>
-              {location.pathname === route ? (
+              {location.pathname === route ||
+              location.pathname === route + "/" ? (
                 <span className="toc-item-active">
                   {maybeUnionfaqs}
                   {title}
