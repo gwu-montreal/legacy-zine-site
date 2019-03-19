@@ -14,26 +14,26 @@ Want to print copies of this Game Workers Unite zine to share with your friends 
 
     a. "Booklet" mode should be selected, the booklet subset should be "both sides," the binding should be "left" and the orientation should be "portrait" (as seen in the screenshot below).
 
-  <p>
-    <img alt="booklet mode screenshot" src="/images/booklet_mode.jpg" class="md-img">
+  <p class="md-img">
+    <img alt="booklet mode screenshot" src="/images/booklet_mode.jpg">
   </p>
 
     b. You should also open up Advanced settings to select the "Print as Image" option (this will yield a cleaner result, we've found).
 
-  <p>
-    <img alt="print as image screenshot" src="/images/print_as_image.jpg" class="md-img">
+  <p class="md-img">
+    <img alt="print as image screenshot" src="/images/print_as_image.jpg">
   </p>
 
 4. When your 16 sheets are printed, you should see the outside covers on one side of the stack, and the map centerfold on the other side. Staple twice on the outside, so the legs are visible along the center vertical of the map, as shown:
 
-  <p>
-    <img alt="stapled zine" src="/images/inside_staples.jpg" class="md-img">
+  <p class="md-img">
+    <img alt="stapled zine" src="/images/inside_staples.jpg">
   </p>
 
 5. This zine is pretty thick so you might have trouble folding it flat. We recommend using your phone or another blunt flat object to crease the pages as you fold them.
 
 6. And now you've printed and folded your zine... The last step is to share it with all your friends!
 
-  <p>
-    <img alt="printed zines" src="/images/printed_zines.jpg" class="md-img">
+  <p class="md-img">
+    <img alt="printed zines" src="/images/printed_zines.jpg">
   </p>
