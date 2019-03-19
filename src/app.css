@@ -160,13 +160,6 @@ h4 {
   margin-right: 1px;
 }
 
-.md-img.left::before {
-  float: left;
-}
-.md-img.right::before {
-  float: right;
-}
-
 .md-img.off-1::before {
   height: 1em;
 }
@@ -199,26 +192,37 @@ h4 {
 }
 
 .md-img img {
-  max-width: 40%;
+  max-width: 80%;
   max-height: 400px;
   margin-bottom: 20px;
   clear: both;
 }
 
-.md-img.left img {
-  float: left;
-  margin-top: 10px;
-  margin-right: 20px;
-}
+@media (min-width: 720px) {
+  .md-img.left::before {
+    float: left;
+  }
 
-.md-img.right img {
-  float: right;
-  margin-top: 10px;
-  margin-left: 20px;
-}
+  .md-img.right::before {
+    float: right;
+  }
 
-.md-img:not(.right):not(.left) img {
-  max-width: 80%;
+  .md-img.left img,
+  .md-img.right img {
+    max-width: 40%;
+  }
+
+  .md-img.left img {
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+
+  .md-img.right img {
+    float: right;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
 }
 
 blockquote {
