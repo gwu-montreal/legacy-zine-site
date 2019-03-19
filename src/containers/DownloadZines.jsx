@@ -8,7 +8,7 @@ export default () => {
       <h2 className="tc">Download the Zine!</h2>
       <div className="downloadzines-container">
         <a
-          title="Download the Zine! (Waluigi cover)"
+          title="Download the Zine! (Waluigi cover by @pioldes)"
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf"
         >
           <img
@@ -26,7 +26,7 @@ export default () => {
           />
         </a>
         <a
-          title="Download the Zine! (Unionize! cover by @pioldes)"
+          title="Download the Zine! (Unionize! cover)"
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf"
         >
           <img
@@ -46,12 +46,21 @@ export default () => {
       </div>
       <h3 className="tc">
         Choose from the four cover variants!
-        <br /> Share with your coworkers and friends!
-      </h3>
-      <p className="tc">
-        <a href="/how-to-print">How to Print this Zine at Home</a>
         <br />
-        <a href="/endnotes">References page</a>
+        Print and share with your coworkers and friends!
+      </h3>
+      <p className="tc downloadzines-notes">
+        <div>
+          <a href="/endnotes">References page</a>
+        </div>
+        <div>
+          <a href="/how-to-print">Printing hints</a>
+        </div>
+        <div>
+          <a href="https://gameworkersunite.org">
+            Game Workers Unite International
+          </a>
+        </div>
       </p>
     </div>
   );

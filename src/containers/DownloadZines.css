@@ -8,3 +8,16 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+.downloadzines-notes {
+  font-size: 80%;
+}
+
+.downloadzines-notes > * {
+  display: inline-block;
+}
+
+.downloadzines-notes > :not(:last-child)::after {
+  margin: 0 10px;
+  content: "·";
+}
