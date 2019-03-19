@@ -15,12 +15,14 @@ employers, even if you think they're sympathetic to your cause.**
    relationships now can strengthen both parties' actions in the future. **If
    possible, talk to experienced organizers or attend a training session on
    workplace organizing.**
+
 2. **Talk to your coworkers** one-on-one about their problems in the workplace,
    away from the supervision of management. Ask questions, and let them tell you
    the things that they want to fix; listen carefully, and don't assume you know
    what their problems are. Be supportive and understanding, and help them
    realize they're not alone in these issues. **Don't start talking about unions
    yet!** Start by identifying problems to solve.
+
 3. **Help them identify collective solutions** to the problems they've shared.
    Just talking about issues isn't enough; stopping there can build frustration
    and anger without being constructive with those feelings. Your goal is to
@@ -29,12 +31,14 @@ employers, even if you think they're sympathetic to your cause.**
    questions like "Who else feels this way?" and "What would happen if…" are
    useful. **Always be honest!** Don't oversell what's possible, and don't
    minimize the potential dangers.
-<div class="md-img right">
+
+<div class="md-img">
 <img
 src="/images/mgs.png"
 alt="Snake, you can't just start talking about unionizing in the open. If Big Boss finds out, you're going to be in trouble. You have to be sneaky about it!"
 />
 </div>
+
 4. **Organize a first action** to solve a simple, achievable problem. You don't
    need the whole office on board! Start with 10% of your coworkers, and target
    something concrete and achievable: demanding free coffee, or complaining to
@@ -42,12 +46,14 @@ alt="Snake, you can't just start talking about unionizing in the open. If Big Bo
    the power of collective action, gain courage and experience, and inspire
    others to join in the next action. **Before you take that first action,
    though…**
+
 5. **Prepare your coworkers for the bosses' reaction** when they find out you're
    organizing. Bosses have a lot of tactics to break up organizing workers, and
    they can be very effective and intimidating to the unprepared, but they're
    also very predictable. Learn these tactics yourself, and share them with your
    coworkers. These plays are much less effective when people know they're
    coming, and you've already had a chance to counter their anti-union lines.
+
 6. **Push your coworkers to become organizers themselves**. You can't do
    everything yourself, so help your coworkers become more involved by giving
    them tasks and following up. A task can be anything from taking notes at a
