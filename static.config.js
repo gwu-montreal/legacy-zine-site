@@ -6,7 +6,8 @@ import chokidar from "chokidar";
 
 import articleList from "./contents";
 
-chokidar.watch("content").on("all", () => reloadRoutes());
+// the chokidar watcher needs to be closed after a build successfully completes
+let watcher;
 
 // just hoisting this as reminder for localization later
 const metaDescription = "Read the latest zine from Game Workers Unite!";
@@ -166,5 +167,20 @@ export default {
       </Head>
       <Body>{children}</Body>
     </Html>
-  )
+  ),
+  onStart: () => {
+    watcher = chokidar
+      .watch("content", { ignoreInitial: true })
+      .on("all", (eventName, path) => {
+        console.log(`${eventName}: ${path}`);
+        // reloading routes is completely broken, see
+        // https://github.com/nozzle/react-static/issues/985
+        // but either way the server needs to be restarted on every content
+        // change to see updates, so it doesn't matter if we keep it
+        reloadRoutes();
+      });
+  },
+  onBuild: () => {
+    if (watcher) watcher.close();
+  }
 };
