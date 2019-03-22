@@ -1,7 +1,6 @@
 {
   "extends": [
     "stylelint-config-recommended",
-    "stylelint-config-css-modules",
     "stylelint-config-prettier"
   ],
   "rules": {
