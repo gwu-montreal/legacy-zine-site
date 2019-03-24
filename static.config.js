@@ -166,6 +166,7 @@ export default {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <Body>{children}</Body>
+      <script async src="/fathom.js" />
     </Html>
   ),
   onStart: () => {
