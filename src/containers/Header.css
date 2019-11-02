@@ -3,6 +3,8 @@
     padding: 10px 0;
     background-color: rgb(204, 204, 208);
     text-align: right;
+    font-family: "Metropolis";
+    font-weight: 100;
 }
 
 .lang-select-label {

@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Reg.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Reg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Italic.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ProspectusS";
+  src: url("./fonts/subset-ProspectusS-Bold.woff2") format("woff2"),
+    url("./fonts/subset-ProspectusS-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("./fonts/subset-LiberationMono-Bold.woff2") format("woff2"),
+    url("./fonts/subset-LiberationMono-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("./fonts/subset-LiberationMono-Italic.woff2") format("woff2"),
+    url("./fonts/subset-LiberationMono-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("./fonts/subset-LiberationMono-BoldItalic.woff2") format("woff2"),
+    url("./fonts/subset-LiberationMono-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("./fonts/subset-LiberationMono.woff2") format("woff2"),
+    url("./fonts/subset-LiberationMono.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-light.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-light.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-lightitalic.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-lightitalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-medium.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-medium.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-mediumitalic.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-mediumitalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-bold.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Metropolis";
+  src: url("./fonts/subset-Metropolis-bolditalic.woff2") format("woff2"),
+    url("./fonts/subset-Metropolis-bolditalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
