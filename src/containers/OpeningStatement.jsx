@@ -5,7 +5,7 @@ import { Link } from "@reach/router";
 import TableOfContents from "../containers/TableOfContents";
 import DownloadZines from "../containers/DownloadZines";
 
-import "./index.css";
+import "./OpeningStatement.css";
 
 export default withRouteData(({ openingStatement }) => (
   <>

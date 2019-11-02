@@ -14,18 +14,21 @@ const metaDescription = "Read the latest zine from Game Workers Unite!";
 
 export default {
   getSiteData: async () => {
-    const { articles } = await jdown("content");
+    // we can't do jdown("content") because
+    // jdown doesn't support deep folder structures
+    const articles = await jdown("content/articles");
 
-    const articlesByOriginalFilename = {};
-    Object.entries(articles).forEach(([filename, data]) => {
-      const originalFilename = kebabCase(filename);
-      articlesByOriginalFilename[originalFilename] = data;
+    const articlesByOriginalArticleName = {};
+    Object.entries(articles).forEach(([articleName, dataByLanguage]) => {
+      const originalArticleName = kebabCase(articleName);
+      articlesByOriginalArticleName[originalArticleName] = dataByLanguage;
     });
 
-    const tableOfContents = articleList.map(filename => ({
-      route: "/" + filename,
-      title: articlesByOriginalFilename[filename].title,
-      articleType: articlesByOriginalFilename[filename].type
+    // TODO: make this work for all languages not just English
+    const tableOfContents = articleList.map(articleName => ({
+      route: "/" + articleName,
+      title: articlesByOriginalArticleName[articleName].en.title,
+      articleType: articlesByOriginalArticleName[articleName].en.type
     }));
 
     return {
@@ -34,31 +37,31 @@ export default {
     };
   },
   getRoutes: async () => {
-    const { articles, extradata } = await jdown("content");
+    const articles = await jdown("content/articles");
+    const extradata = await jdown("content/extradata");
 
-    const { openingStatement, endnotes, howToPrint } = extradata;
+    const {
+      "opening-statement": openingStatement,
+      endnotes,
+      "how-to-print": howToPrint
+    } = extradata;
 
-    const articlesByOriginalFilename = {};
-    Object.entries(articles).forEach(([filename, data]) => {
-      const originalFilename = kebabCase(filename);
-      articlesByOriginalFilename[originalFilename] = data;
+    const articlesByOriginalArticleName = {};
+    Object.entries(articles).forEach(([articleName, dataByLanguage]) => {
+      const originalArticleName = kebabCase(articleName);
+      articlesByOriginalArticleName[originalArticleName] = dataByLanguage;
     });
 
-    const routes = Object.entries(articlesByOriginalFilename)
-      .map(([filename, data]) => {
-        const articleIndex = articleList.indexOf(filename);
+    const routes = Object.entries(articlesByOriginalArticleName)
+      .reduce((routes, [articleName, dataByLanguage]) => {
+        const articleIndex = articleList.indexOf(articleName);
         if (articleIndex === -1) {
           console.warn(
-            `file found in articles but not in contents.js: ${filename}\nexcluding from routes.`
+            `file found in articles but not in contents.js: ${articleName}\nexcluding from routes.`
           );
 
-          return null;
+          return routes;
         }
-
-        // FIXME: don't use slugs for now, we rely on filename as route in other
-        // places curently
-        // const slug = data.slug || filename;
-        const slug = filename;
 
         // TODO: yeah this isn't dry or whatever, simplify later
         const prevPage =
@@ -66,7 +69,7 @@ export default {
             ? {
                 route: "/" + articleList[articleIndex - 1],
                 name:
-                  articlesByOriginalFilename[articleList[articleIndex - 1]]
+                  articlesByOriginalArticleName[articleList[articleIndex - 1]]
                     .title
               }
             : null;
@@ -76,13 +79,13 @@ export default {
             ? {
                 route: "/" + articleList[articleIndex + 1],
                 name:
-                  articlesByOriginalFilename[articleList[articleIndex + 1]]
+                  articlesByOriginalArticleName[articleList[articleIndex + 1]]
                     .title
               }
             : null;
 
-        return {
-          path: slug,
+        routes = routes.concat(Object.entries(dataByLanguage).map(([language, data]) => ({
+          path: `/${language}/${articleName}`,
           component: (() => {
             switch (data.type) {
               case "unionfaqs":
@@ -101,33 +104,74 @@ export default {
             prevPage,
             nextPage
           })
-        };
-      })
-      .filter(r => r); // filter nulls
+        })));
 
-    return [
-      {
-        path: "/",
+        // redirect old paths to en/ path
+        // TODO: implement Redirect component
+        routes.push({
+          path: `/${articleName}`,
+          component: "src/containers/Redirect",
+          getData: () => ({
+            redirectPath: `/en/${articleName}`
+          })
+        });
+
+        return routes;
+      }, []);
+
+
+    Object.entries(openingStatement).forEach(([language, data]) => {
+      routes.push({
+        path: `/${language}`,
+        component: "src/containers/OpeningStatement",
         getData: () => ({
-          openingStatement
+          openingStatement: data
         })
-      },
-      {
-        path: "/endnotes",
+      });
+    });
+    routes.push({
+      path: "/",
+      component: "src/containers/Redirect",
+      getData: () => ({
+        redirectPath: "/en"
+      })
+    });
+
+    Object.entries(endnotes).forEach(([language, data]) => {
+      routes.push({
+        path: `/${language}/endnotes`,
         component: "src/containers/Article",
         getData: () => ({
-          ...endnotes
+          ...data
         })
-      },
-      {
-        path: "/how-to-print",
+      });
+    });
+    routes.push({
+      path: "/endnotes",
+      component: "src/containers/Redirect",
+      getData: () => ({
+        redirectPath: "/en/endnotes"
+      })
+    });
+
+    Object.entries(howToPrint).forEach(([language, data]) => {
+      routes.push({
+        path: `/${language}/how-to-print`,
         component: "src/containers/Article",
         getData: () => ({
-          ...howToPrint
-        })
-      },
-      ...routes
-    ];
+          ...data
+        }),
+      });
+    });
+    routes.push({
+      path: "/how-to-print",
+      component: "src/containers/Redirect",
+      getData: () => ({
+        redirectPath: "/en/how-to-print"
+      })
+    });
+
+    return routes;
   },
   Document: ({ Html, Head, Body, children, siteData }) => (
     <Html lang="en-US">
