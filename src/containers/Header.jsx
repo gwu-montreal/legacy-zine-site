@@ -6,6 +6,11 @@ import "./Header.css";
 
 export default () => (
   <Headroom>
+    <div className="top-bar">
+      <div className="container">
+        <span>Select your language</span>
+      </div>
+    </div>
     <div className="container">
       <nav className="head">
         <div>
