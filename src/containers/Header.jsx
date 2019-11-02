@@ -6,6 +6,15 @@ import "./Header.css";
 
 export default () => (
   <Headroom>
+    <div className="top-bar">
+      <div className="container">
+        <label for="lang-select" className="lang-select-label">Select a language:</label>
+        <select name="language" id="lang-select">
+          <option value="en">English</option>
+          <option value="fr">Francais</option>
+        </select>
+      </div>
+    </div>
     <div className="container">
       <nav className="head">
         <div>

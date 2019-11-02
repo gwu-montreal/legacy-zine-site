@@ -4,6 +4,7 @@ import { Root, Routes, Head } from "react-static";
 import Header from "./containers/Header";
 
 import "./reboot.css";
+import "./fontface.css";
 import "./app.css";
 
 export default function App() {
