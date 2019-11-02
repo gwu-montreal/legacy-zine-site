@@ -1,0 +1,26 @@
+---
+title: Devenir Indie ?
+type: unionfaqs
+---
+**Les syndicats ne sont pas seulement pour les milieux de travail les plus larges**. Bien que les syndicats semblent être une solution logique pour les grandes compagnies (disons, celles où un·e patron·e multimilliardaire que vous n’avez jamais rencontré peut vous virer tout en racontant que vous n’avez pas achevé votre “plein potentiel”), **même les plus petites compagnies peuvent énormément bénéficier d’un syndicat**. En fait, de notre expérience, les petits studios sont parfois **encore plus abusifs**, et plus prédisposés (consciemment ou non) à ne pas respecter vos droits et limites en tant que travailleur·se. Les patron·e·s de petits studios vont souvent clamer que “nous sommes tous ensemble dans cette aventure”, mais ce sont tout de même eux·elles qui contrôlent notre salaire et bénéficieront le plus du succès de la compagnie — sans oublier qu’ils·elles ont le pouvoir de vous renvoyer quand les choses tournent mal (ou s’ils·elles décident qu’ils·elles ne vous aiment pas). Une fois de plus, s’organiser avec vos collègues peut vous donner un levier pour faire pression contre ce genre d’abus.
+
+Une autre façon de regarder le problème est que vous organiser peut avant tout vous aider à réfléchir à la question de *qui fait véritablement le travail* à votre job. Même si les patron·e·s de petites entreprises ont parfois de nombreux rôles ou travaillent à vos côtés, ils·elles ont généralement un pouvoir de prise de décision disproportionné, ou la capacité de veto ce qu’ils·elles désirent, parce que *ce sont les boss*. Si le développement de jeux vidéo est réellement un travail d’équipe, *pourquoi n’aurions-nous pas notre part dans la direction de l’entreprise *?
+
+Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement de la direction, quelle qu’en soit la raison. **Ce sont les patron·e·s qui décident quand vendre le studio**, et ce sont eux·elles qui peuvent récolter les fruits de tout le travail accompli quand le studio se fait racheter. Quand cela se produit, habituellement tout ce que vous obtenez, en tant que travailleur·se, est un changement de patron·e. Comme on le sait, Notch a vendu Mojang à Microsoft pour 2.5 billions de dollars et est devenu énormément riche grâce à cela, tandis que ses employé·e·s n’ont rien reçu. (Microsoft a plus tard offert la somme relativement maigre de 300 000 dollars — la somme éclatante de 0.0003 billions de dollars — à chaque travailleur·se, mais seulement à condition qu’ils acceptent de rester employé·e·s de Microsoft pour 6 mois de plus.)
+
+> Les nouvelles de la vente de la compagnie ont changé les choses à Mojang. Certain·e·s se sentaient trahi·e·s par la décision de Markus. Le moral a plongé. “Les gens avaient l’impression que leur monde s’effondrait” ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
+
+<div class="md-img right">
+<img
+  src="/images/faqs/wario.png"
+  alt="Screenshot from Warioware: Mona! I need your help. What's it pay? Uh, hold on... Crzzsh. Crzzsh! I can't hear you. You're breaking up!?"
+/>
+</div>
+
+Il existe beaucoup d’autres histoires non-dites dans la scène indé à propos de personnes ayant rejoint une petite startup et accepté d’être payé moins que ce qu’ils·elles méritaient parce qu’ils·elles croyaient vraiment en le projet — tout ça pour n’avoir rien reçu après que le jeu ait rencontré un succès énorme et que les patron·e·s aient vendu la compagnie pour plusieurs millions.
+
+Si le·la patron·e de votre petit studio annonce être sympathique à la cause syndicale : excellent ! En tant que travailleur·se, vous êtes bien positionné·e pour les aider à traduire leurs paroles en actes. Mais soyez prévenus que leur sympathie risque de s’évaporer dès lors que vous annoncerez vouloir syndiquer votre petit studio indé plutôt qu’une autre compagnie 100 fois plus grosse que vous. Au final, les patron·e·s vont perdre du pouvoir et de l’argent si leur studio se syndique , ce qui — étonnamment ! — rend la perspective peu attrayante à leurs yeux dès lors que l’on parle d’actions concrètes. **C’est dans ces moments qu’il devient très clair à quel point la mentalité du “on est tous amis ici” est superficielle**. En négociant collectivement, vous forcez votre employeur·se à se confronter aux réalités du travail collaboratif : les limites que vous voulez placer, les droits que vous voulez exercer, les conditions que vous voulez améliorer. Ces sujets ont tendance à être difficiles à aborder par vous-même quand il y a une dynamique de pouvoir inavouée.
+
+> "En fabricant l’illusion de l’employeur·se comme ami·e, l’employé·e se voit dénié·e de l’opportunité de protester, débattre, se battre, être antagoniste et demander davantage de ses conditions de travail."
+
+Si votre patron·e le pense *vraiment* lorsqu’il·elle dit être favorable et qu'il·elle veut que tout le monde soit égal, pourquoi ne pas promouvoir une propriété collective ? Transitionner vers un modèle collectif est une façon efficace de s’assurer que chacun·e dans une compagnie bénéficie du succès de son dur labeur. Et si vous envisagez de commencer un nouveau studio vous-même, former une coopérative de salarié·e·s est une bonne façon d’implanter ces valeurs dès le début.

@@ -1,0 +1,3 @@
+Si vous possédez une entreprise et désirez soutenir les travailleur·euse·s dans leur lutte pour améliorer l'industrie, il existe un moyen idéal pour vous de les aider!
+Transformer la structure de votre compagnie en transitionnant vers une coopérative de travailleur·euse·s permet d'abolir les conflits et inégalités qui existent fondamentalement dans toute compagnie avec des employés.
+Consultez la partie sur les co-ops plus loin dans ce zine pour davantage d'infos!
