@@ -14,7 +14,7 @@ export default withRouteData(({ openingStatement }) => (
       <img
         alt="Isabelle: Unionize!"
         className="intro-image"
-        src="images/isabelle-clearbg-inlined.svg"
+        src="/images/isabelle-clearbg-inlined.svg"
       />
       <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
       <Link to="/intro">
