@@ -58,21 +58,26 @@ export default () => {
               {i18next.t("print_and_share")}
             </h3>
             <p className="tc downloadzines-notes">
-              <div>
+              <span>
                 <a href={`/${languageCode}/endnotes`}>
                   {i18next.t("references_page")}
                 </a>
-              </div>
-              <div>
+              </span>
+              <span>
                 <a href={`/${languageCode}/how-to-print`}>
                   {i18next.t("printing_hints")}
                 </a>
-              </div>
-              <div>
-                <a href="https://gameworkersunite.org">
-                  {i18next.t("gwu_international")}
-                </a>
-              </div>
+              </span>
+            </p>
+            <p className="tc downloadzines-gwuintl">
+              <a href="https://gameworkersunite.org">
+                <span>{i18next.t("gwu_international")}</span>
+                <img
+                  title="Game Workers Unite International"
+                  className="gwu-intl-image"
+                  src="/images/gwu-logo.svg"
+                />
+              </a>
             </p>
           </div>
         );

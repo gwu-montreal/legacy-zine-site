@@ -13,30 +13,6 @@ export default () => (
       const languageCode = getLanguageFromPathname(pathname);
       return (
         <Headroom>
-          <div className="top-bar">
-            <div className="container">
-              <label
-                htmlFor="lang-select"
-                className="lang-select-label"
-              >
-                {i18next.t("select_a_language")}
-              </label>
-              &nbsp;
-              <select
-                value={languageCode}
-                onChange={e => {
-                  const code = e.target.value;
-                  i18next.changeLanguage(code);
-                  navigate(replaceLanguageInPathname(pathname, code));
-                }}
-                name="language"
-                id="lang-select"
-              >
-                <option value="en">English</option>
-                <option value="fr">Français</option>
-              </select>
-            </div>
-          </div>
           <div className="container">
             <nav className="head">
               <div>
@@ -52,13 +28,19 @@ export default () => (
                 </Link>
               </div>
               <div className="head-right">
-                <a href="https://gameworkersunite.org">
-                  <img
-                    title="Game Workers Unite International"
-                    className="header-logo-image"
-                    src="/images/gwu-logo.svg"
-                  />
-                </a>
+                <select
+                  value={languageCode}
+                  onChange={e => {
+                    const code = e.target.value;
+                    i18next.changeLanguage(code);
+                    navigate(replaceLanguageInPathname(pathname, code));
+                  }}
+                  name="language"
+                  id="lang-select"
+                >
+                  <option value="en">EN</option>
+                  <option value="fr">FR</option>
+                </select>
               </div>
             </nav>
           </div>
