@@ -1,21 +1,21 @@
 ---
-title: Que peuvent nous apporter les syndicats?
+title: Comment les syndicats peuvent-ils nous aider?
 ---
-Un syndicat est une organisation de travailleur·euse·s qui se consacre à **améliorer les salaires, les temps de travail et les conditions de travail** au sein de leur compagnie ou industrie à travers des négociations collectives. **Les syndicats mobilisent le pouvoir collectif des travailleur·euse·s** pour contrebalancer le pouvoir détenu par les patron·ne·s et actionnaires.
+Un syndicat est une organisation de travailleu·se·rs qui se consacre à **améliorer les salaires, les horaires et les conditions de travail** au sein de leur compagnie ou industrie à travers des négociations collectives. **Les syndicats mobilisent le pouvoir collectif des travailleu·se·rs** pour contrebalancer le pouvoir détenu par les patrons et actionnaires.
 
-En tant que travailleur·euse·s, chacun d’entre nous bénéficie des actions syndicales menées avant nous. Voici quelques exemples de combats dirigés et remportés par les syndicats dans le passé:
+En tant que travailleu·se·rs, chacun d’entre nous bénéficie des luttes syndicales menées avant nous. Voici quelques exemples de combats dirigés et remportés par les syndicats dans le passé:
 
 Normes de sécurité • Assurance maladie • Fin des heures supplémentaires non payées • Assurance chômage • Protection face aux licenciements de masse et renvois injustes • Politiques anti-harcèlement • Réduction de la disparité salariale • Congés maladie payés • Congé parental payé • Congé annuel • Retraite • Week-ends • Pauses repas • Abolition du travail des enfants
 
-Dans la section qui suit, nous allons expliquer plus précisément par quels moyens les syndicats peuvent assister les travailleur·euse·s dans l’industrie du jeu vidéo.
+Dans la section qui suit, nous allons expliquer plus précisément par quels moyens les syndicats peuvent assister les travailleu·se·eurs dans l’industrie du jeu vidéo.
 
 
 
 ### Licenciements
 
-La plupart du travail dans le jeu vidéo est basé sur des contrats ou “projets”, ce qui signifie que beaucoup de travailleur·euse·s risquent de se retrouver sans emploi lorsque les projets (même ceux au succès critique) sont publiés. C’est déjà une façon malsaine de travailler, mais en plus de cela, les travailleur·euse·s sont parfois licencié·e·s sans aucun avertissement d'aucune sorte.
+La plupart du travail dans le jeu vidéo repose sur des contrats ou “projets”, beaucoup de travailleu·se·rs risquent donc de se retrouver sans emploi lorsque les projets (même ceux au succès critique) sont terminés. C’est déjà une façon malsaine de travailler, mais en plus de cela, les travailleu·se·rs sont parfois licencié·e·s sans aucune forme d'avertissement.
 
-Si vous n’avez jamais participé ou été représenté par un syndicat, vous vous demandez peut-être comment ils peuvent être utiles dans l’éventualité de licenciements collectifs; les suppressions d’emplois, on ne peut rien y faire, n’est-ce-pas? Et bien détrompez vous. L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail ou une industrie est une **convention collective** (de travail). Une convention collective n’est pas la seule technique pour s’organiser ou de faire des demandes — mais son efficacité est prouvée, et la plupart des conventions collectives apportent une protection pour les travailleur·euse·s contre les licenciements par les employeur·euse·s:
+Si vous n’avez jamais été membre ou représenté par un syndicat, vous vous demandez peut-être comment ils peuvent être utiles dans l’éventualité de licenciements collectifs; les suppressions d’emplois, on n'y peut rien, n’est-ce-pas? Et bien détrompez vous. L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail ou une industrie est une **convention collective** (de travail). Une convention collective n’est pas la seule technique pour s’organiser ou de faire des demandes — mais son efficacité est prouvée, et la plupart des conventions collectives apportent une protection pour les travailleu·se·rs contre les licenciements par les employeurs:
 
 > Certaines conventions collectives ne permettent pas les licenciements même si l’employeur·euse affirme ne pas avoir assez d’argent pour garantir la paie de tous… De la même façon, beaucoup de conventions collective interdisent aux employeur·euse·s de licencier les travailleur·euse·s syndiqué·e·s ou de sous-traiter leurs postes.
 >
@@ -73,7 +73,7 @@ Beaucoup de personnes dans l'industrie du jeu vidéo essaient de dépeindre le c
 
 ### Harcèlement
 
-Le harcèlement est maintenant un problème bien connu dans l’industrie du jeu vidéo depuis des années, mais jusqu’à présent **les patron·ne·s ont très peu agi pour véritablement adresser le problème**, à part en délivrant des discours vagues sur leurs “condamnations du harcèlement” au sein des compagnies. Quand du harcèlement a lieu sur le lieu de travail, les travailleur·euse·s n’ont souvent aucune option pour se défendre. Les départements des RH sont censés être la première destination pour les victimes, mais ces départements sont souvent trop concernés par la protection de l’image publique de la compagnie plutôt que par la protection de leurs employé·e·s.
+Le harcèlement est maintenant un problème bien connu dans l’industrie du jeu vidéo depuis des années, mais jusqu’à présent **les patrons ont très peu agi pour véritablement adresser le problème**, à part en délivrant des discours vagues sur leurs “condamnations du harcèlement” au sein des compagnies. Quand du harcèlement a lieu sur le lieu de travail, les travailleur·euse·s n’ont souvent aucune option pour se défendre. Les départements des RH sont censés être la première destination pour les victimes, mais ces départements sont souvent trop concernés par la protection de l’image publique de la compagnie plutôt que par la protection de leurs employé·e·s.
 
 <div class="md-img right off-9">
 <img
@@ -106,7 +106,7 @@ Une force de travail syndiquée ou une coopérative de salarié·e·s n’aident
 
 ### Problèmes de crédits
 
-Dans le jeu vidéo, les crédits sont l’une des façons les plus importantes, en tant que travailleur·euse, de vous faire remarquer. Si vous êtes nouveau dans l’industrie du jeu vidéo, vous pourriez croire que se faire créditer pour son travail sur un jeu est un processus très simple. Mais ce n’est pas toujours le cas. Rockstar, par exemple, est un studio réputé pour faire miroiter devant les travailleur·euse·s leur place dans les crédits, en récompense pour avoir fini de travailler sur un jeu. Comme [l’a écrit le journaliste Richard Moss l’an dernier](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php): 
+Dans le jeu vidéo, les crédits sont l’une des façons les plus importantes de vous faire remarquer en tant que travailleu·se·r. Si vous êtes débutez dans l’industrie du jeu vidéo, vous pourriez croire que se faire créditer pour son travail sur un jeu est un processus simple. Mais ce n’est pas toujours le cas. Rockstar par exemple est un studio réputé pour faire miroiter devant les travailleu·se·s leur place dans les crédits, en récompense pour avoir fini de travailler sur un jeu. Comme [l’a écrit le journaliste Richard Moss l’an dernier](https://www.gamasutra.com/view/news/329003/How_bad_crediting_hurts_the_game_industry_and_muddles_history.php): 
 
 >Pour les studios, les crédits peuvent constituer un outil de pression… [Rockstar] a longtemps maintenu pour politique de ne créditer les gens ayant travaillé sur un jeu que si elles·ils étaient présent·e·s lors de la fin du projet, pour encourager l’équipe à  “atteindre la ligne d’arrivée”
 
