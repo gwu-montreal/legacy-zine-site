@@ -5,23 +5,34 @@ import Headroom from "react-headroom";
 import { getLanguageFromPathname, replaceLanguageInPathname } from "../utils";
 import "./Header.css";
 
+function getLanguagePrompt(languageCode) {
+  switch (languageCode) {
+    case "fr":
+      return "Sélectionnez une langue:"
+    case "en":
+    default:
+      return "Select a language:";
+  }
+}
+
 export default () => (
   <Headroom>
     <div className="top-bar">
       <Location>
         {({ location, navigate }) => {
           const { pathname } = location;
+          const languageCode = getLanguageFromPathname(pathname);
           return (
             <div className="container">
               <label
                 htmlFor="lang-select"
                 className="lang-select-label"
               >
-                Select a language:
+                {getLanguagePrompt(languageCode)}
               </label>
               &nbsp;
               <select
-                value={getLanguageFromPathname(pathname)}
+                value={languageCode}
                 onChange={e => {
                   navigate(replaceLanguageInPathname(pathname, e.target.value));
                 }}
