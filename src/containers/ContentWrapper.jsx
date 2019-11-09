@@ -11,8 +11,8 @@ export default withRouteData(
   ({
     title,
     contents,
-    prevPage,
-    nextPage,
+    prevPages,
+    nextPages,
     header,
     type,
     containerClassName = "",
@@ -47,7 +47,7 @@ export default withRouteData(
           )}
           <Clearfix />
         </div>
-        <Footer prevPage={prevPage} nextPage={nextPage} />
+        <Footer prevPages={prevPages} nextPages={nextPages} />
       </div>
     </React.Fragment>
   )

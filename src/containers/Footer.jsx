@@ -4,9 +4,9 @@ import PrevNextLinks from "./PrevNextLinks";
 import TableOfContents from "./TableOfContents";
 import DownloadZines from "./DownloadZines";
 
-export default ({ prevPage, nextPage }) => (
+export default ({ prevPages, nextPages }) => (
   <div style={{ marginBottom: "2rem" }}>
-    <PrevNextLinks prevPage={prevPage} nextPage={nextPage} />
+    <PrevNextLinks prevPages={prevPages} nextPages={nextPages} />
     <TableOfContents />
     <DownloadZines />
   </div>

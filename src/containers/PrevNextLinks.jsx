@@ -1,19 +1,30 @@
 import React from "react";
-import { Link } from "@reach/router";
+import { Link, Location } from "@reach/router";
 
+import { getLanguageFromPathname } from "../utils";
 import "./PrevNextLinks.css";
 
-export default ({ prevPage, nextPage }) => (
-  <div className="prev-next-wrapper">
-    {prevPage ? (
-      <Link to={prevPage.route}>
-        {"<"} {prevPage.name}
-      </Link>
-    ) : null}
-    {nextPage ? (
-      <Link to={nextPage.route}>
-        {nextPage.name} {">"}
-      </Link>
-    ) : null}
-  </div>
+export default ({ prevPages, nextPages }) => (
+  <Location>
+    {({ location }) => {
+      const { pathname } = location;
+      const languageCode = getLanguageFromPathname(pathname);
+      const prevPage = prevPages[languageCode];
+      const nextPage = nextPages[languageCode];
+      return (
+        <div className="prev-next-wrapper">
+          {prevPage ? (
+            <Link to={prevPage.route}>
+              {"<"} {prevPage.name}
+            </Link>
+          ) : null}
+          {nextPage ? (
+            <Link to={nextPage.route}>
+              {nextPage.name} {">"}
+            </Link>
+          ) : null}
+        </div>
+      );
+    }}
+  </Location>
 );

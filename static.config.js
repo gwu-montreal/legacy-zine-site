@@ -67,25 +67,26 @@ export default {
         }
 
         // TODO: yeah this isn't dry or whatever, simplify later
-        const prevPage =
-          articleIndex > 0
+        const prevPages = {};
+        const nextPages = {};
+        for (const code of languageList) {
+          prevPages[code] = articleIndex > 0
             ? {
-                route: "/" + articleList[articleIndex - 1],
+                route: `/${code}/${articleList[articleIndex - 1]}`,
                 name:
-                  articlesByOriginalArticleName[articleList[articleIndex - 1]]
+                  articlesByOriginalArticleName[articleList[articleIndex - 1]][code]
                     .title
               }
             : null;
-
-        const nextPage =
-          articleIndex < articleList.length - 1
+          nextPages[code] = articleIndex < articleList.length - 1
             ? {
-                route: "/" + articleList[articleIndex + 1],
+                route: `/${code}/${articleList[articleIndex + 1]}`,
                 name:
-                  articlesByOriginalArticleName[articleList[articleIndex + 1]]
+                  articlesByOriginalArticleName[articleList[articleIndex + 1]][code]
                     .title
               }
             : null;
+        }
 
         routes = routes.concat(Object.entries(dataByLanguage).map(([language, data]) => ({
           path: `/${language}/${articleName}`,
@@ -104,8 +105,8 @@ export default {
           })(),
           getData: () => ({
             ...data,
-            prevPage,
-            nextPage
+            prevPages,
+            nextPages
           })
         })));
 
