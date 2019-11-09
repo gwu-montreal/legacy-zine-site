@@ -7,13 +7,13 @@ import { getLanguageFromPathname, replaceLanguageInPathname } from "../utils";
 import "./Header.css";
 
 export default () => (
-  <Headroom>
-    <div className="top-bar">
-      <Location>
-        {({ location, navigate }) => {
-          const { pathname } = location;
-          const languageCode = getLanguageFromPathname(pathname);
-          return (
+  <Location>
+    {({ location, navigate }) => {
+      const { pathname } = location;
+      const languageCode = getLanguageFromPathname(pathname);
+      return (
+        <Headroom>
+          <div className="top-bar">
             <div className="container">
               <label
                 htmlFor="lang-select"
@@ -36,34 +36,34 @@ export default () => (
                 <option value="fr">Français</option>
               </select>
             </div>
-          );
-        }}
-      </Location>
-    </div>
-    <div className="container">
-      <nav className="head">
-        <div>
-          <Link to="/">
-            <img
-              alt="Game Workers Unite"
-              className="header-logo-image"
-              src="/images/gwu-mag-logo.svg"
-            />
-            <span className="header-after-logo">
-              {i18next.t("header_title")}
-            </span>
-          </Link>
-        </div>
-        <div className="head-right">
-          <a href="https://gameworkersunite.org">
-            <img
-              title="Game Workers Unite International"
-              className="header-logo-image"
-              src="/images/gwu-logo.svg"
-            />
-          </a>
-        </div>
-      </nav>
-    </div>
-  </Headroom>
+          </div>
+          <div className="container">
+            <nav className="head">
+              <div>
+                <Link to={`/${languageCode}`}>
+                  <img
+                    alt="Game Workers Unite"
+                    className="header-logo-image"
+                    src="/images/gwu-mag-logo.svg"
+                  />
+                  <span className="header-after-logo">
+                    {i18next.t("header_title")}
+                  </span>
+                </Link>
+              </div>
+              <div className="head-right">
+                <a href="https://gameworkersunite.org">
+                  <img
+                    title="Game Workers Unite International"
+                    className="header-logo-image"
+                    src="/images/gwu-logo.svg"
+                  />
+                </a>
+              </div>
+            </nav>
+          </div>
+        </Headroom>
+      );
+    }}
+  </Location>
 );
