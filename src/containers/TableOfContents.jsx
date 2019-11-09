@@ -2,13 +2,16 @@ import React from "react";
 import { withSiteData } from "react-static";
 import { Link, Location } from "@reach/router";
 
+import { getLanguageFromPathname, replaceLanguageInPathname } from "../utils";
 import "./TableOfContents.css";
 
 export default withSiteData(({ tableOfContents }) => (
   <div className="toc-wrapper">
     <Location>
-      {({ location }) =>
-        tableOfContents.map(({ route, title, articleType }) => {
+      {({ location }) => {
+        const languageCode = getLanguageFromPathname(location.pathname);
+        const contents = tableOfContents[languageCode];
+        return contents.map(({ route, title, articleType }) => {
           const maybeUnionfaqs =
             articleType === "unionfaqs" ? (
               <span className="toc-unionfaqs">UnionFAQs: </span>
@@ -31,7 +34,7 @@ export default withSiteData(({ tableOfContents }) => (
             </span>
           );
         })
-      }
+      }}
     </Location>
   </div>
 ));

@@ -5,6 +5,7 @@ import kebabCase from "just-kebab-case";
 import chokidar from "chokidar";
 
 import articleList from "./contents";
+import { languageList } from "./src/utils";
 
 // the chokidar watcher needs to be closed after a build successfully completes
 let watcher;
@@ -24,12 +25,14 @@ export default {
       articlesByOriginalArticleName[originalArticleName] = dataByLanguage;
     });
 
-    // TODO: make this work for all languages not just English
-    const tableOfContents = articleList.map(articleName => ({
-      route: "/" + articleName,
-      title: articlesByOriginalArticleName[articleName].en.title,
-      articleType: articlesByOriginalArticleName[articleName].en.type
-    }));
+    const tableOfContents = {};
+    for (const code of languageList) {
+      tableOfContents[code] = articleList.map(articleName => ({
+        route: `/${code}/${articleName}`,
+        title: articlesByOriginalArticleName[articleName][code].title,
+        articleType: articlesByOriginalArticleName[articleName][code].type
+      }));
+    }
 
     return {
       title: "Game Workers Unite Zine - GDC 2019",

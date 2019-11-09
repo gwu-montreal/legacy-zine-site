@@ -1,7 +1,7 @@
 // we assume all language codes are 2 characters long.
 // if this changes we will need to update our logic.
 
-const languageList = ["en", "fr"];
+export const languageList = ["en", "fr"];
 
 export function getLanguageFromPathname(pathname) {
   const code = pathname.slice(1, 3);
