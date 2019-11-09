@@ -1,14 +1,15 @@
 import React from "react";
+import i18next from "i18next";
 
 import "./DownloadZines.css";
 
 export default () => {
   return (
     <div>
-      <h2 className="tc">Download the Zine!</h2>
+      <h2 className="tc">{i18next.t("download_zine")}</h2>
       <div className="downloadzines-container">
         <a
-          title="Download the Zine! (Waluigi cover by @pioldes)"
+          title={i18next.t("download_zine_waluigi")}
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf"
         >
           <img
@@ -17,7 +18,7 @@ export default () => {
           />
         </a>
         <a
-          title="Download the Zine! (Isabelle cover)"
+          title={i18next.t("download_zine_isabelle")}
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019isabelleisabelle.pdf"
         >
           <img
@@ -26,7 +27,7 @@ export default () => {
           />
         </a>
         <a
-          title="Download the Zine! (Unionize! cover)"
+          title={i18next.t("download_zine_unionize")}
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf"
         >
           <img
@@ -35,7 +36,7 @@ export default () => {
           />
         </a>
         <a
-          title="Download the Zine! (Egg cover by @mushbuh)"
+          title={i18next.t("download_zine_egg")}
           href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019egg.pdf"
         >
           <img
@@ -45,20 +46,20 @@ export default () => {
         </a>
       </div>
       <h3 className="tc">
-        Choose from the four cover variants!
+        {i18next.t("four_cover_variants")}
         <br />
-        Print and share with your coworkers and friends!
+        {i18next.t("print_and_share")}
       </h3>
       <p className="tc downloadzines-notes">
         <div>
-          <a href="/endnotes">References page</a>
+          <a href="/endnotes">{i18next.t("references_page")}</a>
         </div>
         <div>
-          <a href="/how-to-print">Printing hints</a>
+          <a href="/how-to-print">{i18next.t("printing_hints")}</a>
         </div>
         <div>
           <a href="https://gameworkersunite.org">
-            Game Workers Unite International
+            {i18next.t("gwu_international")}
           </a>
         </div>
       </p>

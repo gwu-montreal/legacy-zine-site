@@ -1,19 +1,10 @@
 import React from "react";
 import { Link, Location } from "@reach/router";
 import Headroom from "react-headroom";
+import i18next from "i18next";
 
 import { getLanguageFromPathname, replaceLanguageInPathname } from "../utils";
 import "./Header.css";
-
-function getLanguagePrompt(languageCode) {
-  switch (languageCode) {
-    case "fr":
-      return "Sélectionnez une langue:"
-    case "en":
-    default:
-      return "Select a language:";
-  }
-}
 
 export default () => (
   <Headroom>
@@ -28,13 +19,15 @@ export default () => (
                 htmlFor="lang-select"
                 className="lang-select-label"
               >
-                {getLanguagePrompt(languageCode)}
+                {i18next.t("select_a_language")}
               </label>
               &nbsp;
               <select
                 value={languageCode}
                 onChange={e => {
-                  navigate(replaceLanguageInPathname(pathname, e.target.value));
+                  const code = e.target.value;
+                  i18next.changeLanguage(code);
+                  navigate(replaceLanguageInPathname(pathname, code));
                 }}
                 name="language"
                 id="lang-select"
@@ -56,7 +49,9 @@ export default () => (
               className="header-logo-image"
               src="/images/gwu-mag-logo.svg"
             />
-            <span className="header-after-logo">GDC 2019 Zine</span>
+            <span className="header-after-logo">
+              {i18next.t("header_title")}
+            </span>
           </Link>
         </div>
         <div className="head-right">

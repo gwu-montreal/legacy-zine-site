@@ -1,5 +1,6 @@
 import React from "react";
 import { withRouteData, Head } from "react-static";
+import i18next from "i18next";
 
 import Clearfix from "./Clearfix";
 import Footer from "./Footer";
@@ -21,10 +22,10 @@ export default withRouteData(
     children
   }) => (
     <React.Fragment>
-      <Head title={`GWU GDC 2019 Zine - ${title}`}>
+      <Head title={`${i18next.t("site_title")} - ${title}`}>
         <meta
           property="og:title"
-          content={`${type === "unionfaqs" ? "UnionFAQs: " : ""}${title}`}
+          content={`${type === "unionfaqs" ? i18next.t("unionfaqs_prefix") + " " : ""}${title}`}
         />
       </Head>
       <div style={{ width: "100%" }}>

@@ -1,5 +1,6 @@
 import React from "react";
 import ChapterMap from "@gameworkers/chapter-map-component";
+import i18next from "i18next";
 
 import ContentWrapper from "./ContentWrapper";
 
@@ -90,7 +91,7 @@ class Map extends React.Component {
               marginTop: "1rem"
             }}
           >
-            Find your local chapter and get involved!
+            {i18next.t("find_local_chapter")}
           </p>
         </div>
       </ContentWrapper>

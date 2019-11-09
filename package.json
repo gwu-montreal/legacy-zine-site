@@ -20,6 +20,7 @@
   "dependencies": {
     "@gameworkers/chapter-map-component": "0.7.0",
     "@reach/router": "^1.2.1",
+    "i18next": "^19.0.0",
     "jdown": "^1.0.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",

@@ -1,6 +1,7 @@
 import React from "react";
 import { withRouteData, Head } from "react-static";
 import { Link } from "@reach/router";
+import i18next from "i18next";
 
 import TableOfContents from "../containers/TableOfContents";
 import DownloadZines from "../containers/DownloadZines";
@@ -18,7 +19,7 @@ export default withRouteData(({ openingStatement }) => (
       />
       <div dangerouslySetInnerHTML={{ __html: openingStatement.contents }} />
       <Link to="/intro">
-        <h1 className="intro-readzine">Read the Zine!</h1>
+        <h1 className="intro-readzine">{i18next.t("read_the_zine")}</h1>
       </Link>
       <TableOfContents />
       <DownloadZines />
