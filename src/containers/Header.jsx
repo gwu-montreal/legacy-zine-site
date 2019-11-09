@@ -1,19 +1,39 @@
 import React from "react";
-import { Link } from "@reach/router";
+import { Link, Location } from "@reach/router";
 import Headroom from "react-headroom";
 
+import { getLanguageFromPathname, replaceLanguageInPathname } from "../utils";
 import "./Header.css";
 
 export default () => (
   <Headroom>
     <div className="top-bar">
-      <div className="container">
-        <label for="lang-select" className="lang-select-label">Select a language:</label>
-        <select name="language" id="lang-select">
-          <option value="en">English</option>
-          <option value="fr">Francais</option>
-        </select>
-      </div>
+      <Location>
+        {({ location, navigate }) => {
+          const { pathname } = location;
+          return (
+            <div className="container">
+              <label
+                htmlFor="lang-select"
+                className="lang-select-label"
+              >
+                Select a language:
+              </label>
+              <select
+                value={getLanguageFromPathname(pathname)}
+                onChange={e => {
+                  navigate(replaceLanguageInPathname(pathname, e.target.value));
+                }}
+                name="language"
+                id="lang-select"
+              >
+                <option value="en">English</option>
+                <option value="fr">Français</option>
+              </select>
+            </div>
+          );
+        }}
+      </Location>
     </div>
     <div className="container">
       <nav className="head">
