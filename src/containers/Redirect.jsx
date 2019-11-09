@@ -7,7 +7,7 @@ export default withRouteData(
       <Head>
         <meta
           httpEquiv="refresh"
-          content={`2; url=${redirectPath}`}
+          content={`0; url=${redirectPath}`}
         />
       </Head>
       <div>Redirecting...</div>
