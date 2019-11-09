@@ -19,6 +19,7 @@ export default () => (
               >
                 Select a language:
               </label>
+              &nbsp;
               <select
                 value={getLanguageFromPathname(pathname)}
                 onChange={e => {
