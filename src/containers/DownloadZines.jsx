@@ -73,7 +73,7 @@ export default () => {
               <a href="https://gameworkersunite.org">
                 <span>{i18next.t("gwu_international")}</span>
                 <img
-                  title="Game Workers Unite International"
+                  title={i18next.t("gwu_international")}
                   className="gwu-intl-image"
                   src="/images/gwu-logo.svg"
                 />
