@@ -16,7 +16,7 @@ export default withRouteData(({ openingStatement }) => (
       const languageCode = getLanguageFromPathname(pathname);
       return (
         <React.Fragment>
-          <Head title={`GWU GDC 2019 Zine`} />
+          <Head title={i18next.t("site_title")} />
           <div className="intro-container">
             <img
               alt="Isabelle: Unionize!"

@@ -10,9 +10,6 @@ import { languageList } from "./src/utils";
 // the chokidar watcher needs to be closed after a build successfully completes
 let watcher;
 
-// just hoisting this as reminder for localization later
-const metaDescription = "Read the latest zine from Game Workers Unite!";
-
 export default {
   getSiteData: async () => {
     // we can't do jdown("content") because
@@ -35,7 +32,6 @@ export default {
     }
 
     return {
-      title: "Game Workers Unite Zine - GDC 2019",
       tableOfContents
     };
   },
@@ -182,7 +178,6 @@ export default {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content={metaDescription} />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -204,9 +199,6 @@ export default {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
-        <title>{siteData.title}</title>
-        <meta property="og:title" content={siteData.title} />
-        <meta property="og:description" content={metaDescription} />
         <meta
           property="og:image"
           content="https://zines.gwumtl.com/images/waluigi_social_crop.jpg"

@@ -33,7 +33,7 @@ class App extends React.PureComponent {
   render() {
     return (
       <Root>
-        <Head>
+        <Head title={i18next.t("meta.title")}>
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -55,6 +55,9 @@ class App extends React.PureComponent {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="#ffffff" />
+          <meta name="description" content={i18next.t("meta.description")} />
+          <meta property="og:title" content={i18next.t("meta.title")} />
+          <meta property="og:description" content={i18next.t("meta.description")} />
         </Head>
         <Header />
         <div className="container">

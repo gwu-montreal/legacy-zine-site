@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "Game Workers Unite Zine - GDC 2019",
+    "description": "Read the latest zine from Game Workers Unite!"
+  },
   "404_message": "404! Couldn't find that page.",
   "read_the_zine": "Read the Zine!",
   "site_title": "GWU GDC 2019 Zine",
