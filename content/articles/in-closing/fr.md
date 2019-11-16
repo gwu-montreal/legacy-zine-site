@@ -3,7 +3,7 @@ title: En conclusion
 type: bare
 ---
 
-Nous ne défendrons pas une industrie charactérisée par des discriminations sur le lieu de travail, des salaires trop bas, du crunch et des carrières trop courtes qui se finissent en burnout. **Que l'on soit présentement employé·e ou non, nous sommes des travailleur·se·s du jeu vidéo** et nous refusons les conditions insoutenables que nous avons endurées pendant trop longtemps. **L’industrie du jeu vidéo est notre industrie, et ensemble nous avons le pouvoir de l’améliorer.**
+Nous ne défendrons pas une industrie charactérisée par des discriminations sur le lieu de travail, des salaires trop bas, du crunch et des carrières trop courtes qui se finissent en burnout. **Que l’on soit présentement employé·e ou non, nous sommes des travailleu·se·rs du jeu vidéo** et nous refusons les conditions insoutenables que nous avons endurées pendant trop longtemps. **L’industrie du jeu vidéo est notre industrie, et ensemble nous avons le pouvoir de l’améliorer.**
 
 <div class="md-margin">
 <h1>Souvenez-vous : vous n’êtes pas seul·e dans ce combat ! Ensemble, nous pouvons gagner de meilleures conditions de travail pour <strong>tout le monde</strong>.</h1>
