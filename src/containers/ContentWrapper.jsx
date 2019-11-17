@@ -22,12 +22,17 @@ export default withRouteData(
     children
   }) => (
     <React.Fragment>
-      <Head title={`${i18next.t("site_title")} - ${title}`}>
-        <meta
-          property="og:title"
-          content={`${type === "unionfaqs" ? i18next.t("unionfaqs_prefix") + " " : ""}${title}`}
-        />
-      </Head>
+      <Head
+        title={`${i18next.t("site_title")} - ${title}`}
+        meta={[
+          { name: "description", content: i18next.t("meta.description") },
+          {
+            property: "og:title",
+            content: `${type === "unionfaqs" ? i18next.t("unionfaqs_prefix") + " " : ""}${title}`
+          },
+          { property: "og:description", content: i18next.t("meta.description") }
+        ]}
+      />
       <div style={{ width: "100%" }}>
         <div style={{ width: "100%", position: "relative" }}>
           <div className="nav_sidebar">
