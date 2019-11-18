@@ -14,7 +14,6 @@ export default withRouteData(
         <React.Fragment>
           <Head>
             <link rel="canonical" href={redirectPath} />
-            <meta name="robots" content="noindex" />
             <meta
               httpEquiv="refresh"
               content={`0; url=${redirectPath}`}
