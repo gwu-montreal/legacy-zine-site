@@ -1,7 +1,6 @@
 import React from "react";
 import { withRouteData, Head } from "react-static";
 import i18next from "i18next";
-import $ from "cheerio";
 
 import Clearfix from "./Clearfix";
 import Footer from "./Footer";
@@ -13,6 +12,7 @@ export default withRouteData(
   ({
     title,
     contents,
+    description,
     prevPages,
     nextPages,
     header,
@@ -22,11 +22,6 @@ export default withRouteData(
     contentClassName = "",
     children
   }) => {
-    const description = $(`<div>${contents}</div>`)
-      .find('p')
-      .first()
-      .text()
-      .replace(/\n/g, ' ');
     return (
       <React.Fragment>
         <Head

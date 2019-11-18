@@ -3,6 +3,7 @@ import { reloadRoutes } from "react-static/node";
 import jdown from "jdown";
 import kebabCase from "just-kebab-case";
 import chokidar from "chokidar";
+import $ from "cheerio";
 
 import articleList from "./contents";
 import { languageList } from "./src/utils";
@@ -170,6 +171,20 @@ export default {
         redirectPath: "/en/how-to-print"
       })
     });
+
+    for (const route of routes) {
+      const data = route.getData();
+      if (data.contents) {
+        route.getData = () => ({
+          ...data,
+          description: $(`<div>${data.contents}</div>`)
+            .find('p')
+            .first()
+            .text()
+            .replace(/\n/g, ' ')
+        });
+      }
+    }
 
     return routes;
   },
