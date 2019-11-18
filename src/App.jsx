@@ -57,7 +57,11 @@ export default class App extends React.PureComponent {
             {({ routePath, getComponentForPath }) => {
               // make sure we have the right language set before
               // rendering the route
-              const languageCode = getLanguageFromPathname(`/${routePath}`);
+              let pathname = routePath;
+              if (pathname[0] !== '/') {
+                pathname = '/' + pathname;
+              }
+              const languageCode = getLanguageFromPathname(pathname);
               i18next.changeLanguage(languageCode);
               const Comp = getComponentForPath(routePath);
               return <Comp />;
