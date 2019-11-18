@@ -24,17 +24,18 @@ export default withRouteData(
   }) => {
     return (
       <React.Fragment>
-        <Head
-          title={`${i18next.t("site_title")} - ${title}`}
-          meta={[
-            { name: "description", content: description },
-            {
-              property: "og:title",
-              content: `${type === "unionfaqs" ? i18next.t("unionfaqs_prefix") + " " : ""}${title}`
-            },
-            { property: "og:description", content: description }
-          ]}
-        />
+        <Head title={`${i18next.t("site_title")} - ${title}`}>
+          <meta
+            property="og:title"
+            content={
+              `${
+                type === "unionfaqs" ? i18next.t("unionfaqs_prefix") + " " : ""
+              }${title}`
+            }
+          />
+          <meta name="description" content={description} />
+          <meta property="og:description" content={description} />
+        </Head>
         <div style={{ width: "100%" }}>
           <div style={{ width: "100%", position: "relative" }}>
             <div className="nav_sidebar">
