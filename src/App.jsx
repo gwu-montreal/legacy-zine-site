@@ -51,23 +51,28 @@ export default class App extends React.PureComponent {
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="#ffffff" />
         </Head>
-        <Header />
-        <div className="container">
-          <Routes>
-            {({ routePath, getComponentForPath }) => {
-              // make sure we have the right language set before
-              // rendering the route
-              let pathname = routePath;
-              if (pathname[0] !== '/') {
-                pathname = '/' + pathname;
-              }
-              const languageCode = getLanguageFromPathname(pathname);
-              i18next.changeLanguage(languageCode);
-              const Comp = getComponentForPath(routePath);
-              return <Comp />;
-            }}
-          </Routes>
-        </div>
+        <Routes>
+          {({ routePath, getComponentForPath }) => {
+            // make sure we have the right language set before
+            // rendering anything that depends on the language selection
+            let pathname = routePath;
+            if (pathname[0] !== '/') {
+              pathname = '/' + pathname;
+            }
+            const languageCode = getLanguageFromPathname(pathname);
+            i18next.changeLanguage(languageCode);
+            const ComponentForRoute = getComponentForPath(routePath);
+
+            return (
+              <React.Fragment>
+                <Header />
+                <div className="container">
+                  <ComponentForRoute />
+                </div>
+              </React.Fragment>
+            );
+          }}
+        </Routes>
       </Root>
     );
   }
