@@ -188,7 +188,7 @@ export default {
 
     return routes;
   },
-  Document: ({ Html, Head, Body, children, siteData }) => {
+  Document: ({ Html, Head, Body, children }) => {
     return (
       <Html lang="en-US">
         <Head>
