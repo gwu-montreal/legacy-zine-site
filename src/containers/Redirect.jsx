@@ -1,11 +1,12 @@
 import React from "react";
+import { redirectTo } from "@reach/router"
 import { withRouteData, Head } from "react-static";
 
 export default withRouteData(
   class extends React.PureComponent {
     componentDidMount() {
       // for Firefox which disabled meta http-equiv redirects
-      window.location.pathname = this.props.redirectPath;
+      redirectTo(this.props.redirectPath);
     }
 
     render() {
@@ -13,6 +14,8 @@ export default withRouteData(
       return (
         <React.Fragment>
           <Head>
+            <link rel="canonical" href={redirectPath} />
+            <meta name="robots" content="noindex" />
             <meta
               httpEquiv="refresh"
               content={`0; url=${redirectPath}`}

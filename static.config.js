@@ -3,6 +3,7 @@ import { reloadRoutes } from "react-static/node";
 import jdown from "jdown";
 import kebabCase from "just-kebab-case";
 import chokidar from "chokidar";
+import $ from "cheerio";
 
 import articleList from "./contents";
 import { languageList } from "./src/utils";
@@ -171,44 +172,60 @@ export default {
       })
     });
 
+    for (const route of routes) {
+      const data = route.getData();
+      if (data.contents) {
+        route.getData = () => ({
+          ...data,
+          description: $(`<div>${data.contents}</div>`)
+            .find('p')
+            .first()
+            .text()
+            .replace(/\n/g, ' ')
+        });
+      }
+    }
+
     return routes;
   },
-  Document: ({ Html, Head, Body, children, siteData }) => (
-    <Html lang="en-US">
-      <Head>
-        <meta charSet="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/apple-touch-icon.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="32x32"
-          href="/favicon-32x32.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="16x16"
-          href="/favicon-16x16.png"
-        />
-        <link rel="manifest" href="/site.webmanifest" />
-        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-        <meta name="msapplication-TileColor" content="#da532c" />
-        <meta name="theme-color" content="#ffffff" />
-        <meta
-          property="og:image"
-          content="https://zines.gwumtl.com/images/waluigi_social_crop.jpg"
-        />
-        <meta name="twitter:card" content="summary_large_image" />
-      </Head>
-      <Body>{children}</Body>
-      <script async src="/fathom.js" />
-    </Html>
-  ),
+  Document: ({ Html, Head, Body, children }) => {
+    return (
+      <Html lang="en-US">
+        <Head>
+          <meta charSet="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/apple-touch-icon.png"
+          />
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/favicon-32x32.png"
+          />
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/favicon-16x16.png"
+          />
+          <link rel="manifest" href="/site.webmanifest" />
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+          <meta name="msapplication-TileColor" content="#da532c" />
+          <meta name="theme-color" content="#ffffff" />
+          <meta
+            property="og:image"
+            content="https://zines.gwumtl.com/images/waluigi_social_crop.jpg"
+          />
+          <meta name="twitter:card" content="summary_large_image" />
+        </Head>
+        <Body>{children}</Body>
+        <script async src="/fathom.js" />
+      </Html>
+    );
+  },
   onStart: () => {
     watcher = chokidar
       .watch("content", { ignoreInitial: true })
