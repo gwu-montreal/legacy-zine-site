@@ -14,13 +14,6 @@ Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2
 </a>
 </div>
 
-<div class="md-img left off-8">
-<img
-  src="/images/ecco.png"
-  alt="An injury to one is an injury to all"
-/>
-</div>
-
 There's no real reason why workers and consumers should have different interests
 or be at odds with one another. It sounds absurd when you think about it: many
 workers take a great deal of pride and personal satisfaction from making games
@@ -58,8 +51,8 @@ conversation, in whisper networks, **incidents like these are all too common**.
 
 <div class="md-img right off-8">
 <img
-  src="/images/poison.svg"
-  alt="Poison bottle"
+  src="/images/scarecrow.png"
+  alt="Boss brandishing a Gamer Puppet"
 />
 </div>
 
@@ -71,6 +64,13 @@ who work for them.** (THQ Nordic recently reminded us of this by choosing to do
 a marketing Q&A on 8chan, a website known for harboring Nazis, enabling the
 spread of child porn, and playing a leading role in massive hate campaigns
 targeted against marginalized game workers.)
+
+<div class="md-img left off-8">
+<img
+  src="/images/poison.png"
+  alt="Poison"
+/>
+</div>
 
 In these situations, management will often pretend to have the best interests of
 workers in mind even as they systematically yield to the slightest strain and
@@ -103,7 +103,7 @@ writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-a
 
 <div class="md-img left off-8">
 <img
-  src="/images/gamecube.svg"
+  src="/images/gamecube.png"
   alt="Gamecube"
 />
 </div>

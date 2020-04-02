@@ -56,7 +56,7 @@ business model.
 
 <div class="md-img">
 <img
-  src="/images/eb-capitalism.png"
+  src="/images/earthbound_screenshot_big.png"
   alt="You guys can't envision the final collapse of capitalism? Incredible!"
 />
 </div>

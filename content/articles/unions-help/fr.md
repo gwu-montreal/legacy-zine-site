@@ -25,6 +25,12 @@ Dans une industrie qui passe souvent à travers des cycles d’embauche et renvo
 
 Les employeurs considèrent souvent la main d’oeuvre qualifiée dans une certaine région de “réserve de talents” dont ils peuvent puiser des gens lorsqu’ils en ont besoin, et les y renvoyer quand ils ne leur sont plus d’aucun usage. Mais nous savons que **la précarité n’a pas à être une des conditions du travail dans l’industrie.**
 
+<div class="md-img right off-2">
+<img
+  src="/images/pizza.svg"
+  alt="Part de pizza"
+/>
+</div>
 
 ### Crunch
 
@@ -39,12 +45,7 @@ Motoi Okamoto, ancien gestionnaire chez Nintendo, à propos du développement de
 
 En octobre dernier, avec la sortie imminente de Red Dead Redemption 2, Dan Houser, patron et co-fondateur de Rockstar Games, a déclaré fièrement au New York Magazine que ses employé·e·s faisaient **régulièrement des semaines de 100 heures pour préparer la sortie du jeu.** Comptez bien — En dormant 8 heures par nuit, il ne reste déjà que 112 heures par semaine! Retirez le temps dans les transits (du moins, si les employé·e·s ne restaient pas au bureau), le temps de manger, etc… on en conclut que les travailleu·se·rs chez Rockstar passaient presque chaque instant de leur vie éveillée à leur job.
 
-<div class="md-img right off-2">
-<img
-  src="/images/pizza.svg"
-  alt="Pizza slice"
-/>
-</div>
+
 
 Houser est par la suite revenu sur ses mots, disant que seule l’équipe des writers avait travaillé autant pendant quelques semaines. Mais cela a provoqué un tollé de la part d’ancien·ne·s et actuel·le·s employé·e·s qui ont souligné le mensonge évident et décrit les pressions immenses mises sur leurs épaules (un ancien employé [remarque](https://archive.fo/2M7CG) “sur GTA 4, c’était comme travailler avec un pistolet pointé sur la tempe, 7 jours par semaine”) tandis que d’autres étaient simplement mécontent·e·s de voir leur travail éreintant se faire banaliser par un patron du studio.
 
@@ -56,6 +57,12 @@ Houser semble croire que le crunch est un symbole de dévouement, de passion, qu
 
 Hocking s’en est peut-être bien tiré. En 2016, un développeur de la compagnie Sud Coréenne Netmarble [a été reconnu](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/) “mort d’une cause liée au travail” après plusieurs mois d’overtime.
 
+<div class="md-img right off-2">
+<img
+  src="/images/tiredtoad.png"
+  alt="Toad fatigué"
+/>
+</div>
 
 Beaucoup essaient de dépeindre le crunch comme étant inévitable, mais nous savons qu’il est le résultat d’un mauvais planning et de deadlines inatteignables -- et surtout, de **l’importance donnée aux profits plutôt qu’aux êtres humains qui produisent les jeux.** Concrètement, les syndicats peuvent décourager le crunch en **assurant que les heures supplémentaires soient payées, que leur paie soit augmentée, et en placant des limites strictes sur la quantitée autorisée par jour ou par semaine.** Ces mesures bénéficient ceux qui sont déjà dans l’industrie, mais poussent aussi les employeurs à embaucher davantage de travailleu·se·rs au lieu de s’en tirer en forçant trois fois la charge de travail raisonnable sur une seule personne.
 
@@ -119,5 +126,12 @@ Les travailleu·se·rs d’autres industries (comme le cinéma) [se sont battus 
 ### Une Meilleure Paie
 
 Un avantage évident : **les employé·e·s syndiqué·e·s ont en général des salaires plus élevés que celles et ceux qui ne le sont pas** - entre **15 à 25% de plus**. Avec l’appui d’une force de travail organisée, les négociations collectives sont une manière efficace de garantir que notre travail est payé à sa juste valeur. **Mais les syndicats bénéficient également aux travailleu·se·rs qui n’y appartiennent pas**, en montant les standards pour tout le monde. Par exemple, un·e diplômé·e du secondaire dont le lieu de travail n’est pas syndiqué, mais dont l’industrie est à 25% syndicalisée peut de manière générale s’attendre à [être payé·e davantage](http://www.epi.org/publication/briefingpapers_bp143/)**  que les travailleu·se·rs d’une industrie moins syndicalisée.
+ 
+<div class="md-img right off-9">
+<img
+  src="/images/betterpay.png"
+  alt="Une Meilleure Paie"
+/>
+</div>
  
 **Les syndicats permettent aussi de réduire l’inégalité**.  Bien que tous les travailleu·se·rs bénéficient d’avoir une union, celles et ceux qui en bénéficient le plus sont typiquement **les plus marginalisé·e·s ou dans une position précaire**. En plus d’améliorer globalement les conditions de travail pour ces personnes, être solidaire est une excellente façon de [réduire l’inégalité salariale entre les genres](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&).

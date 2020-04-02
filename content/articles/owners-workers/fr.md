@@ -5,7 +5,7 @@ Les vagues récentes de renvois chez Activision-Blizzard et ailleurs ont mis en 
 
 <div class="md-img left off-1">
 <img
-  src="/images/zelda.png"
+  src="/images/dangeroustogoalone_organize.png"
   alt="C'est dangereux d'être tout seul ! Syndiquez-vous !"
 />
 </div>

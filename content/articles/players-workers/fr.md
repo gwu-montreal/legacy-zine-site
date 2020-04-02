@@ -12,13 +12,6 @@ Dan Houser, co-fondateur de Rockstar Games à propos du développement de Red De
 </a>
 </div>
 
-<div class="md-img left off-8">
-<img
-  src="/images/ecco.png"
-  alt="Une attaque contre un·e est une attaque contre tou·te·s"
-/>
-</div>
-
 Aucune véritable raison ne justifie que les travailleu·se·rs et les joueu·se·rs aient des intérêts différents ou soient en opposition. Quand on y pense, c’est absurde: beaucoup de travailleu·se·rs tirent une grande fierté de leur travail sur des jeux que les joueur·se·rs apprécient, et sans travailleu·se·rs il n’y aurait même pas de jeux pour ces joueu·se·rs. Malheureusement, **beaucoup de joueu·se·rs ignorent les conditions sous lesquelles ces jeux sont faits** (en grande partie parce que les patrons dissuadent leurs employé·e·s d’en parler en public!). On encourage ces joue·se·rs à se voir comme ayant une relation exclusive avec une marque, une compagnie ou un produit plutôt qu’avec les vraies personnes derrière leurs jeux vidéo. Cette dynamique encourage les consommat·rice·eurs à blâmer les travailleu·se·eurs quand les choses tournent mal, et bénéficie aux patrons. Jeter les travailleu·se·rs dans la fosse aux lions écarte notre attention des patrons, même quand ils sont responsables des décisions néfastes aux consommat·rice·eurs. Cette tactique est utilisée pour intimider et discipliner les travailleu·se·rs.
 
 Nous ne sommes que trop familiers avec la façon dont un groupe de consommat·rice·eurs réduit mais très vocal continue de se croire tout permis dans ses relations avec les développeu·se·rs. Alors que de plus en plus de travailleu·se·rs dénoncent les conditions de travail dans l’industrie, **des campagnes de harcèlement sont apparues en réponse**. Souvent, ce harcèlement vise en particulier les travailleu·se·rs marginalisé·e·s qui essaient simplement de participer à la direction créative des jeux qu’ils développent, et de parler de leurs propres combats et expériences. Des travailleu·se·rs se font cibler par une foule  de consommat·rice·eurs en colère se croyant tout permis, qui abhorre l’idée de voir cette industrie devenir plus inclusive, et qui les accuse de tout ce qu’ils pensent être un problème dans le jeu vidéo.
@@ -28,12 +21,19 @@ Malheureusement, ils parviennent souvent à pousser les patrons à punir voire m
 
 <div class="md-img right off-8">
 <img
-  src="/images/poison.svg"
-  alt="Poison bottle"
+  src="/images/scarecrow.png"
+  alt="Boss brandishing a Gamer Puppet"
 />
 </div>
 
 Pour les patrons, céder aux exigences de gamers réactionnaires en colère est un prétexte bien opportun pour se débarrasser des travailleu·se·rs “fauteurs de troubles” - comme, par exemple, quelqu’un qui dénonce le sexisme et le racisme sur son lieu de travail. **Beaucoup de patrons dans l’industrie du jeu vidéo laissent leurs priorités s’aligner davantage avec les harceleurs qu’avec les gens qu'ils emploient.** (THQ Nordic l’a bien illustré récemment en choisissant d'effectuer leur Q&A marketing sur 8chan, un site réputé pour abriter des Nazis, autorisant la diffusion de pornographie infantile, et jouant un rôle majeur dans les campagnes de haine ciblant les développeu·se·rs marginalisé·e·s.)
+
+<div class="md-img left off-8">
+<img
+  src="/images/poison.png"
+  alt="Poison"
+/>
+</div>
 
 Dans ces situations, la direction du studio va souvent prétendre garder les meilleurs intérêts des travailleu·se·rs à l’esprit, tout en cédant systématiquement à la moindre tension causée par les joueu·se·rs, comfortant leur sentiment que "le client est roi". **Cela mène à des patrons qui établissent de nouvelles façons de contrôler, discipliner et étouffer le mécontentement de leurs travailleu·se·rs, sous prétexte de leur "apporter une protection” face à un tel harcèlement.** (Les protéger de quoi? Se faire licencier pour s’être opposé au harcèlement? Quelle belle protection!)
 Après que le président d'ArenaNet Mike O'Brien ait licencié Jessica Price et Peter Fries à la demande d'un groupe d'internautes -- pour avoir commis l'offense de lutter contre la misogynie à laquelle font face les femmes dans l'industrie -- de nombreux employeurs ont saisi l'occasion pour introduire des règlements internes limitant ce que les employé·e·s peuvent exprimer sur les réseaux sociaux en dehors des heures de travail. Ces nouvelles restrictions, en réalité, ajoutent aux employé·e·s la responsabilité de représenter leur compagnie 24/7 en plus de leur travail habituel -- et ce, sans aucune compensation additionnelle (Quelle aubaine !)
@@ -45,7 +45,7 @@ Dans son article d'Octobre à ce sujet, "*Worse than Scabs: Gamer Rage as Anti-U
 
 <div class="md-img left off-8">
 <img
-  src="/images/gamecube.svg"
+  src="/images/gamecube.png"
   alt="Gamecube"
 />
 </div>

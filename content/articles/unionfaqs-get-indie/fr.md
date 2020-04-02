@@ -12,8 +12,7 @@ Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement
 
 <div class="md-img right">
 <img
-  src="/images/faqs/wario.png"
-  alt="Screenshot from Warioware: Mona! I need your help. What's it pay? Uh, hold on... Crzzsh. Crzzsh! I can't hear you. You're breaking up!?"
+  src="/images/faqs/payyouindie.png"
 />
 </div>
 

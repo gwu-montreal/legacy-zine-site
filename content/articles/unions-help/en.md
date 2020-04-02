@@ -53,6 +53,13 @@ as a "talent pool" that they can sponge people from when they need them, and
 wring people back into when they're no longer needed. But we know that
 **precarity doesn't have to be a condition of working in the industry**.
 
+<div class="md-img right off-2">
+<img
+  src="/images/pizza.svg"
+  alt="Pizza slice"
+/>
+</div>
+
 ### Crunch
 
 > In those days, Miyamoto would come to us at 11 PM, after he finished all of
@@ -73,13 +80,6 @@ to ship**. Hang on — if you sleep around 8 hours a night there's only 112 hour
 in a week! Factor in transit (presuming people weren't sleeping under their
 desks, which is not a given), time to eat, etc., and that works out to Rockstar
 labourers spending almost every waking moment at their job.
-
-<div class="md-img right off-2">
-<img
-  src="/images/pizza.svg"
-  alt="Pizza slice"
-/>
-</div>
 
 Houser later retracted the statement, saying only the writing team was working
 those hours, and only during a period of a few weeks. But that only prompted
@@ -115,6 +115,13 @@ Netmarble was
 [acknowledged](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/)
 to have "died from a work-related cause" after putting in months of intense
 overtime.
+
+<div class="md-img right off-2">
+<img
+  src="/images/tiredtoad.png"
+  alt="Tired toad"
+/>
+</div>
 
 Many in the game industry try to paint crunch as unavoidable, but we believe it
 is ultimately a story of poor planning and unreachable deadlines — and more
@@ -265,6 +272,13 @@ high school graduate whose workplace is *not* unionized but who works in an
 industry that's 25% unionized overall **can still [expect to be paid
 more](http://www.epi.org/publication/briefingpapers_bp143/)** than similar
 workers in less unionized industries.
+
+<div class="md-img right off-9">
+<img
+  src="/images/betterpay.png"
+  alt="Better Pay"
+/>
+</div>
 
 **Unions can also help reduce inequality**. While all workers benefit from
 having unions, those who benefit the most are typically the people who are the

@@ -19,7 +19,7 @@ Il existe beaucoup de types d’organisations qui s’appellent des “coopérat
 
 <div class="md-img">
 <img
-  src="/images/eb-capitalism.png"
+  src="/images/earthbound_screenshot_big.png"
   alt="Vous n'arrivez même pas à imaginer l'effondrement du capitalisme? Incroyable!"
 />
 </div>

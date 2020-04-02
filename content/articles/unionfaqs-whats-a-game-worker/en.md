@@ -22,3 +22,7 @@ worker**. The same goes for students and interns. In an industry where so much
 labour is erased or goes unrecognized, it's important that we stick together and
 resist bosses' efforts to divide and conquer.
 
+<div class="md-img off-8">
+<img
+  src="/images/faqs/lemmings.png"
+/></div>

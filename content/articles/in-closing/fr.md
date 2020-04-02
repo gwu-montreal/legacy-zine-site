@@ -35,4 +35,4 @@ Nous ne défendrons pas une industrie charactérisée par des discriminations su
   </a>
 </div>
 
-Zine illustré par [Pioldes](https://pioldes.tumblr.com)!
+Zine illustré par  [Pioldes](https://pioldes.tumblr.com), [Pol](https://twitter.com/polclarissou), [Mike](https://twitter.com/mikejwitz),[Ckjong](https://twitter.com/ckjong),duke,[robomachin](https://twitter.com/robomachin) and [Lucie](https://twitter.com/LucieViatge)!

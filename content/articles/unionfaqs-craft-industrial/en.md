@@ -46,7 +46,6 @@ things are important to remember:
 
 <div class="md-img">
 <img
- src="/images/faqs/grim_workerbees.png"
- alt="Screenshot from Grim Fandango: Who will stop the fat cats of industry from building these ships with the pollen of the exploited working class?"
+ src="/images/faqs/Pokemon_All.png"
 />
 </div>

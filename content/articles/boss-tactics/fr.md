@@ -12,14 +12,6 @@ Si le management remarque un effort d’organisation des travailleu.se.rs (ou m�
 On constate également que sur le sujet des syndicats, les managers vont souvent répéter ces arguments sur toutes les plateformes disponibles, qu’il s’agisse de conférences sur l’industrie du jeu vidéo, ou de sites orientés sur l’industrie...
 
 
-<div class="md-img">
-<img
-  src="/images/eb-text.png"
-  alt="Houser Bros held a Captive Audience Meeting! Audre fell asleep!
-  Les frères Houser ont fait une réunion à auditoire captif! Audre s'est endormie!"
-/>
-</div>
-
 
 #### La politique de la “porte ouverte”
 
@@ -29,6 +21,12 @@ En vérité, c’est **la principale méthode que le management utilise pour mai
 
 En vérité, c’est **la principale méthode que le management utilise pour maintenir son contrôle sur le flux de l'information au bureau**, et pour tuer dans l’oeuf la moindre tentative d’organisation. Ils diront être en mesure d’aider, et qu’ils sont sincèrement concernés par votre bien-être. Le piège est qu’il s’agit **d’un moyen de s'assurer que les employé·e·s n’interagissent avec le management qu’en tant qu'individus  isolés et impuissants**, au lieu de se tourner vers leurs collègues pour obtenir soutien et solidarité. Les patrons présenteront des promesses vagues et des excuses, répétant que vous et vos soucis seront pris au sérieux et adressés, tout en vous conseillant de rester discret et de ne discuter de ces problèmes que directement avec eux. S’ils vous surprennent à partager vos craintes avec vos collègues, cette attitude de support ne tardera sûrement pas à disparaître, ce qui souligne **l’importance de commencer toute forme d’organisation loin des yeux et oreilles des managers**.
 
+<div class="md-img">
+<img
+  src="/images/PO_Door.png"
+  alt="Porte vers le bureau du Boss"
+/>
+</div>
 
 
 #### “Les syndicats marchent peut-être très bien pour d’autres compagnies/industries, mais c’est différent ici !”
@@ -47,6 +45,12 @@ De plus en plus d’employeurs tentent de rendre floue la nature de leur relatio
 
 Peut-être plus important encore, bon nombre de travailleu·se·rs de l’industrie du jeu vidéo qui devraient être reconnu·e·s en temps qu’employé·e·s à part entière sont en fait embauchés en tant que freelance, afin de contourner les obligations légales envers les employé·e·s. C’est un problème commun dans des secteurs comme le QA. Cependant, de plus en plus de syndicats se spécialisent dans l’aide à des travailleu·se·rs dans cette situation, se battant pour leur gagner un statut d’employé·e·s à part entière et obtenir de meilleures conditions de travail. Récemment, des artistes et conférenci·ères·ers (principalement des femmes) à la Britain’s National Gallery [ont gagné un litige](https://www.independent.co.uk/news/uk/home-news/national-gallery-workers-rights-gig-economy-public-sector-employment-tribunal-art-educators-a8803641.html) qui a confirmé que, puisqu’elles·ils étaient obligé·e·s de participer à des sessions d’entraînement et étaient payé·e·s par les mêmes sources que les employé·e·s non-contractuels, elles·ils n’étaient bel et bien pas “à leur compte”. Cela signifie qu’elles·ils avaient droit aux mêmes bénéfices que les employé·e·s soi-disant “permanent·e·s”. **Souvenez-vous : si on vous embaûche pour travailler pour quelqu’un qui profite de la vente de ce que vous produisez, vous pouvez vous syndiquer.**
 
+<div class="md-img">
+<img
+  src="/images/snakemeilingcodec.png"
+  alt="Soyez discret quand vous essayez de vous syndiquer!"
+/>
+</div>
 
 #### Menaces de sous-traitance et suppression d’emplois
 
@@ -54,16 +58,14 @@ Une réplique très courante - souvent internalisée par les employé·e·s - es
 
 Les boss licencient régulièrement des travailleu.se.rs sans aucune bonne raison, et se syndiquer est la seule façon de vous en protéger. Souvenez-vous, c’est notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun·e d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, **relocaliser est une initiative extrêmement coûteuse pour toute entreprise, et n’est pas une décision qui peut être prise simplement pour punir des travailleu.se.rs qui se syndiquent**. C’est d’autant plus vrai si le mouvement de syndicalisation dépasse les frontières, de sorte qu’il n’existe nulle part où aller pour les employeurs - d’où l’importance de donner une ampleur internationale à nos efforts de syndicalisation, en solidarité avec nos camarades travailleu.se.rs tout autour du globe !
 
-
-
-#### Le “guilt trip”
-
-<div class="md-img right off-1">
+<div class="md-img">
 <img
-  src="/images/baby_bowser.png"
-  alt="Baby Bowser"
+  src="/images/PO_Outsourcing.png"
+  alt="Outsourcing"
 />
 </div>
+
+#### Le “guilt trip”
 
 Certains patrons, en particulier ceux qui se considèrent comme des “bons patrons” et maintiennent le contact avec leurs employé·e·s, risquent de réagir aux initiatives de syndicalisation en le prenant très personnellement. **Ces patrons tâcheront de vous donner l’impression d’être en train de commettre une horrible trahison en considérant la possibilité de vous syndiquer**, et tenteront de vous reprocher votre “ingratitude”, ou vous donner le sentiment que vous leur devriez être reconnaissants qu’ils vous aient “donné” un job.
 
@@ -80,15 +82,15 @@ Un rôle similaire est joué par des organisations d’industrie qui annoncent p
 
 #### Briseurs de grèves
 
-<div class="md-img right off-6">
-<img
-  src="/images/plague-rat.png"
-  alt="Plague Rat of Doom"
-/>
-</div>
-
 L’un des stratagèmes les plus vicieux qu’un patron puisse employer, **les “briseurs de grèves” sont des gens qui, en tant que travailleu.se.rs eux-mêmes et donc potentiels futurs membres d’un syndicat, reçoivent un traitement de faveur en récompense pour tourner le dos à leurs collègues**. Les briseurs de grèves sont souvent déployés temporairement depuis l’extérieur, de façon à remplacer en urgence les employé·e·s qui essaient de se syndiquer. Les patrons iront parfois même jusqu’à offrir aux briseurs de grèves toutes les demandes que les travailleu.se.rs qui se syndiquent avaient initialement réclamées, tout en continuant de les refuser aux autres - juste afin de vous démoraliser, en démontrant que bien que ces demandes puissent facilement être mises en place, il s’agit surtout de vous punir “pour le principe” d’avoir défendu vos droits.
  
 Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -[et grandement critiqué](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)- dans *Before the Storm*, la préquelle de *Life is Strange*.
 
 Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.
+
+<div class="md-img">
+<img
+  src="/images/PO_Rat.png"
+  alt="Un rat briseur de grève."
+/>
+</div>

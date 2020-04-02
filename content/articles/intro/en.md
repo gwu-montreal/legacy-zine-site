@@ -3,104 +3,29 @@ title: From the Desk of the Editors
 ---
 ### ***Dear Reader…***
 
-Welcome back to another thrilling issue of the **Game Workers Unite magazine**.
-By the time this mag, hot off the presses, reaches your shaking, excited hands,
-GWU will be celebrating its **first anniversary**. We thought we'd take a moment
-to reflect on the tidings of the past year, both good and ill.
+Welcome back to yet another rousing issue of the **Game Workers Unite magazine**. Before we jump into the thick of things, we thought we'd take a moment to look back on the events of the past year, both good and ill.
 
-**Let's start with the ill**. Telltale, Capcom Vancouver, Visceral, Big Fish,
-Disney Canada, Six Foot, Trion Worlds, Carbine, Motiga, Boss Key, Runic, Bartlet
-Jones, Wargaming Seattle, Gazillion, Eugen, Firemonkeys, ArenaNet and NCSoft,
-GOG, Techland, NetEase, Valve, and Activision Blizzard — and forgive us if we've
-forgotten anyone, it's been a little hard to keep count — all suffered mass
-layoffs or were shuttered outright.
+Last year's edition was written in the tumult of several high-profile **mass layoffs**, and sadly such events haven't become old news in our industry. The @DaysWithoutLoss twitter account, which counts days since the lass industry layoff, rarely even reaches a full month; as companies dismiss workers left and right. In June 2019, Swedish publisher Starbreeze laid off a quarter of their staff, or 60 employees, to cut costs. One month later, Montreal’s LuckyHammers Studio closed down, affecting roughly 70 workers, and Gamestop followed up in August by laying off 14% of their staff, or 120 workers. 
 
-You might not recognize all these names, but if you've been in the industry for
-a while there's a good chance you know someone who's been affected. Between
-September and October 2018 alone, **at least 800 game workers** lost their jobs.
-February 2019's toll stands at **at least 1000 lost jobs**. With the swift drop
-of an axe, the Firemonkeys layoffs singlehandedly shrank the Australian games
-industry workforce by 5% — just months after they extended an invitation to
-former Capcom and Telltale employees on Twitter [noting they were
-hiring](https://twitter.com/thefiremonkeys/status/1043333183268257792). All in
-all, **thousands of industry jobs have been lost over the past year**.
+**Gender discrimination and sexual violence** continue to be pressing issues in the industry.: The Riot Games class-action lawsuit, filled on behalf of roughly 1000 women who were subject to systemic discrimination and harassment while working at Riot, [is still ongoing](https://www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator). Meanwhile, the indie games scene was shaken with what's been dubbed its own #meeto moment, with several [high profile sexual misconduct stories breaking in the past year](https://www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games) - bringing to light not only misogyny but also how  **fragile working conditions** create violent power dynamics that lead to abuse for the most vulnerable, and the [inadequacy of the industry's response to such misdeeds.](http://www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale)
 
-Why are all these layoffs happening, you ask? Why, record-breaking revenues, of
-course! In a press release to investors the day layoffs started at Activision,
-CEO Bobby Kotick
-[wrote](https://kotaku.com/activision-blizzard-begins-massive-layoffs-1832571288):
-"While our financial results for 2018 were the **best in our history**, we
-didn't realize our full potential." (*Full potential*? Seriously? He sounds like
-a parent disowning their child for getting perfect grades and an inbox full of
-scholarship offers. We'd also be remiss to fail to note that Kotick himself is
-one of the highest-paid CEOs — not just in the games industry, not just in tech,
-not just in America, but everywhere, of all time.) Elsewhere, Telltale's fall
-from massive critical and commercial success, widely attributed to routine
-mismanagement and nearsighted pursuit of profit on the part of its shareholders,
-is by now [well-documented](https://www.youtube.com/watch?v=2VR7Hl6SuXE).
+Thanks to the bravery of workers who are organizing around these issues, companies are starting to be more careful - while we are still far from true structural change, many small nudges in the good direction have been observed. Following the controversy around its working conditions during the development of Red Dead Redemption, [Rockstar Lincoln has incorporated its contract workers as full employees](https://kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746), a welcome first step in ensuring a more stable career. **Crunch**, in the meantime, has become a hot topic issue and is becoming harder and harder to brush aside for employers. The work practices of our industry are being interrogated with renewed acuity, whether that's **crediting practices**, the erasure of **outsourced labour**; or broader political questions such as the industry's role in **spreading military propaganda** (and some companies' [direct ties with the USA's military–industrial complex](https://www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers)).
 
-It's been a rough, scary year for those of us working in the industry, and signs
-don't point to things getting better anytime soon. **But we're starting to fight
-back**.
+We’ve had our share of upsets and setbacks, but there’s plenty to be hopeful about as well. 
 
-In that same year of tumult, **over 25 local chapters of Game Workers Unite**
-were founded around the world. Earlier this year, **[GWU
-UK](https://www.gwu-uk.org/) formed an official trade union** in partnership
-with the Independent Workers Union of Great Britain (IWGB), joining the Syndicat
-des Travailleuse·eur·s du Jeu Vidéo (STJV) in France and the Game Makers of
-Finland as one of the first official unions representing game workers. GWU
-members have made [zines, pamphlets, and other
-literature](https://www.gameworkersunite.org/gwu-literature), and we've
-organized or taken part in dozens of panels, presentations, workshops, and
-public events. We've spoken to press, podcasters, and YouTubers, and helped
-shine a light on working conditions in the industry and the urgent need for
-unionization.
+Since last year, GWU chapters have continued sprouting up all over the world. We’ve been reaching out, presenting workshops and panels on workers' rights to huge crowds, running industry surveys, engaging in public and private direct action against abusive bosses, and forming workplace committees to **build collective power** as workers and win concrete demands. GWU UK celebrated its first year as an official trade union, which they spent [fighting and winning cases](https://twitter.com/GWU_UK/status/1219575597879394305) for the workers of the industry, and growing membership. GWU Ireland followed their steps, becoming the second chapter to form an **official trade union**, as a branch of the [Financial Services Union (FSU)](https://gwuireland.org/), while the Toronto chapter has formed an official partnership with Communication Workers of America (CWA) to further organize workers in Ontario.
 
-But more than all that, **we've been engaging in on-the-ground organizing**.
-We've been forming workplace committees and building collective power to win
-concrete demands. There's a lot of underground work happening that you won't
-hear about because of the risks for the workers involved, but we've already
-helped win gratifying **legal victories against some of the industry's most
-powerful bosses** and **reclaim stolen wages.** This is arguably the most
-critical work we've been doing. Organizing is a long haul, and doing it in the
-open would only put workers' jobs and well-being on the line. But **a sea change
-is happening**, even if you can't feel the waves from the shore.
 
-Crucially, **we're not alone**. The international labour movement is picking up
-steam: in India, **between 150 and 200 million workers** joined a general strike
-against the Modi government's anti-labour policies. (For context, a strike of
-comparable size in Europe would include the **entire combined labour force of
-the UK, Germany, France, Italy, Spain, and Portugal**.) The 2018 US prison
-strike, where inmates demanded an end to prison slavery, dehumanizing
-conditions, and racial discrimination, saw participation in at least 17 states
-and solidarity actions across North America and around the globe.
 
-<div class="md-img right off-5">
-<img
-  src="/images/candle.svg"
-  alt="Candle"
-/>
-</div>
+We are part of a **global labour movement**. Alongside India's ongoing series of general strikes and protests against a retrograde Modi government, which this year involved roughly **250 million workers**, new uprisings have emerged - most notably Lebanon's general strike in response to the country's economic crisis; Chile’s anti-austerity protests; Haitian protests against a corrupt, neocolonial government and growing fuel and food shortages; and the months-long strike movement in France against an anti-labour pension reform (to which the STJV, France's own game workers union, [joined forces during the marches](https://twitter.com/stjv_fr/status/1203341904999526404)). 
 
-Even in the tech sector (which historically has not been fertile ground for
-labour organizing) significant movements and actions are taking place. At
-Google, employees banded together to protest military AI contracts and
-[organized a walkout](https://twitter.com/GoogleWalkout) against sexual
-harassment and a culture hostile to marginalized people. At Microsoft, workers
-are organizing against the use of their products for border policing and [the
-surveillance of journalists and
-activists](https://twitter.com/techworkersco/status/1103502027726995459) and
-[against the militarization of consumer technology like the
-Hololens](https://twitter.com/MsWorkers4) (which also concerns us, as many of
-these technologies are also developed for or used in games). Groups like Tech
-Workers Coalition are gaining traction as they support these struggles, and
-others, across their industry.
+The **tech sector** in particular has started to rumble, and union talk is becoming a common refrain amongst workers of the industry. The employees of HCL Technologies, a Google contractor, have unionized with the United Steelworkers. Kickstarter became the first major american tech company to unionize after a [successful organizing campaign](https://www.vice.com/en_us/article/3a8pp5/kickstarter-employees-win-historic-union-election). Nexon Korea’s union held a rally demanding better job security for its employees and [won a 6.8% wage increase](http://www.koreaherald.com/view.php?ud=20200204000826) - a landmark victory for the game industry.
 
-Meanwhile, an international wave of strikes in education, healthcare,
-hospitality, transportation, and many other industries showcased the scale and
-scope of workers' dissatisfaction with the status quo.
+Big tech companies feel the temperature rising and are already showing signs of repression - Google was caught red-handed after firing some of its employees [for trying to organize their office](https://www.theverge.com/2019/11/25/20983053/google-fires-four-employees-memo-rebecca-rivers-laurence-berland-union-busting-accusation-walkout), and implementing new rules to restrain workers' ability to communicate and organize; but all across the industry workers are **fighting back** and the movement is only gaining traction. Amongst other initiatives, the CWA has launched the **Campaign to Organize Digital Employees (CODE)** to [support workers' organizing efforts in the technology industries](https://www.code-cwa.org/). 
+Meanwhile, the International Rights Advocates, on behalf of miners from the Democratic Republic of Congo, has filed a **landmark lawsuit against tech giants** Apple, Google, Microsoft, Tesla and Dell; for the dreadful conditions in which the cobalt they use for their products is mined in the region, often by children - [a reality that is often written off as a footnote in our industry](https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths).
 
-Together, we have the capacity to build a better, fairer, and more sustainable
-future for workers all around the globe. If you're a worker in games, abuses
-like **mass layoffs**, **crunch**, and **harassment** might seem like
-unavoidable realities of the industry. **But they don't have to be**. Join us.
+Workers of the world are rising up, reclaiming a **better quality of life, access to education, medical care, purpose and dignity**. The winds are changing; we are witnessing it both in electoral politics and in grassroots organizing, and while the pushback from the powerful is strong and vicious, we are many and **our solidarity is their weakness**.
+
+Together, we have the capacity to build a better, fairer, and more sustainable future for workers all around the globe. If you're a worker in games, abuses like **mass layoffs**, **crunch**, and **harassment** might seem like unavoidable realities of the industry. But they don't have to be. Join us.
+
+

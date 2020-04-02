@@ -15,7 +15,6 @@ luttes. **Les testeu·se·rs QA, les traduct·rices·eurs, les travailleu·se·r
 
 <div class="md-img">
 <img
- src="/images/faqs/grim_workerbees.png"
- alt="Screenshot de Grim Fandango: Qui empêchera ces gros bonnets de l'industrie de construire ces vaisseaux avec le pollen de la classe ouvrière exploitée?"
+ src="/images/faqs/Pokemon_All.png"
 />
 </div>

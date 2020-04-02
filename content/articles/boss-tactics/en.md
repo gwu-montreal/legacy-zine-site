@@ -30,13 +30,6 @@ Note also that when it comes to the topic of unionizing, managers will often
 repeat these talking points on any platform they have access to, such as game
 industry conferences or industry-oriented websites…
 
-<div class="md-img">
-<img
-  src="/images/eb-text.png"
-  alt="Houser Bros held a Captive Audience Meeting! Audre fell asleep!"
-/>
-</div>
-
 
 #### The "Open Door" Policy
 
@@ -60,6 +53,13 @@ management. If they do catch you sharing concerns with other workers, it
 probably won't take long for that supportive demeanor to disappear, which is why
 **it's important to make sure any initial organizing you do happens away from
 the eyes and ears of management**.
+
+<div class="md-img">
+<img
+  src="/images/PO_Door.png"
+  alt="Door to the Boss Office"
+/>
+</div>
 
 
 #### "Unions might be great for other companies/industries, but it's different here!"
@@ -109,6 +109,12 @@ fact self-employed. This meant they were entitled to the same benefits as
 so-called "permanent" employees. **Remember: if you're hired to work for someone
 who makes a profit from selling what you produce, you can unionize**.
 
+<div class="md-img">
+<img
+  src="/images/snakemeilingcodec.png"
+  alt="Be sneaky about unionizing!"
+/>
+</div>
 
 #### Threats of outsourcing and cuts
 
@@ -131,15 +137,15 @@ crosses borders in such a way that there's nowhere for the owners to go —
 emphasizing why it's so important for our organizing efforts to be international
 in nature and in solidarity with fellow workers all around the world!
 
-
-#### The "Guilt Trip"
-
-<div class="md-img right off-1">
+<div class="md-img">
 <img
-  src="/images/baby_bowser.png"
-  alt="Baby Bowser"
+  src="/images/PO_Outsourcing.png"
+  alt="Outsourcing"
 />
 </div>
+
+
+#### The "Guilt Trip"
 
 Some owners, especially those who think of themselves as "good bosses" and
 maintain a lot of contact with their employees, might react to unionizing
@@ -184,13 +190,6 @@ French game workers' union).
 
 #### Scab Labour
 
-<div class="md-img right off-6">
-<img
-  src="/images/plague-rat.png"
-  alt="Plague Rat of Doom"
-/>
-</div>
-
 One of the dirtiest tricks a boss can employ, **"scabs" are people who, as
 workers themselves and thus potential members of a union, receive special
 preferential treatment over others in exchange for turning against their fellow
@@ -211,3 +210,10 @@ In order to work towards the long-term goal of a unionized game industry, it
 will be important to create a culture where taking a scab contract is treated as
 the despicable, selfish act that it is — and one that harms the scabs themselves
 in the longer term.
+
+<div class="md-img">
+<img
+  src="/images/PO_Rat.png"
+  alt="A scab rat."
+/>
+</div>

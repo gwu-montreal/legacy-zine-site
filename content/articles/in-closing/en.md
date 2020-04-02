@@ -39,4 +39,4 @@ and together we have the power to improve it.**
   </a>
 </div>
 
-Illustrations across this zine by [Pioldes](https://pioldes.tumblr.com)!
+Illustrations across this zine by [Pioldes](https://pioldes.tumblr.com), [Pol](https://twitter.com/polclarissou), [Mike](https://twitter.com/mikejwitz),[Ckjong](https://twitter.com/ckjong),duke,[robomachin](https://twitter.com/robomachin) and [Lucie](https://twitter.com/LucieViatge)!

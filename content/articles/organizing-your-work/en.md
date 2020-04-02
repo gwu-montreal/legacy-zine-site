@@ -16,12 +16,26 @@ employers, even if you think they're sympathetic to your cause.**
    possible, talk to experienced organizers or attend a training session on
    workplace organizing.**
 
+<div class="md-img">
+<img
+src="/images/Goomba_01.png"
+alt=""
+/>
+</div>
+
 2. **Talk to your coworkers** one-on-one about their problems in the workplace,
    away from the supervision of management. Ask questions, and let them tell you
    the things that they want to fix; listen carefully, and don't assume you know
    what their problems are. Be supportive and understanding, and help them
    realize they're not alone in these issues. **Don't start talking about unions
    yet!** Start by identifying problems to solve.
+   
+<div class="md-img">
+<img
+src="/images/Goomba_02.png"
+alt=""
+/>
+</div>
 
 3. **Help them identify collective solutions** to the problems they've shared.
    Just talking about issues isn't enough; stopping there can build frustration
@@ -31,11 +45,11 @@ employers, even if you think they're sympathetic to your cause.**
    questions like "Who else feels this way?" and "What would happen if…" are
    useful. **Always be honest!** Don't oversell what's possible, and don't
    minimize the potential dangers.
-
+   
 <div class="md-img">
 <img
-src="/images/mgs.png"
-alt="Snake, you can't just start talking about unionizing in the open. If Big Boss finds out, you're going to be in trouble. You have to be sneaky about it!"
+src="/images/Goomba_03.png"
+alt=""
 />
 </div>
 
@@ -46,6 +60,13 @@ alt="Snake, you can't just start talking about unionizing in the open. If Big Bo
    the power of collective action, gain courage and experience, and inspire
    others to join in the next action. **Before you take that first action,
    though…**
+   
+<div class="md-img">
+<img
+src="/images/Goomba_04.png"
+alt=""
+/>
+</div>
 
 5. **Prepare your coworkers for the bosses' reaction** when they find out you're
    organizing. Bosses have a lot of tactics to break up organizing workers, and
@@ -53,6 +74,13 @@ alt="Snake, you can't just start talking about unionizing in the open. If Big Bo
    also very predictable. Learn these tactics yourself, and share them with your
    coworkers. These plays are much less effective when people know they're
    coming, and you've already had a chance to counter their anti-union lines.
+   
+<div class="md-img">
+<img
+src="/images/Goomba_05.png"
+alt=""
+/>
+</div>
 
 6. **Push your coworkers to become organizers themselves**. You can't do
    everything yourself, so help your coworkers become more involved by giving
@@ -61,6 +89,13 @@ alt="Snake, you can't just start talking about unionizing in the open. If Big Bo
    themselves. Don't forget to set deadlines and follow up on these tasks; this
    is real and important work, and doing it is empowering. Eventually, your
    coworkers will be suggesting their own tasks and managing themselves!
+   
+<div class="md-img">
+<img
+src="/images/Goomba_06.png"
+alt=""
+/>
+</div>
 
 **Only go public when you're confident you have the backing of the majority of
 your workforce** and you have a concrete plan that everyone has agreed upon.
