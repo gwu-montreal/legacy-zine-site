@@ -5,9 +5,12 @@
   "license": "AGPL-3.0",
   "scripts": {
     "start": "react-static start",
+    "stage": "react-static build --staging",
     "build": "react-static build",
-    "deploy": "run-s build && gh-pages -d dist",
-    "stage": "react-static build --staging && serve dist -p 3000 -s",
+    "bundle": "react-static bundle",
+    "export": "react-static export",
+    "serve": "serve dist -p 3000 -s",
+    "deploy": "gh-pages -d dist",
     "test": "run-s -l test:*",
     "test:eslint": "eslint ./src",
     "test:stylelint": "stylelint 'src/**/*.css'",
@@ -17,7 +20,6 @@
   "dependencies": {
     "@gameworkers/chapter-map-component": "0.7.0",
     "@reach/router": "^1.2.1",
-    "cheerio": "^1.0.0-rc.3",
     "i18next": "^19.0.0",
     "jdown": "^1.0.1",
     "react": "^16.8.5",

@@ -17,38 +17,38 @@ export default () => {
             <div className="downloadzines-container">
               <a
                 title={i18next.t("download_zine_waluigi")}
-                href={i18next.t("urls.pdf_waluigi")}
+                href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf"
               >
                 <img
                   className="downloadzines-cover"
-                  src={i18next.t("urls.cover_waluigi")}
+                  src="/images/cover_thumb_waluigi.jpg"
                 />
               </a>
               <a
                 title={i18next.t("download_zine_isabelle")}
-                href={i18next.t("urls.pdf_isabelle")}
+                href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019isabelleisabelle.pdf"
               >
                 <img
                   className="downloadzines-cover"
-                  src={i18next.t("urls.cover_isabelle")}
+                  src="/images/cover_thumb_isabelle.jpg"
                 />
               </a>
               <a
                 title={i18next.t("download_zine_unionize")}
-                href={i18next.t("urls.pdf_unionize")}
+                href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf"
               >
                 <img
                   className="downloadzines-cover"
-                  src={i18next.t("urls.cover_unionize")}
+                  src="/images/cover_thumb_unionize.jpg"
                 />
               </a>
               <a
                 title={i18next.t("download_zine_egg")}
-                href={i18next.t("urls.pdf_egg")}
+                href="https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019egg.pdf"
               >
                 <img
                   className="downloadzines-cover"
-                  src={i18next.t("urls.cover_egg")}
+                  src="/images/cover_thumb_egg.jpg"
                 />
               </a>
             </div>

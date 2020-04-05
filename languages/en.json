@@ -1,16 +1,7 @@
 {
   "meta": {
+    "title": "Game Workers Unite Zine - GDC 2019",
     "description": "Read the latest zine from Game Workers Unite!"
-  },
-  "urls": {
-    "cover_waluigi": "/images/covers/en/cover_thumb_waluigi.jpg",
-    "cover_isabelle": "/images/covers/en/cover_thumb_isabelle.jpg",
-    "cover_unionize": "/images/covers/en/cover_thumb_unionize.jpg",
-    "cover_egg": "/images/covers/en/cover_thumb_egg.jpg",
-    "pdf_waluigi": "https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019waluigi.pdf",
-    "pdf_isabelle": "https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019isabelleisabelle.pdf",
-    "pdf_unionize": "https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019unionize.pdf",
-    "pdf_egg": "https://gameworkers.github.io/zine-gdc-2019/pdfs/gwuzine2019egg.pdf"
   },
   "404_message": "404! Couldn't find that page.",
   "read_the_zine": "Read the Zine!",

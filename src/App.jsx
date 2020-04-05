@@ -1,5 +1,6 @@
 import React from "react";
 import { Root, Routes, Head } from "react-static";
+import { Location } from "@reach/router";
 import i18next from "i18next";
 
 import Header from "./containers/Header";
@@ -12,23 +13,27 @@ import "./app.css";
 import en from "../languages/en.json";
 import fr from "../languages/fr.json";
 
-i18next.init({
-  lng: 'en',
-  resources: {
-    en: {
-      translation: en
-    },
-    fr: {
-      translation: fr
-    }
+class App extends React.PureComponent {
+  constructor(props) {
+    super(props);
+    const languageCode = getLanguageFromPathname(this.props.location.pathname);
+    i18next.init({
+      lng: languageCode,
+      resources: {
+        en: {
+          translation: en
+        },
+        fr: {
+          translation: fr
+        }
+      }
+    });
   }
-});
 
-export default class App extends React.PureComponent {
   render() {
     return (
       <Root>
-        <Head>
+        <Head title={i18next.t("meta.title")}>
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -50,30 +55,23 @@ export default class App extends React.PureComponent {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="#ffffff" />
+          <meta name="description" content={i18next.t("meta.description")} />
+          <meta property="og:title" content={i18next.t("meta.title")} />
+          <meta property="og:description" content={i18next.t("meta.description")} />
         </Head>
-        <Routes>
-          {({ routePath, getComponentForPath }) => {
-            // make sure we have the right language set before
-            // rendering anything that depends on the language selection
-            let pathname = routePath;
-            if (pathname[0] !== '/') {
-              pathname = '/' + pathname;
-            }
-            const languageCode = getLanguageFromPathname(pathname);
-            i18next.changeLanguage(languageCode);
-            const ComponentForRoute = getComponentForPath(routePath);
-
-            return (
-              <React.Fragment>
-                <Header />
-                <div className="container">
-                  <ComponentForRoute />
-                </div>
-              </React.Fragment>
-            );
-          }}
-        </Routes>
+        <Header />
+        <div className="container">
+          <Routes />
+        </div>
       </Root>
     );
   }
+}
+
+export default function AppWithLocation(props) {
+  return (
+    <Location>
+      {locationProps => <App {...props} {...locationProps} />}
+    </Location>
+  );
 }

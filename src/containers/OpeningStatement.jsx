@@ -16,11 +16,7 @@ export default withRouteData(({ openingStatement }) => (
       const languageCode = getLanguageFromPathname(pathname);
       return (
         <React.Fragment>
-          <Head title={i18next.t("site_title")}>
-            <meta property="og:title" content={i18next.t("site_title")} />
-            <meta name="description" content={i18next.t("meta.description")} />
-            <meta property="og:description" content={i18next.t("meta.description")} />
-          </Head>
+          <Head title={i18next.t("site_title")} />
           <div className="intro-container">
             <img
               alt="Isabelle: Unionize!"
