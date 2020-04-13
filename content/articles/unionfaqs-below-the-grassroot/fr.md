@@ -6,7 +6,7 @@ type: unionfaqs
 
 Heureusement, nous n’avons pas besoin de suivre ces règles pour commencer à nous organiser ! Et vous n’avez pas besoin que l’entièreté de votre industrie ou lieu de travail soit prête à s’engager pour commencer à changer les choses pour le mieux. Vous pouvez commencer par parler à vos collègues - en dehors des heures de travail, en privé - à propos des choses que vous souhaiteriez voir s’améliorer. Des organisations de travailleu·se·rs existantes peuvent vous aider à trouver le moyen de vous rallier ensemble et de vous organiser en partant de rien. Et si vous travaillez dans une grande multinationale, les groupes internationaux tels que l’IWW (Industrial Workers of the World) seront peut-être votre meilleure aide pour établir une solidarité au travail, à travers les bureaux et frontières : une des façons dont les syndicats ont été entravés par la loi est en limitant leur existence légale à un seul pays.
 
-<div class="md-img right off-1">
+<div class="md-img off-1">
 <img
   src="/images/faqs/pikmin.png"
 /></div>

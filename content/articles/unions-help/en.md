@@ -21,6 +21,14 @@ unions can help workers in the game industry.
 
 ### Layoffs
 
+<div class="md-img right off-6">
+<img
+  src="/images/pizza.svg"
+  alt="Pizza slice"
+  style="width:35%;"
+/>
+</div>
+
 Most game work is contract or "project"-based, meaning that many game workers
 may find themselves out of a job when projects (even very successful ones) are
 launched. This is already an unhealthy way to work, but on top of that sometimes
@@ -53,12 +61,7 @@ as a "talent pool" that they can sponge people from when they need them, and
 wring people back into when they're no longer needed. But we know that
 **precarity doesn't have to be a condition of working in the industry**.
 
-<div class="md-img right off-2">
-<img
-  src="/images/pizza.svg"
-  alt="Pizza slice"
-/>
-</div>
+
 
 ### Crunch
 
@@ -116,7 +119,7 @@ Netmarble was
 to have "died from a work-related cause" after putting in months of intense
 overtime.
 
-<div class="md-img right off-2">
+<div class="md-img right off-3">
 <img
   src="/images/tiredtoad.png"
   alt="Tired toad"

@@ -10,13 +10,13 @@ Se syndiquer veut aussi dire que vous serez préparé·e·s en cas de changement
 
 > Les nouvelles de la vente de la compagnie ont changé les choses à Mojang. Certain·e·s se sentaient trahi·e·s par la décision de Markus. Le moral a plongé. “Les gens avaient l’impression que leur monde s’effondrait” ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
 
+Il existe beaucoup d’autres histoires non-dites dans la scène indé à propos de personnes ayant rejoint une petite startup et accepté d’être payé moins que ce qu’elles·ils méritaient parce qu’elles·ils croyaient vraiment en le projet — tout ça pour n’avoir rien reçu après que le jeu ait rencontré un succès énorme et que les patrons aient vendu la compagnie pour plusieurs millions.
+
 <div class="md-img right">
 <img
   src="/images/faqs/payyouindie.png"
 />
 </div>
-
-Il existe beaucoup d’autres histoires non-dites dans la scène indé à propos de personnes ayant rejoint une petite startup et accepté d’être payé moins que ce qu’elles·ils méritaient parce qu’elles·ils croyaient vraiment en le projet — tout ça pour n’avoir rien reçu après que le jeu ait rencontré un succès énorme et que les patrons aient vendu la compagnie pour plusieurs millions.
 
 Si le patron de votre petit studio annonce être sympathique à la cause syndicale : excellent ! En tant que travailleu·se·r, vous êtes bien positionné·e pour les aider à traduire leurs paroles en actes. Mais soyez prévenus que leur sympathie risque de s’évaporer dès lors que vous annoncerez vouloir syndiquer votre petit studio indé plutôt qu’une autre compagnie 100 fois plus grosse que vous. Au final, les patrons vont perdre du pouvoir et de l’argent si leur studio se syndique , ce qui — étonnamment ! — rend la perspective peu attrayante à leurs yeux dès lors que l’on parle d’actions concrètes. **C’est dans ces moments qu’il devient très clair à quel point la mentalité du “on est tous amis ici” est superficielle**. En négociant collectivement, vous forcez votre employeur à se confronter aux réalités du travail collaboratif : les limites que vous voulez placer, les droits que vous voulez exercer, les conditions que vous voulez améliorer. Ces sujets ont tendance à être difficiles à aborder par vous-même quand il y a une dynamique de pouvoir inavouée.
 

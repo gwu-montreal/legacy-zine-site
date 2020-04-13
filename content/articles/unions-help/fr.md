@@ -13,6 +13,14 @@ Les sections suivantes expliquent plus précisément par quels moyens les syndic
 
 ### Licenciements
 
+<div class="md-img right off-4">
+<img
+  src="/images/pizza.svg"
+  alt="Pizza slice"
+  style="width:35%;"
+/>
+</div>
+
 La plupart du travail dans le jeu vidéo repose sur des contrats ou “projets”, beaucoup de travailleu·se·rs risquent donc de se retrouver sans emploi lorsque les projets s’achèvent. C’est une façon malsaine de travailler, mais en plus, les travailleu·se·rs sont parfois licencié·e·s sans aucune forme d’avertissement.
 
 Vous ignorez peut-être comment les syndicats peuvent être utiles dans l’éventualité de licenciements collectifs; les suppressions d’emplois, on n’y peut rien, n’est-ce-pas? Détrompez vous. L’une des choses les plus importantes qu’un syndicat puisse accomplir pour un milieu de travail est une **convention collective de travail** (CCT). Une CCT n’est pas la seule technique pour faire des demandes — mais son efficacité est prouvée, et la plupart des CCT apportent une protection pour les travailleu·se·rs contre les licenciements :
@@ -25,12 +33,6 @@ Dans une industrie qui passe souvent à travers des cycles d’embauche et renvo
 
 Les employeurs considèrent souvent la main d’oeuvre qualifiée dans une certaine région de “réserve de talents” dont ils peuvent puiser des gens lorsqu’ils en ont besoin, et les y renvoyer quand ils ne leur sont plus d’aucun usage. Mais nous savons que **la précarité n’a pas à être une des conditions du travail dans l’industrie.**
 
-<div class="md-img right off-2">
-<img
-  src="/images/pizza.svg"
-  alt="Part de pizza"
-/>
-</div>
 
 ### Crunch
 
@@ -57,10 +59,10 @@ Houser semble croire que le crunch est un symbole de dévouement, de passion, qu
 
 Hocking s’en est peut-être bien tiré. En 2016, un développeur de la compagnie Sud Coréenne Netmarble [a été reconnu](https://massivelyop.com/2017/08/04/crunch-mode-caused-a-young-netmarble-game-developers-death-korean-government-says/) “mort d’une cause liée au travail” après plusieurs mois d’overtime.
 
-<div class="md-img right off-2">
+<div class="md-img right off-5">
 <img
   src="/images/tiredtoad.png"
-  alt="Toad fatigué"
+  alt="Tired toad"
 />
 </div>
 

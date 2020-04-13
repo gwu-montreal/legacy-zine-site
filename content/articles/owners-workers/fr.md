@@ -7,6 +7,7 @@ Les vagues récentes de renvois chez Activision-Blizzard et ailleurs ont mis en 
 <img
   src="/images/dangeroustogoalone_organize.png"
   alt="C'est dangereux d'être tout seul ! Syndiquez-vous !"
+    style="width:30%;"
 />
 </div>
 
@@ -44,7 +45,7 @@ Ce n’est pas une question de “bons patrons” contre “mauvais patrons”. 
 
 Les patrons justifient souvent ce traitement en prétextant que quiconque se plaint manque de "passion". Mais les appels dirigés à la passion ne sont qu’une autre stratégie pour en tirer plus de travailleu·se·rs qui souhaitent simplement être en mesure de faire des jeux durablement et améliorer leurs compétences sans faire un burnout. Contrairement aux travailleu·se·rs, **les patrons ne se soucient pas de faire le meilleur jeu possible.** Leur première priorité est de faire de l’argent — et actuellement ce sont eux qui mènent la barque, sans aucune prise de responsabilité envers ceux qui *font véritablement le jeu*.
 
-<div class="md-img right">
+<div class="md-img right off-1">
 <img
   src="/images/turnleft.svg"
   alt="panneau «tournez à gauche»"

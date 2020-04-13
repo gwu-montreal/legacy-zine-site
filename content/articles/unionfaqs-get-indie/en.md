@@ -36,16 +36,16 @@ remain Microsoft employees for another six months.)
 > decision. Morale plummeted. "People felt like the world was coming to an
 > end." ([Source](https://www.wired.com/2015/06/minecraft-book-excerpt/))
 
-<div class="md-img right">
-<img
-  src="/images/faqs/payyouindie.png"
-/>
-</div>
-
 There are many more untold stories in the indie scene of folks who join a small
 startup and accept to be paid less than they're worth because they really
 believe in the project — only to receive nothing after the game makes it big and
 the owners sell out for millions.
+
+<div class="md-img">
+<img
+  src="/images/faqs/payyouindie.png"
+/>
+</div>
 
 If your small studio boss claims to be sympathetic to unions: great! As a
 worker, you're well-positioned to help them put their money where their mouth

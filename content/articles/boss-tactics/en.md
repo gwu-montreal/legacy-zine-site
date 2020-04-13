@@ -126,6 +126,13 @@ openly threatening direct retaliation for unionizing, **the important thing to
 keep in mind is that the goal of these threats is to create fear and compliance
 through intimidation. They usually have no basis in anything concrete**.
 
+<div class="md-img right off-5">
+<img
+  src="/images/PO_Outsourcing.png"
+  alt="Outsourcing"
+/>
+</div>
+
 Bosses lay off workers all the time for no good reason, and unionizing is the
 only way you have to protect yourself from that. Remember that it's always our
 labour that creates value for the business owners, and that they can't get rid
@@ -137,12 +144,7 @@ crosses borders in such a way that there's nowhere for the owners to go —
 emphasizing why it's so important for our organizing efforts to be international
 in nature and in solidarity with fellow workers all around the world!
 
-<div class="md-img">
-<img
-  src="/images/PO_Outsourcing.png"
-  alt="Outsourcing"
-/>
-</div>
+
 
 
 #### The "Guilt Trip"
@@ -201,6 +203,13 @@ the latter — just as a way of demoralizing you by making the point that your
 demands can in fact easily be met, but that it's really about punishing you "on
 principle" for standing up for your rights.
 
+<div class="md-img right off-1">
+<img
+  src="/images/PO_Rat.png"
+  alt="A scab rat."
+/>
+</div>
+
 During the SAG-AFTRA voice actors' strike in 2017, scab voice actor labour was
 notably used — and [roundly
 criticized](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)
@@ -211,9 +220,4 @@ will be important to create a culture where taking a scab contract is treated as
 the despicable, selfish act that it is — and one that harms the scabs themselves
 in the longer term.
 
-<div class="md-img">
-<img
-  src="/images/PO_Rat.png"
-  alt="A scab rat."
-/>
-</div>
+

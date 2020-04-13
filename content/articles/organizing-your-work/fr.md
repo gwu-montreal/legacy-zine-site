@@ -3,13 +3,21 @@ title: "Guide de stratégie: Comment commencer à syndiquer votre lieu de travai
 ---
 Intéressé·e à l’idée de vous organiser avec vos collègues, mais aucune idée de par où commencer? Voici 6 étapes simples qui vous mettront sur la voie pour former un syndicat! **Assurez vous de tenir vos discussions à propos d'un éventuel syndicat loin des oreilles de vos employeurs, même si vous les estimez sympathiques à votre cause**.
 
+<div class="md-img">
+<img
+src="/images/Goomba_01.png"
+alt=""
+style="width:50%;"
+/>
+</div>
 
 1. **Contactez les syndicats et organisations existantes dans votre région** pour obtenir de l’aide, des conseils, et du support. Les chapitres Game Workers Unite, les syndicats industriels et de métiers associés, ainsi que les syndicats de travailleu·ses·rs du jeu vidéo internationaux sont tous d’excellentes ressources pour apprendre à syndiquer votre lieu de travail, et établir des relations augmentera l’efficacité des actions de chaque interlocut·rice·eur à l’avenir. **Si possible, adressez vous à des organisat·rices·eurs expérimenté·e·s ou assistez à une session d’entraînement sur comment organiser des travailleu·se·rs.**
 
 <div class="md-img">
 <img
-src="/images/Goomba_01.png"
+src="/images/Goomba_02.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -17,8 +25,9 @@ alt=""
 
 <div class="md-img">
 <img
-src="/images/Goomba_02.png"
+src="/images/Goomba_03.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -26,8 +35,9 @@ alt=""
 
 <div class="md-img">
 <img
-src="/images/Goomba_03.png"
+src="/images/Goomba_04.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -35,8 +45,9 @@ alt=""
 
 <div class="md-img">
 <img
-src="/images/Goomba_04.png"
+src="/images/Goomba_05.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -44,19 +55,13 @@ alt=""
 
 <div class="md-img">
 <img
-src="/images/Goomba_05.png"
+src="/images/Goomba_06.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
 6. **Poussez vos collègues à devenir eux-mêmes organisat·rice·eurs**. Vous ne pouvez pas tout faire vous-même, donc aidez vos collègues à s'impliquer en déléguant des tâches et en faisant du suivi. Une tâche peut prendre n’importe quelle forme, de la prise de notes durant un meeting, à la conception et l’impression de flyers, ou au recrutement de nouveaux membres. N’oubliez pas d’établir des deadlines et du suivi sur ces tâches, c’est un travail très important, et le faire est très valorisant. Tôt ou tard, vos collègues finiront par suggérer leurs propres tâches et s’autogérer!
-
-<div class="md-img">
-<img
-src="/images/Goomba_06.png"
-alt=""
-/>
-</div>
 
 **Ne rendez votre travail d’organisation public que lorsque vous êtes confiant d’avoir le soutien de la majorité des employé·e·s**, et avez établi un plan concret sur lequel tout le monde est d’accord. Beaucoup se sont fait licencier pour avoir essayé de se syndiquer, donc faites attention à protéger votre vie privée et celle de vos collègues. Dans la plupart des pays, le droit d’un·e travailleu·ses·rs à se syndiquer est protégé par la loi, donc assurez vous de vous informer sur vos droits (les syndicats locaux peuvent aider).
 

@@ -22,9 +22,7 @@ building workplace solidarity across offices and borders: one of the ways unions
 have been hobbled by law is by limiting their legal existence to a single
 country.
 
-<div class="md-img right off-1">
+<div class="md-img off-1">
 <img
   src="/images/faqs/pikmin.png"
 /></div>
-
-

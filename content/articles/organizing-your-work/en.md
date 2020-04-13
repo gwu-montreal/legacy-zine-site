@@ -6,6 +6,13 @@ Here are six simple steps to get you on your way to forming a union! **Make sure
 to keep discussions about the possibility of unionizing away from the ears of
 employers, even if you think they're sympathetic to your cause.**
 
+<div class="md-img">
+<img
+src="/images/Goomba_01.png"
+alt=""
+style="width:50%;"
+/>
+</div>
 
 1. **Reach out to existing unions** and organizations in your area for help,
    advice, and solidarity. [Game Workers Unite
@@ -18,8 +25,9 @@ employers, even if you think they're sympathetic to your cause.**
 
 <div class="md-img">
 <img
-src="/images/Goomba_01.png"
+src="/images/Goomba_02.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -29,11 +37,12 @@ alt=""
    what their problems are. Be supportive and understanding, and help them
    realize they're not alone in these issues. **Don't start talking about unions
    yet!** Start by identifying problems to solve.
-   
+
 <div class="md-img">
 <img
-src="/images/Goomba_02.png"
+src="/images/Goomba_03.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -48,8 +57,9 @@ alt=""
    
 <div class="md-img">
 <img
-src="/images/Goomba_03.png"
+src="/images/Goomba_04.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -63,8 +73,9 @@ alt=""
    
 <div class="md-img">
 <img
-src="/images/Goomba_04.png"
+src="/images/Goomba_05.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -77,8 +88,9 @@ alt=""
    
 <div class="md-img">
 <img
-src="/images/Goomba_05.png"
+src="/images/Goomba_06.png"
 alt=""
+style="width:50%;"
 />
 </div>
 
@@ -89,13 +101,6 @@ alt=""
    themselves. Don't forget to set deadlines and follow up on these tasks; this
    is real and important work, and doing it is empowering. Eventually, your
    coworkers will be suggesting their own tasks and managing themselves!
-   
-<div class="md-img">
-<img
-src="/images/Goomba_06.png"
-alt=""
-/>
-</div>
 
 **Only go public when you're confident you have the backing of the majority of
 your workforce** and you have a concrete plan that everyone has agreed upon.

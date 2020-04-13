@@ -5,13 +5,25 @@ title: Un petit mot de la rédac
 
 Bienvenue dans cette édition survoltée du magazine **Game Workers Unite**. Avant de s’attaquer au gros du sujet, nous pensions prendre un moment pour jeter un oeil aux dénouements de l’année passée, bons et mauvais.
 
-L’édition de l’année précédente avait été écrite en plein durant une avalanche de **licenciements de masse**, et malheureusement, ce genre de chose n’est pas encore de l’histoire ancienne dans notre industrie. Le compte twitter @DaysWithoutLoss, qui compte les jours passés depuis les derniers licenciements dans l’industrie, atteint rarement un mois complet, les compagnies renvoyants sans arrêt leurs employés. En juin 2010, le publisher suédois Starbreeze a mis à la porte un quart du personnel, soit 60 employés, pour couper les coûts. Un mois plus tard, le studio montréalais LuckyHammers a fermé, ce qui a affecté environ 70 employé·es, et Gamestop a suivi en Août en renvoyant 14% du personnel, soit 120 employé·es.
+<div class="md-img">
+<img
+  src="/images/PO_TV.png"
+/>
+</div>
+
+L’édition de l’année précédente avait été écrite en plein durant une avalanche de **licenciements de masse**, et malheureusement, ce genre de chose n’est pas encore de l’histoire ancienne dans notre industrie. Le compte twitter @DaysWithoutLoss, qui compte les jours passés depuis les derniers licenciements dans l’industrie, atteint rarement un mois complet, les compagnies renvoyants sans arrêt leurs employés. En juin 2019, le publisher suédois Starbreeze a mis à la porte un quart du personnel, soit 60 employés, pour couper les coûts. Un mois plus tard, le studio montréalais LuckyHammers a fermé, ce qui a affecté environ 70 employé·es, et Gamestop a suivi en Août en renvoyant 14% du personnel, soit 120 employé·es.
 
 ** discrimination de genre et les violences sexuelles** continuent d’être un problème pressant de l’industrie: Le recours collectif à l’encontre de Riot Games, soumis au nom d’environ 1000 femmes ayant été soumises à du harcèlement ou de la discrimination systémique pendant leur emploi chez Riot, [est toujours en cours](https://www.gamesindustry.biz/articles/2020-01-22-women-suing-riot-games-may-be-entitled-to-usd400m-not-usd10m-says-state-regulator). Pendant ce temps, la scène indie a été secoué par ce qui a fini par être appelé son propre moment #MeToo, avec [plusieurs affaires d’assauts sexuels par des figures réputées révélées au grand jour](https://www.theguardian.com/games/2019/sep/17/gaming-metoo-moment-harassment-women-in-games) - mettant au grand jour non seulement la misogynie mais également comment les **conditions de travail fragiles** créent des dynamiques de pouvoir violentes qui mènent à l’abus des plus vulnérables, et [l’inefficacité de l’industrie à adresser ces écarts de conduite.](http://www.nathalielawhead.com/candybox/what-its-like-sharing-your-metoo-with-kotaku-a-cautionary-tale)
 
 Grâce au courage des travailleu·se·rs qui s’organisent face à ces enjeux, les compagnies commencent à être plus prudentes -  bien que nous soyons encore loin d’un réel changement structurel, beaucoup de petits mouvements dans la bonne direction ont été observés. Suite à la polémique au sujet des conditions de travail durant le développement de Red Dead Redemption, [Rockstar Lincoln a intégré ses sous-traitant·e·s en tant qu’employé·e·s à part entière](https://kotaku.com/months-after-labor-controversy-rockstar-converts-game-1836982746), une étape bienvenue dans la garantie d’une carrière plus stable. **Le Crunch**, pendant ce temps, est devenu un sujet d’actualité de plus en plus dur à écarter pour les employeurs. Les pratiques de travail de notre industrie sont interrogées avec plus d’acuité, qu’il s’agisse des **pratiques de créditing**, de l’effacement du **travail sous-traité**; ou de questions politiques plus larges telles que le rôle de l’industrie dans la **diffusion de propagande militaire** (et les [liens directs de certaines compagnies avec le complexe militaire industriel des USA](https://www.eurogamer.net/articles/2013-02-01-shooters-how-video-games-fund-arms-manufacturers)).
 
 Nous avons eu notre dose de contretemps, mais il y a aussi de nombreuses raisons d’avoir de **l’espoir**.
+
+<div class="md-img">
+<img
+  src="/images/PO_Candle.png"
+/>
+</div>
 
 Depuis l’an dernier, les chapitres GWU ont continué d’apparaître tout autour du monde. Nous avons fait de l’outreach, présenté des workshops et panels sur le droit du travail face à de larges audiences, fait tourner des sondages dans l’industrie, engagé des actions directes en public et en privé contre les patrons abusifs, et formé des comités de travailleu·se·rs pour batîr un **pouvoir collectif entre travailleu·se·rs** et gagner des demandes concrètes.
 GWU UK a célébré sa première année en tant que syndicat officiel, qui a déjà été passée à se battre, à [remporter plusieurs combats pour les travailleu·se·rs de l’industrie](https://twitter.com/GWU_UK/status/1219575597879394305), et à croître leur nombre de membres. GWU Ireland a suivi dans leurs pas, en devenant le second chapitre à former un **syndicat officiel**, en tant que branche du [Financial Services Union (FSU)](https://gwuireland.org/), tandis que le chapitre de Toronto a formé un partenariat officiel avec Communication Workers of America (CWA) pour continuer la syndicalisation des travailleu·se·rs de l’Ontario.

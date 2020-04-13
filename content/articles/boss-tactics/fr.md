@@ -56,14 +56,15 @@ Peut-être plus important encore, bon nombre de travailleu·se·rs de l’indust
 
 Une réplique très courante - souvent internalisée par les employé·e·s - est que si elles·ils se syndiquent, des postes seront supprimés ou sous-traités là où le travail est moins coûteux. Même si votre patron vous assure qu’il est “vraiment désolé”, que c’est “comme ça que ça fonctionne”, ou qu’il vous menace ouvertement de représailles directes en cas de syndicalisation, **il faut garder à l’esprit que ces menaces  visent à créer l’obéissance à travers l’intimidation. Ils n’ont en général aucune base concrète sur laquelle appuyer ces propos.**
 
-Les boss licencient régulièrement des travailleu.se.rs sans aucune bonne raison, et se syndiquer est la seule façon de vous en protéger. Souvenez-vous, c’est notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun·e d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, **relocaliser est une initiative extrêmement coûteuse pour toute entreprise, et n’est pas une décision qui peut être prise simplement pour punir des travailleu.se.rs qui se syndiquent**. C’est d’autant plus vrai si le mouvement de syndicalisation dépasse les frontières, de sorte qu’il n’existe nulle part où aller pour les employeurs - d’où l’importance de donner une ampleur internationale à nos efforts de syndicalisation, en solidarité avec nos camarades travailleu.se.rs tout autour du globe !
-
-<div class="md-img">
+<div class="md-img right off-7">
 <img
   src="/images/PO_Outsourcing.png"
   alt="Outsourcing"
 />
 </div>
+
+Les boss licencient régulièrement des travailleu.se.rs sans aucune bonne raison, et se syndiquer est la seule façon de vous en protéger. Souvenez-vous, c’est notre travail qui crée de la valeur pour les entrepreneurs; nos patrons ne peuvent pas se débarrasser de chacun·e d’entre nous, ou bien ils perdraient la source de leurs revenus. De plus, **relocaliser est une initiative extrêmement coûteuse pour toute entreprise, et n’est pas une décision qui peut être prise simplement pour punir des travailleu.se.rs qui se syndiquent**. C’est d’autant plus vrai si le mouvement de syndicalisation dépasse les frontières, de sorte qu’il n’existe nulle part où aller pour les employeurs - d’où l’importance de donner une ampleur internationale à nos efforts de syndicalisation, en solidarité avec nos camarades travailleu.se.rs tout autour du globe !
+
 
 #### Le “guilt trip”
 
@@ -84,13 +85,15 @@ Un rôle similaire est joué par des organisations d’industrie qui annoncent p
 
 L’un des stratagèmes les plus vicieux qu’un patron puisse employer, **les “briseurs de grèves” sont des gens qui, en tant que travailleu.se.rs eux-mêmes et donc potentiels futurs membres d’un syndicat, reçoivent un traitement de faveur en récompense pour tourner le dos à leurs collègues**. Les briseurs de grèves sont souvent déployés temporairement depuis l’extérieur, de façon à remplacer en urgence les employé·e·s qui essaient de se syndiquer. Les patrons iront parfois même jusqu’à offrir aux briseurs de grèves toutes les demandes que les travailleu.se.rs qui se syndiquent avaient initialement réclamées, tout en continuant de les refuser aux autres - juste afin de vous démoraliser, en démontrant que bien que ces demandes puissent facilement être mises en place, il s’agit surtout de vous punir “pour le principe” d’avoir défendu vos droits.
  
-Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -[et grandement critiqué](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)- dans *Before the Storm*, la préquelle de *Life is Strange*.
-
-Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.
-
-<div class="md-img">
+<div class="md-img right off-1">
 <img
   src="/images/PO_Rat.png"
   alt="Un rat briseur de grève."
 />
 </div>
+ 
+Pendant la grève des doubleu·ses·rs de la SAG-AFTRA en 2017, l’emploi de voice doubleurs briseurs de grèves fut notamment utilisé -[et grandement critiqué](https://waypoint.vice.com/en_us/article/yw55zx/crappy-voice-acting-undercuts-an-otherwise-strong-life-is-strange-prequel)- dans *Before the Storm*, la préquelle de *Life is Strange*.
+
+Afin de travailler vers l’objectif à long-terme d’une industrie du jeu vidéo syndicalisée, il est important de créer une culture où accepter un contrat de briseur·se de grève est véritablement traité comme l’acte méprisable dont il s’agit - un acte qui finit par causer du tort aux briseur·se·s de grève eux-mêmes sur le long terme.
+
+

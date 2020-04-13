@@ -14,6 +14,14 @@ Rockstar Games co-founder Dan Houser on the development of Red Dead Redemption 2
 </a>
 </div>
 
+
+<div class="md-img right off-8">
+<img
+  src="/images/scarecrow.png"
+  alt="Boss brandishing a Gamer Puppet"
+/>
+</div>
+
 There's no real reason why workers and consumers should have different interests
 or be at odds with one another. It sounds absurd when you think about it: many
 workers take a great deal of pride and personal satisfaction from making games
@@ -48,13 +56,6 @@ and [the dismissal of Alison Rapp from Nintendo in
 2016](https://kotaku.com/nintendo-employee-terminated-after-smear-campaign-over-1768100368).
 Look a little closer and you'll discover these aren't isolated cases: in private
 conversation, in whisper networks, **incidents like these are all too common**.
-
-<div class="md-img right off-8">
-<img
-  src="/images/scarecrow.png"
-  alt="Boss brandishing a Gamer Puppet"
-/>
-</div>
 
 Giving in to demands from angry, reactionary gamers is a convenient excuse for
 bosses to get rid of "troublesome" workers — like, say, someone speaking out
@@ -101,13 +102,6 @@ writes](https://rhizome.org/editorial/2018/oct/30/worse-than-scabs-gamer-rager-a
 > the industry's internal workings. That shroud, however, seems to be starting
 > to clear."
 
-<div class="md-img left off-8">
-<img
-  src="/images/gamecube.png"
-  alt="Gamecube"
-/>
-</div>
-
 This tactic was deployed in 2016 when studio owners at Activision, EA, Disney,
 Warner Bros, Take-Two, and others [launched a
 website](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks)
@@ -119,16 +113,21 @@ better transparency, and employment mobility. **In a blatant effort to direct
 fan rage at the workers**, bosses argued that these demands would somehow lead
 to worse games for consumers.
 
+<div class="md-img left off-6">
+<img
+  src="/images/gamecube.png"
+  alt="Gamecube"
+  style="width:60%;"
+/>
+</div>
+
 Executives ultimately answer to shareholders and investors, and thus to the
 profit motive. They'll give in to the cry of a vocal, angry minority of
 perceived fans *even if the consequence in the long-term is a worse game*. We
-can't rely on them to have our backs on this front: **we need to have each
-other's**. The best way to resist harassment — and the summary, mob-driven
+can't rely on them to have our backs on this front: **we need to have each other's**. The best way to resist harassment — and the summary, mob-driven
 firings that so often seem to follow — is by organizing. And if gamers really
-want to see better games, **they should focus their attention on the bosses and
-the conditions employees are forced to work under**, not on individual
+want to see better games, **they should focus their attention on the bosses and the conditions employees are forced to work under**, not on individual
 vulnerable employees that are easily scapegoated. But for this to mean anything,
-**the conversation also needs to go beyond a simplistic call to "vote with your
-dollars"** and to buy more from the "good companies" and less from the bad ones.
+**the conversation also needs to go beyond a simplistic call to "vote with your dollars"** and to buy more from the "good companies" and less from the bad ones.
 Player support for unionization will go much farther towards crafting a better
 industry.
