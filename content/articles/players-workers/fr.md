@@ -45,7 +45,7 @@ Dans son article d'Octobre à ce sujet, "*Worse than Scabs: Gamer Rage as Anti-U
 
 Cette tactique a été déployée en 2016, quand les dirigeants d'Activision, EA, Disney, Warner Bros, Take-Two et d'autres [ont créé un site internet](https://www.polygon.com/2016/10/28/13458724/voice-actors-strike-video-game-website-attacks) et une vidéo ciblant explicitement une audience de gamers, qui diabolisait la SAG-AFTRA, le syndicat dont font partie les act·rice·eurs de doublage. À cette période, les membres du syndicat demandaient notamment de meilleures mesures de sécurité pour combattre la fatigue vocale et les risques associés au tournage des cascades pour la motion capture, une amélioration du système pour les paiements des bonus, une plus grande transparence, et la mobilité de l'emploi. **Dans un effort flagrant de diriger la colère des fans vers les travailleu·se·rs**, les dirigeants avaient argumenté que ces demandes allaient d'une façon ou d'une autre détériorer la qualité des jeux.
 
-<div class="md-img left off-6">
+<div class="md-img left off-9">
 <img
   src="/images/gamecube.png"
   alt="Gamecube"

@@ -129,11 +129,12 @@ Les travailleu·se·rs d’autres industries (comme le cinéma) [se sont battus 
 
 Un avantage évident : **les employé·e·s syndiqué·e·s ont en général des salaires plus élevés que celles et ceux qui ne le sont pas** - entre **15 à 25% de plus**. Avec l’appui d’une force de travail organisée, les négociations collectives sont une manière efficace de garantir que notre travail est payé à sa juste valeur. **Mais les syndicats bénéficient également aux travailleu·se·rs qui n’y appartiennent pas**, en montant les standards pour tout le monde. Par exemple, un·e diplômé·e du secondaire dont le lieu de travail n’est pas syndiqué, mais dont l’industrie est à 25% syndicalisée peut de manière générale s’attendre à [être payé·e davantage](http://www.epi.org/publication/briefingpapers_bp143/)**  que les travailleu·se·rs d’une industrie moins syndicalisée.
  
-<div class="md-img right off-9">
+**Les syndicats permettent aussi de réduire l’inégalité**.  Bien que tous les travailleu·se·rs bénéficient d’avoir une union, celles et ceux qui en bénéficient le plus sont typiquement **les plus marginalisé·e·s ou dans une position précaire**. En plus d’améliorer globalement les conditions de travail pour ces personnes, être solidaire est une excellente façon de [réduire l’inégalité salariale entre les genres](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&).
+
+<div class="md-img off-9">
 <img
   src="/images/betterpay.png"
-  alt="Une Meilleure Paie"
+  alt="Better Pay"
 />
 </div>
- 
-**Les syndicats permettent aussi de réduire l’inégalité**.  Bien que tous les travailleu·se·rs bénéficient d’avoir une union, celles et ceux qui en bénéficient le plus sont typiquement **les plus marginalisé·e·s ou dans une position précaire**. En plus d’améliorer globalement les conditions de travail pour ces personnes, être solidaire est une excellente façon de [réduire l’inégalité salariale entre les genres](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&).
+

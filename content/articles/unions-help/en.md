@@ -276,16 +276,17 @@ industry that's 25% unionized overall **can still [expect to be paid
 more](http://www.epi.org/publication/briefingpapers_bp143/)** than similar
 workers in less unionized industries.
 
-<div class="md-img right off-9">
-<img
-  src="/images/betterpay.png"
-  alt="Better Pay"
-/>
-</div>
-
 **Unions can also help reduce inequality**. While all workers benefit from
 having unions, those who benefit the most are typically the people who are the
 **most disempowered or in the most precarious positions**. On top of improving
 general working conditions for these folks, it also turns out solidarity is a
 great way to [cut down the gendered pay
 gap](https://journals.sagepub.com/doi/abs/10.1177/0730888401028004005?journalCode=woxb&).
+
+<div class="md-img off-9">
+<img
+  src="/images/betterpay.png"
+  alt="Better Pay"
+/>
+</div>
+
