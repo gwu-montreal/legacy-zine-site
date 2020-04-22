@@ -6,20 +6,14 @@
 .downloadzines-container {
   display: flex;
   justify-content: space-around;
-  flex-wrap: wrap;
+  align-items: center;
+  max-width: 450px;
+  margin: auto;
 }
 
-.downloadzines-notes {
-  font-size: 80%;
-}
-
-.downloadzines-notes > * {
-  display: inline-block;
-}
-
-.downloadzines-notes > :not(:last-child)::after {
-  margin: 0 10px;
-  content: "·";
+.downloadzines-info {
+  display: flex;
+  align-items: center;
 }
 
 .gwu-intl-image {

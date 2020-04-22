@@ -9,15 +9,15 @@
   "header_title": "GDC 2019 Zine",
   "unionfaqs_prefix": "UnionFAQs:",
   "unionfaqs_title": "UnionFAQs",
-  "download_zine": "Download the Zine!",
   "download_zine_waluigi": "Download the Zine! (Waluigi cover by @pioldes)",
   "download_zine_isabelle": "Download the Zine! (Isabelle cover)",
   "download_zine_unionize": "Download the Zine! (Unionize! cover)",
   "download_zine_egg": "Download the Zine! (Egg cover by @mushbuh)",
   "four_cover_variants": "Choose from the four cover variants!",
-  "print_and_share": "Print and share with your coworkers and friends!",
-  "references_page": "References page",
+  "download_zine": "Download the printable PDF version to share with your coworkers and friends!",
+  "references_page": "Links and references for the print version",
   "printing_hints": "Printing hints",
+  "older_versions": "Previous editions",
   "gwu_international": "Game Workers Unite International",
   "find_local_chapter": "Find your local chapter and get involved!"
 }
