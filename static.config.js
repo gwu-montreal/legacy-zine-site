@@ -42,7 +42,8 @@ export default {
     const {
       "opening-statement": openingStatement,
       endnotes,
-      "how-to-print": howToPrint
+      "how-to-print": howToPrint,
+      "older-versions": olderVersions
     } = extradata;
 
     const articlesByOriginalArticleName = {};
@@ -168,6 +169,23 @@ export default {
       component: "src/containers/Redirect",
       getData: () => ({
         redirectPath: "/en/how-to-print"
+      })
+    });
+
+    Object.entries(olderVersions).forEach(([language, data]) => {
+      routes.push({
+        path: `/${language}/older-versions`,
+        component: "src/containers/Article",
+        getData: () => ({
+          ...data
+        }),
+      });
+    });
+    routes.push({
+      path: "/older-versions",
+      component: "src/containers/Redirect",
+      getData: () => ({
+        redirectPath: "/en/older-versions"
       })
     });
 
