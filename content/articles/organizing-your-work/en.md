@@ -10,7 +10,7 @@ employers, even if you think they're sympathetic to your cause.**
 <img
 src="/images/Goomba_01.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 
@@ -27,7 +27,7 @@ style="width:50%;"
 <img
 src="/images/Goomba_02.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 
@@ -42,7 +42,7 @@ style="width:50%;"
 <img
 src="/images/Goomba_03.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 
@@ -59,7 +59,7 @@ style="width:50%;"
 <img
 src="/images/Goomba_04.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 
@@ -75,7 +75,7 @@ style="width:50%;"
 <img
 src="/images/Goomba_05.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 
@@ -90,7 +90,7 @@ style="width:50%;"
 <img
 src="/images/Goomba_06.png"
 alt=""
-style="width:50%;"
+style="width:340px;max-width:100%;"
 />
 </div>
 

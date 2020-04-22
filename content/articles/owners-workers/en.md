@@ -16,7 +16,7 @@ structured, where the profits go, and where decision-making power actually lies.
 <img
   src="/images/dangeroustogoalone_organize.png"
   alt="It's dangerous to go alone! Organize!"
-  style="width:30%;"
+  style="width:200px;max-width:100%"
 />
 </div>
 

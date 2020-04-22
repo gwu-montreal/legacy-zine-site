@@ -17,7 +17,7 @@ Les sections suivantes expliquent plus précisément par quels moyens les syndic
 <img
   src="/images/pizza.svg"
   alt="Pizza slice"
-  style="width:35%;"
+  style="width:240px;max-width:100%;"
 />
 </div>
 

@@ -25,7 +25,7 @@ unions can help workers in the game industry.
 <img
   src="/images/pizza.svg"
   alt="Pizza slice"
-  style="width:35%;"
+  style="width:240px;max-width:100%;"
 />
 </div>
 

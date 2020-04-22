@@ -113,11 +113,14 @@ better transparency, and employment mobility. **In a blatant effort to direct
 fan rage at the workers**, bosses argued that these demands would somehow lead
 to worse games for consumers.
 
-<div class="md-img left off-6">
+<div class="md-img right off-4">
 <img
   src="/images/gamecube.png"
   alt="Gamecube"
-  style="width:60%;"
+  style="
+    shape-outside:polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    margin-right:-2rem;
+  "
 />
 </div>
 

@@ -7,7 +7,7 @@ Les vagues récentes de renvois chez Activision-Blizzard et ailleurs ont mis en 
 <img
   src="/images/dangeroustogoalone_organize.png"
   alt="C'est dangereux d'être tout seul ! Syndiquez-vous !"
-    style="width:30%;"
+    style="width:200px;max-width:100%;"
 />
 </div>
 
