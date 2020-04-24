@@ -1,5 +1,5 @@
 ---
-title: Previous Zine Editions (2019)
+title: Précédentes éditions du Zine (2019)
 ---
 
 Choisissez l'une des 4 variantes de couvertures! Imprimez et partagez le zine avec vos collègues et ami·e·s!
