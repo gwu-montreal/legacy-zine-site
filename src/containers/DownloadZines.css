@@ -1,14 +1,18 @@
 .downloadzines-cover {
   max-width: 160px;
-  margin: 0 0.5rem 1rem;
+  margin: 0 1rem 0 0.5rem;
 }
 
 .downloadzines-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  max-width: 450px;
-  margin: auto;
+  max-width: 470px;
+  padding: 10px;
+  margin: 0 auto 1rem;
+  border-radius: 5px;
+  background-color: rgb(246, 246, 255);
+  box-shadow: 0 0 1px rgb(0, 0, 255);
 }
 
 .downloadzines-info {
